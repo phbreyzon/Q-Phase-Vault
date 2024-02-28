@@ -28,6 +28,7 @@
 ***
 
 ![[misc/Media/IMG_1417.jpeg| page 2]]
+
 ![[misc/Media/IMG_1418.jpeg| page 3]]
 
 
