@@ -26,4 +26,4 @@ Spezifisch bei Woyzeck sind diese Hindernisse in verschiedene Hinsichten erkennb
 - **Psychischer Ebene:** Woyzeck leidet im Verlauf des Dramas an Halluzinationen und durch seine Beziehung zu Andres, die scheint als ob sie bereits lange andauert, könnte man schlussfolgern, dass sein psychischer Sonderzustand ihn schon lange begleitet und ein Grund sein kann, wieso er sich in seiner momentanen Lage befindet. 
 
 > Textgrundlage: 
-> ![[../../../misc/Media/WIN_20240130_11_01_27_Scan.jpg|WIN_20240130_11_01_27_Scan]]
+> 

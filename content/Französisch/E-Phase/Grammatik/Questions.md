@@ -13,7 +13,7 @@ Comment vous trouvez ma robbe?
 Pourquoi est-ce que Papa travaille le dimanche?
 Pourquoi papa travaille-t-il le dimanche?
 
-![[misc/attachments/Pasted image 20230119135645.png|misc/attachments/Pasted image 20230119135645.png]]
+
 
 - Qui est-ce que tu as attendu? !!! (Werden nie in anderen Formen übersetzt)
 

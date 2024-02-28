@@ -1,1 +1,0 @@
-![[../../../../misc/Media/5. Antisemitismus.pdf|5. Antisemitismus]]
