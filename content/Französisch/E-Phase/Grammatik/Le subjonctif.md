@@ -4,7 +4,7 @@
  - Objektpronomen stehen vor der konjugierten Verbform.
  - Ausnahme: Bei Infinitivkonstruktionen vor dem Infinitiv.
 
-![[../attachments/Recording 20221201143118.webm|Recording 20221201143118.webm]]
+![[misc/Recording 20221201143118.webm|misc/Recording 20221201143118.webm]]
 
 #### Achtung:
 - Geht ein direktes Objektpronomen voraus, wird das Participe-passé trotz avoir angeglichen.
@@ -44,6 +44,6 @@
 	- la vue.
 	- On est plus protegé sur le cocon.
 ****
-![[../attachments/WIN_20221215_14_01_03_Scan.jpg|attachments/WIN_20221215_14_01_03_Scan.jpg]]
+![[misc/attachments/WIN_20221215_14_01_03_Scan.jpg|misc/attachments/WIN_20221215_14_01_03_Scan.jpg]]
 
-![[../attachments/WIN_20221215_14_00_07_Scan.jpg|attachments/WIN_20221215_14_00_07_Scan.jpg]]
+![[misc/attachments/WIN_20221215_14_00_07_Scan.jpg|misc/attachments/WIN_20221215_14_00_07_Scan.jpg]]
