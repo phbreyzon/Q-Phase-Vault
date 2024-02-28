@@ -71,3 +71,11 @@ c) The five life-changing technologies are:
 | net increase in safe rewarding job     |                                    |
 |                                        |                                    |
 
+
+
+### Nr.3 
+
+
+
+### Nr.4 
+
