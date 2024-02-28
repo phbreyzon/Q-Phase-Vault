@@ -1,19 +1,26 @@
-Die Reichsverfassung des Deutschen Kaiserreichs von 1871 ist eine Verfassung, **die** sowohl fortschrittliche als auch konservative Elemente dieser Zeit vereint. Sie spiegelt die politische Struktur und Machtverhältnisse des Kaiserreichs wi**e**der, das zwischen Monarchie und Demokratie balancierte.
-
-Der Kaiser ist das Oberhaupt des Staates und hat umfassende Befehlsgewalt über Armee und Marine sowie die Entscheidungsbefugnis in Kriegs- und Friedensangelegenheiten. Dadurch behält er eine starke monarchische Autorität.
-
-Der Reichskanzler, der auch Ministerpräsident von Preußen ist, ist dem Kaiser verantwortlich und bestimmt zusammen mit ihm die politischen Richtlinien. Diese Praxis stärkt die Dominanz Preußens innerhalb des Reiches und die der Exekutivmacht. Durch die Möglichkeit, mit Zustimmung des Kaisers den Reichstag aufzulösen, kann der Reichskanzler gegen widerstrebende Mehrheiten im Parlament vorgehen und somit die parlamentarische Macht einschränken.
-
-Der Reichstag hingegen ist als frei gewählte Volksvertretung das demokratische Gegengewicht zur Exekutivmacht. Das Wahlrecht ist im Vergleich zu den Verfassungen der Einzelstaaten fortschrittlich und gilt für alle männlichen Deutschen über 25 Jahre**n**. Allerdings fehlt das Frauenwahlrecht, was auf begrenzte demokratische Rechte und die gesellschaftliche Ordnung hinweist. Der Reichstag kann durch Petitionen und parlamentarische Anfragen Einfluss nehmen, aber wichtige Bereiche wie Militär und Außenpolitik liegen außerhalb seiner Zuständigkeit. Es besteht also eine Spannung zwischen der demokratischen Struktur und den tatsächlichen Machtträgern.
-
-Die Gesetzgebung erfordert die Zusammenarbeit von Kaiser, Bundesrat und Reichstag, was auf ein System der **“checks and balances”** hinweist. Dennoch zeigt die Reichsverfassung, dass die tatsächliche Machtverteilung ungleich ist und der Kaiser und der Bundesrat, in dem die Einzelstaaten vertreten sind, mehr Einfluss haben. Der Reichstag hat jedoch die **Entscheidung über die** Gesetze und den Haushalt, was ihm eine gewisse Kontrollmacht verleiht.
-
-Der Reichstag spielt eine wichtige Rolle bei der Schaffung von Reichsgesetzen, wie dem Bürgerlichen Gesetzbuch von 1900, und der Gestaltung der Reichsinstitutionen. Dadurch kann das Parlament trotz der Einschränkungen in anderen Bereichen auf die Entwicklung des Reiches Einfluss nehmen.
-
-Zusammenfassend spiegelt die Reichsverfassung des Deutschen Kaiserreichs die Spannung zwischen Monarchie und Demokratie wi**e**der. Sie ermöglicht eine gewisse parlamentarische Mitwirkung, obwohl die Macht größtenteils beim Kaiser und der Exekutive liegt. Die Verfassung erlaubt einen gewissen politischen Pluralismus, weist aber auch deutliche Mängel in Bezug auf die tatsächliche demokratische Partizipation und Machtverteilung auf.   
+![[misc/Media/Pasted image 20231122193813.png|misc/Media/Pasted image 20231122193813.png]]
 
 
 
-**passt fast :)  Korrigiert von Laura**   
+## Die Machtverhältnisse 
 
-Hallihallo Paolo, dein Text beinhaltet insgesamt gute Aspekte und Argumente aber du hast weder einen klaren Aufbau noch ein klares Fazit, daher hättest du in einer Klausur für diesen Operator nur wenige Punkte erhalten. Achte beim näc hsten mal darauf nicht nur dein Wissen zu konzentrieren, sondern auch vor allem die gegebene Punkte des Operators auszuführen und in deinen Text einzubauen bzw. ihn nach Operator zu strukturieren. 
+- Der Kaiser hatte ein **aufschiebendes Vetorecht** d.h. der Kaiser konnte Gesetzesvorschläge des *Reichstags* blockieren oder verzögern. Außerdem hat dieser das Recht, das **Volkshaus**, also das Parlament aus Abgeordneten pro 50,0000 Einwohnern, aufzulösen. Somit hatten gesellschaftliche Schichte, die sonst in den anderen Parlamenten unterrepräsentiert waren, keine Repräsentation, im Falle einer Auflösung.
+
+- Das Staatenhaus und das Volkshaus bildeten **den Reichstag**. Das Staatenhaus bestand aus je zur Hälfte von **Landesregierungen** und zur Hälfte von **Landtage**, wobei der Landtag gemäß dem Wahlrecht des jeweiligen Landes von dem wahlberechtigten Volk gewählt wurde. 
+  
+- Wahlberechtigte Bürger **(Einführung des allgemeines Wahlrecht)** waren ausschließlich alle Männer über 25 Jahren. Dieses Wahlrecht sieht allgemeine, gleiche sowie geheime Wahlen vor. Frauen waren nicht vertreten worden.  
+  
+- Es gab eine Gewaltenteilung, welches vorsah, dass die Reichsregierung vom Reichstag, also der demokratisch gewählten Institution bestehend aus **Staatenhaus und Volkshaus**, kontrolliert wird. Dabei wird die Reichsregierung vom Kaiser ernannt und entlassen. 
+
+- Ein unabhängiges Reichsgericht stellte die Judikative Gewalt dar, wobei die Richter vom Kaiser selbst auf lebenslanger Amtszeit vom Kaiser ernannt wurden. 
+
+## Die beschlossene Verfassung 
+
+Nach langen Kontroversen Debatten in der Paulskirche entstand im *März 1849* erstmals eine vom Volk ausgehende Verfassung, die **drei wesentliche Bereiche** regelte: 
+
+- Die Garantie der *bereits am 27. Dezember 1848* beschlossene Grundrechte, wo unter anderem die Presse- und Meinungsfreiheit, die Freiheit von Forschung und Lehre, Versammlungsfreiheit sowie die Glaubens- und Gewissensfreiheit garantiert wurden. 
+  Gleichheitsrechte sorgten für eine Vergabe der Ämter nach Kompetenz. Die Kirchenaufsicht war auf dem Religionsunterricht beschränkt worden. Aufhebung der Ständegesellschaft bzw. Aufhebung der *Gutsuntertänigkeit* sowie der *Hörigkeit* für Bauern. Ein Recht auf Arbeit wurde abgelehnt.
+
+- Mehrheitlich wurde für die *„kleindeutsche Lösung“* im Parlament gewählt, was mit der Trennung von Deutsch-Österreichern bzw. dem gesamten Kaiserreich Österreich-Ungarn zu dem neuen Einheitsstaat verbunden war. 
+
+- Die Staatsform solle eine *konstitutionelle Monarchie* werden. Die Kaiserwürde sollte erblich sein, um einen möglichen Wechsel im Herrscherhaus zu vermeiden. Zudem wählten die Abgeordneten den preußischen König *Friedrich Wilhelm IV* zum ersten „Kaiser der Deutschen“.
