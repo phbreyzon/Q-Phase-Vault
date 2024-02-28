@@ -20,7 +20,7 @@
 
 
  Das Gesamte Modell von Sprache
-![[./Kommunikationsmodell|Das Modell der Sprache]]
+![[misc/Kommunikationsmodell|Das Modell der Sprache]]
 
 ## Können Tiere Denken?
 
