@@ -1,4 +1,4 @@
-
+[[../../../misc/Media/Markt und Preisbildung SuS.pdf|ziehe Arbeitsauftrag]]
 
 ##### Nr.1 
 - Jeans Markt → polypol (Änderungen des Preis wirkt sich nicht auf de Konkurrenz)
@@ -18,11 +18,11 @@ Der Bäcker im Vorort hat deshalb einen monopolistische Preisspielraum, weil sei
 - **Allokationsfunktion:** Bei einem hohen Kaffeepreis wird seitens der Produzenten  wird expandiert, denn damit lassen sich die höchsten gewinne erzielen
 ##### Nr.2 
 
+![[../../../misc/Media/Einstieg 2024-02-22 12.50.11.svg|Einstieg 2024-02-22 12.50.11.excalidraw]]
 
+![[../../../misc/Media/Pasted image 20240222141221.png|Pasted image 20240222141221]]
 
-
-
-
+![[../../../misc/Media/WIN_20240222_13_32_59_Scan.jpg|WIN_20240222_13_32_59_Scan]]
 
 
 1. Kauf des Fernsehers:

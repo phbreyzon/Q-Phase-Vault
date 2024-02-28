@@ -3,7 +3,7 @@ quickshare-date: 2023-12-04 17:54:17
 quickshare-url: https://noteshare.space/note/clpr5iri9626701mwq6xcf9pp#S92neIzoYGilSES4FeEmVYVTcKtHYFh0isc1oxsHBzk
 ---
 
-
+![[../../../misc/Media/Pasted image 20231202181730.png|Pasted image 20231202181730]]
 #### Grundrechten 
 
 Sind universell bzw. für alle Menschen gleichgeltend und von jeglichen staatlichen Reglungen unabhängig. Dabei ist die höchste Norm der Grundrechte, die Menschenwürde aus der sich alle anderen Grundrechten ableiten lassen. Dieser wird gleichzeitig als den **Staatsfundamentalnorm** bezeichnet 

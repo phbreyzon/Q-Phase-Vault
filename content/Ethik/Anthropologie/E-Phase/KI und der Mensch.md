@@ -6,7 +6,7 @@ Philosophie E-Phase (Hohmann)
 Was ist der Mensch? – Einführung in die philosophische Anthropologie
 ***
 
-![](../../../Aspose.Words.a83ed5ee-2a1e-4067-b1d2-28352a618d27.002.jpeg)
+![](../../../misc/Media/Aspose.Words.a83ed5ee-2a1e-4067-b1d2-28352a618d27.002.jpeg)
 
 **Nichts an diesem Bild ist Realität – noch nicht: Zwei künstliche Intelligenzen philosophieren in klassischen Posen darüber, wohin sie die technische Entwicklung geführt hat. (Bild: IMAGO IMAGES)**
 
