@@ -9,6 +9,9 @@ The atmoshpere
 The lyrical I 
 - confussed 
 - uncertain
+
+***
+
 #### Write one parapgrah answering the question “why school shooting happen according to the song” don’t forget to start your paragraph with a topic sentence
 
 The song, youth of the Nation, deals with school shootings in the united states and indirectly gives insight on potential reasons why school shootings happen in the first place. 
