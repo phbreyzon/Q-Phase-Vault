@@ -1,6 +1,8 @@
-
-- [ ] Integralfunktion
-- [x] Rotationskörper
-- [ ] Flächen zwischen Graphen ermitteln
-- [x] uneigentliche Integrale 
-- [x] Formansatz zur Ermittlung der Stammfunktion
+- [x] Die Revolution 1848
+	- [x] Voraussetzungen 
+	- [x] Entwicklung 
+	- [x] Das Parlament
+- [x] Kaisserreichsverfassung + Staatsaufbau
+- [x] Die Grundrechte im Detail
+- [x] Das Scheitern der Revolution 
+- [x] Karikaturanalyse 
