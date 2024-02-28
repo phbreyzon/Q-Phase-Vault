@@ -1,5 +1,0 @@
-- Wirtschaft
-- Grundbegriffe (Marktformen) 
-	- Keine Diagram 
-	- Wirtschaftskreislauf 
-	- Wissen aus [[./Wirtschaftswachstum|Wirtschaftswachstum]] anwenden können 
