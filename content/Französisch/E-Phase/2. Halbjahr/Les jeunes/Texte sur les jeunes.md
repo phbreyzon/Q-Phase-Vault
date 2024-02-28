@@ -1,9 +1,9 @@
-![WIN_20230213_08_39_36_Scan.jpg](attachments/WIN_20230213_08_39_36_Scan.jpg)
-![Pasted image 20230213090411.png](attachments/Pasted%20image%2020230213090411.png)
+![[attachments/WIN_20230213_08_39_36_Scan.jpg|attachments/WIN_20230213_08_39_36_Scan.jpg]]
+![[attachments/Pasted image 20230213090411.png|attachments/Pasted image 20230213090411.png]]
 Ainsi que
 ***
 
-![Pasted image 20230216140503.png](attachments/Pasted%20image%2020230216140503.png)
+![[attachments/Pasted image 20230216140503.png|attachments/Pasted image 20230216140503.png]]
 ### Nr.1
 a) les jeunes qui sont <mark style="background: #FF5582A6;">nés</mark> après 1995
 b) 
@@ -25,7 +25,7 @@ Je pense que je reconnais tous les points de la réalité, sauf l'équilibre ent
 
 C'est quelqu'un qui généralement utilise plutôt les outils numériques et qui ne connais pas une vie sans ces outils.
 
-![WIN_20230227_08_43_26_Scan.jpg](attachments/WIN_20230227_08_43_26_Scan.jpg)
+![[attachments/WIN_20230227_08_43_26_Scan.jpg|attachments/WIN_20230227_08_43_26_Scan.jpg]]
 ## Nr.3
 
 a) la musique et le sport.
