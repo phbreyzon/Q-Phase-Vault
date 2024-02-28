@@ -17,9 +17,35 @@ concurrency:
 
  
 jobs:
+  update-wikilinks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install markdown pathlib
+
+      - name: Convert Wikilinks
+        run: python ./scripts/convert_wikilinks.py
+
+      - name: Commit and Push Changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'Update wikilinks to absolute paths'
+          add: 'content/**/*.md'
        
 
   build:
+    needs: update-wikilinks
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
