@@ -1,4 +1,0 @@
-- Ober-/ Untersumme
-- Definition der Stammfunktion
-- Berechnung des Integralwert / -Fläche mit Hilfe der Stammfunktion
-- Integralfunktion
