@@ -43,6 +43,7 @@ share: true
 | Q3.4 Hypothesentests (für binomialverteilte Zufallsgrößen)                   |
 | Q3.5 Prognose- und Konfidenzintervalle (für binomialverteilte Zufallsgrößen) |
 
+
 ### Q1
 1. Analysis Teil 2
 2. Integralrechnung
