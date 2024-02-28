@@ -1,6 +1,3 @@
----
-title: Themen der Arbeit 2
----
 - [x] [[misc/Alkene als ungesättigte Kohlenwasserstoffe|misc/Alkene als ungesättigte Kohlenwasserstoffe]] mit Doppelbindung, homologe Reihe, Nomenklatur (benennen und zeichnen) 
 - [x] [[misc/Alkene/Struktur|misc/Alkene/Struktur]] (Bindungswinkel, Doppelbindung, räumliche Ausrichtung, was bedeutet die Doppelbindung für die freie Drehbarkeit bei den Kohlenwasserstoffen?) 232
 - [x] [[misc/CIS-TRANS Isomerie|misc/CIS-TRANS Isomerie]] 233
