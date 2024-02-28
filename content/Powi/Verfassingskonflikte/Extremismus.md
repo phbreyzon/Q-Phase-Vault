@@ -2,10 +2,10 @@ Extramismus ist eine Einstellung, die von einer starken Ablehnung oder Bekämpfu
 
 ### [[misc/Wehrhafte Demokratie|misc/Wehrhafte Demokratie]]
 
+![[misc/Media/WIN_20231121_08_48_52_Scan.jpg|misc/Media/WIN_20231121_08_48_52_Scan.jpg]]
 
 
-
-
+![[misc/Media/WIN_20231121_08_49_32_Scan.jpg|misc/Media/WIN_20231121_08_49_32_Scan.jpg]]
 
 
 Prizipien:
