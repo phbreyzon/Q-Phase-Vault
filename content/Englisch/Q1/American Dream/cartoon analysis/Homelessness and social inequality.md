@@ -1,4 +1,4 @@
-
+![[../../../../misc/Media/Cartoon_homelessness.jpg|Cartoon_homelessness]]
 
 ### 1. What view does the author take on inequality and social mobility in the US?
 
