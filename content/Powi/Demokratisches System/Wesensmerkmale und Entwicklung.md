@@ -10,11 +10,11 @@
 
 ## Parteientwicklung in der Gesellschaft
 
-![[../../misc/Media/2023_10_21 11_22 Office Lens.jpg|2023_10_21 11_22 Office Lens]]
+
 
 Es lässt sich beobachten, dass die größten Parteien (CDU und SPD) zwar zahlenmäßig an Mitgliedern den anderen Parteien gegenüber noch überlegen sind, jedoch nimmt die Zahl der Mitglieder insgesamt seht stark ab. Im Vergleich zum Jahr 1990 hat sich die Anzahl der Parteienmitgliedern mehr als halbiert bei der SPD. Die anderen kleinen Parteien erlebten einen vergleichbaren Trend, der aber nicht so dramatisch wie bei den großen Parteien ist. Das alles deutet auf eine immer weniger werdende politische Beteiligung der Bürger hin. 
 
-![[../../misc/Media/2023_10_21 11_33 Office Lens.jpg|2023_10_21 11_33 Office Lens]]
+
 
 Zudem lässt sich beobachten, dass die Jungen Leute sich überwiegend auf relativ passiver Art sich politisch beteiligen statt radikal zu handeln. 
 Außerdem lässt sich aus einer anderen Statistik raus lesen, dass das (Starke) Interesse an Politik bei Jungen Leute drastisch abnimmt, doch in der letzten Zeit zugenommen hat. 
