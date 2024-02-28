@@ -1,1 +1,1 @@
-![../../../../misc/Media/5. Antisemitismus.pdf](../../../../../docs/images/5.%20Antisemitismus.pdf)
+![[../../../../misc/Media/5. Antisemitismus.pdf|../../../../misc/Media/5. Antisemitismus.pdf]]
