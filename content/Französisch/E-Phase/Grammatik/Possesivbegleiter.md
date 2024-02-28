@@ -10,7 +10,7 @@
 8. Il ne répond pas à la question.
 9. Les animaux respectent le lion et le flattent.
 
-![[../attachments/Pasted image 20221208141300.png|attachments/Pasted image 20221208141300.png]]
+![attachments/Pasted image 20221208141300.png](../../../../docs/images/Pasted%20image%2020221208141300.png)
 
 - J'écoute le prof.
 - Tu téléphones au voisin.
@@ -22,9 +22,9 @@
 # Regeln
 
 
-![[../attachments/Pasted image 20221215163719.png|attachments/Pasted image 20221215163719.png]]
-![[../attachments/Pasted image 20221215164053.png|attachments/Pasted image 20221215164053.png]]
+![attachments/Pasted image 20221215163719.png](../../../../docs/images/Pasted%20image%2020221215163719.png)
+![attachments/Pasted image 20221215164053.png](../../../../docs/images/Pasted%20image%2020221215164053.png)
 ****
 # Übungen
 
-![[../attachments/WIN_20221215_13_59_41_Scan.jpg|attachments/WIN_20221215_13_59_41_Scan.jpg]]
+![attachments/WIN_20221215_13_59_41_Scan.jpg](../../../../docs/images/WIN_20221215_13_59_41_Scan.jpg)
