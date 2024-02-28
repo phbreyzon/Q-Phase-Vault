@@ -16,5 +16,4 @@ Owning and carrying guns are garanteed by the second amendment
 
 ![[../../../misc/Media/Pasted image 20240214103426.png|Pasted image 20240214103426]]
 
-
 ![[../../../misc/Media/Pasted image 20240214103445.png|Pasted image 20240214103445]]
