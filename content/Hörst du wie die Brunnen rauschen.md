@@ -1,2 +1,0 @@
-In dem Gedicht “Hörst du wie die Brunnen rauschen” von Clemens Brentano welches der literarischen Epoche der Romantik zuzuordnen ist, ist das lyrische Ich fasziniert von dem Rauschen der Natur und begibt sich in einer Traumwelt wo er selig fliegt und Glück findet, die er dann in die Realität mitnimmt. Dabei kann das Gedicht möglicherweise als Ausdruck der Schönheit der Träume interpretiert werden, welches ein typisches romantisches Motiv ist.
-
