@@ -8,7 +8,7 @@ Ein Graph beschreibt außerdem wie viele Kanten an einem Knoten anliegen.
 > Bei einem gerichtetem Graphen muss man außerdem zwischen Eingangs- und Ausganskante unterscheiden.
 
 Ein markierter Graph enthält noch zusätzliche Informationen an den Kanten, welches als die Kosten einer Kante bezeichnet werden.
-![Graph](../../../../docs/images/Graph.canvas.md)
+![[../../../misc/Media/Graph.canvas|Graph]]
 
 Graphen können gerichtet sein, oder ungerichtet sein. Die Richtung wird durch ein Pfeil gekennzeichnet.
 
