@@ -1,4 +1,4 @@
-![[../../../../misc/Media/IMG_0086.jpeg|../../../../misc/Media/IMG_0086.jpeg]]
+![../../../../misc/Media/IMG_0086.jpeg](../../../../../docs/images/IMG_0086.jpeg)
 
 The cartoon published by Steven Breen on the 2nd November 2020 at the San Diego-Union Tribune is a coloured digitally drawn cartoon that deals with the presidential elections in the United States. In more detail about the two most popular candidates, namely being Joe Biden the candidate of the Democratic Party and Donald Trump for the Republicans, and the decisions Americans faced at the time.
 
