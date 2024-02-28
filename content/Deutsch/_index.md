@@ -1,6 +1,3 @@
----
-title: Deutsch
----
 # Relevante Literaturepochen
 
 - [[misc/#Aufklärung (1720 - 1790)|Aufklärung (1720 - 1790)]]
