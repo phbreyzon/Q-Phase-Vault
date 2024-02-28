@@ -1,6 +1,3 @@
----
-title: Paris
----
 # La Tour Eiffel
 - c' était construite pour l'Exposition Universelle de paris 1889.
 - Et depuis devenue le symbole de la capitale et de la France entière. 
