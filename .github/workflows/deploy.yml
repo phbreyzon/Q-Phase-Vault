@@ -6,7 +6,7 @@ on:
       - v4
  
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
  
@@ -56,6 +56,13 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           path: public
+      - name: Commit and Push Changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'Update wikilinks to absolute paths'
+          add: 'content/**/*.md'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
  
   deploy:
     needs: build
