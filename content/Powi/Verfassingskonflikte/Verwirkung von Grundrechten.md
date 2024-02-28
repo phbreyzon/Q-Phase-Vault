@@ -1,4 +1,4 @@
-![[../../../misc/Media/Pasted image 20231124185727.png|Pasted image 20231124185727]]
+
 ### B5
 #### Erster Text 
 Artikel **18 des GG** ermöglicht es, die Grundrechte von jemanden zu verwirken. Dabei müsse eine Verletzung der Meinungsäußerung, Versammlungsfreiheit, Vereinigungsfreiheit, Brief- post- und Fernmeldegeheimnis, das Recht auf Eigentum oder auf das Recht auf Asyl. Das Bundesverfassungsgericht hat die Entscheidungsmacht über eine Verwirkung der Grundrechte, doch dies erfolgt meistens temporär und kann auch zurückgenommen werden. 

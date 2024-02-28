@@ -63,7 +63,7 @@ Die Folgen der Karlsbacher Beschlüsse waren weitreichend. Sie führten zur Eins
 - Stile und Überzeugung geben die meisten Punkte
 
 
-![[../../../../misc/Media/Recording 20231004114016.webm|Recording 20231004114016]]
+
 
   
   
