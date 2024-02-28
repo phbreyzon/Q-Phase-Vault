@@ -27,7 +27,7 @@ Der Junge weint, weil der König, welches als spielendem Junge mit Pickelhaube d
 Im geschichtlichem Zusammenhang bedeutet, dass…
 
 
-
+![[misc/Geschichte/Q1/Scheitern der Revolution/additional material/Karikatur Friedrich Wilhelm IV.jpg|misc/Geschichte/Q1/Scheitern der Revolution/additional material/Karikatur Friedrich Wilhelm IV.jpg]]
 ## Karikaturanalyse
 
 
