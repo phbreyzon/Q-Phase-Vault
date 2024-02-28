@@ -1,6 +1,3 @@
----
-title: Deutsche Kaiserreich
----
 
 
 **Wähler**: Antisemiten und Konservativen 
