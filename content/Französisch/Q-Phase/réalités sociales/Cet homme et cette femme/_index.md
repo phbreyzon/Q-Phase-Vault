@@ -1,6 +1,3 @@
----
-title: Cet homme et cette femme
----
 ## Le texte 
 
 Cet homme et cette femme sont dans une voiture étrangère. Cette voiture a coûté trois cent vingt mille francs et, bizarrement, c’est surtout le prix de la vignette qui a fait hésiter l’homme chez le concessionnaire. 
