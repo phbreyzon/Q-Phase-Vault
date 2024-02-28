@@ -1,6 +1,3 @@
----
-title: Romantik
----
 ## Benennung
 
 Die Romantik ist eine literarische Epoche, die in der Zeit von etwa **1795 bis 1848** in Europa stattfand. 
