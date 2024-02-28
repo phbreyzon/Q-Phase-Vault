@@ -36,14 +36,6 @@ jobs:
 
       - name: Convert Wikilinks
         run: python ./scripts/convert_wikilinks.py
-
-      - name: Commit and Push Changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: 'Update wikilinks to absolute paths'
-          add: 'content/**/*.md'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
        
 
   build:
