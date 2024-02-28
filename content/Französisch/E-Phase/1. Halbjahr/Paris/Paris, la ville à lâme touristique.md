@@ -1,9 +1,9 @@
 # 1. Monologue
-- Dans ce texte "[[./_index|Paris]] , une histroire en images" écrit par Pascal Varejk, le sujet est le tourisme á [[./_index|Paris]]. 
-- Le texte présente des statistiques liées au tourisme et on peut voir que le tourisme est évidemment trés important pour [[./_index|Paris]]. Par exemple le text dit statistiquement que un parisien sur dix gange sa vie grâce au tourisme ou que 70% des visiteurs du Louvre sont des étrangers.
+- Dans ce texte "[Paris](./_index.md) , une histroire en images" écrit par Pascal Varejk, le sujet est le tourisme á [Paris](./_index.md). 
+- Le texte présente des statistiques liées au tourisme et on peut voir que le tourisme est évidemment trés important pour [Paris](./_index.md). Par exemple le text dit statistiquement que un parisien sur dix gange sa vie grâce au tourisme ou que 70% des visiteurs du Louvre sont des étrangers.
 - Des aspects négatifs sont mentionnés aussi. Le texte met en évidence le risque que la ville se muer doucement en une <<ville-décor>> et déserté par ceux qui en furent les habitants. 
 Ce n'est pas bon pour la population intérieure, surtout quand il s'agit de la population française, très fière de son pays.
-- Mais on peut trés bien aller visiter [[./_index|Paris]] sans mauvaise conscience parce que parce que dit aussi que le renouvellement constant de la population parisienne est une tradition deux fois millénaire, et que la perte d'habitants n'est pas un indice de vitalité.
+- Mais on peut trés bien aller visiter [Paris](./_index.md) sans mauvaise conscience parce que parce que dit aussi que le renouvellement constant de la population parisienne est une tradition deux fois millénaire, et que la perte d'habitants n'est pas un indice de vitalité.
 
 # 2. Discussion
 - Je ne pense pas que l'on doive renoncer aux voyages pour "protéger" une ville, parce que c'est le gouvernement du pays concerné qui décide en fin la raison d'être d'une ville.
