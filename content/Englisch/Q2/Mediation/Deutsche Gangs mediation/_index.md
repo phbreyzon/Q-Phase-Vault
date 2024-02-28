@@ -1,6 +1,3 @@
----
-title: Deutsche Gangs mediation
----
 ### Key factors
 
 1. **Rootlessness and Disappointment**: The sense of being uprooted and the subsequent disappointment with unmet expectations in the host country are profound. Families like Yeyha's, which initially fled violence seeking safety and prosperity, find themselves marginalized.
