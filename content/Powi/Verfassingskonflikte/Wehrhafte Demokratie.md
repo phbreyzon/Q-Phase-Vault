@@ -1,5 +1,5 @@
 
-![[../../../misc/Media/WIN_20231121_08_48_52_Scan.jpg|WIN_20231121_08_48_52_Scan]]
+
 ### Definition 
 Kann auch unter dem Motto “keine Freiheit dem Feinden der Freiheit” zusammengefasst werden. Die Wehrhafte Demokratie ist eine Reihe von Gesetzlichen Mechanismes, welches den Feinde der Freiheitlich demokratischen Grundordnung, die Möglichkeiten auf einen legalen Machtübegreif einschränken, dies geschieht durch folgende Maßnahmen: 
 

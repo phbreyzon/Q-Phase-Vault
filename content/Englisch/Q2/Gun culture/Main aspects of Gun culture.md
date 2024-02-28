@@ -12,8 +12,7 @@ Owning and carrying guns are garanteed by the second amendment
 - The NRA being the biggest lobby supporting the posession of guns 
 - statistically speaking, America kind of sucks:
   
-  ![[../../../misc/Media/Pasted image 20240214103418.png|Pasted image 20240214103418]]
+  
 
-![[../../../misc/Media/Pasted image 20240214103426.png|Pasted image 20240214103426]]
 
-![[../../../misc/Media/Pasted image 20240214103445.png|Pasted image 20240214103445]]
+

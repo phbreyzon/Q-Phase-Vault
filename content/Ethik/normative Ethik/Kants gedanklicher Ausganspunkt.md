@@ -21,7 +21,7 @@
 - Laut Kant: *Gibt es immer die Möglichkeit sich anders zu Entscheiden. Die Entscheidung nicht gut zu handeln ist eine bewusste Entscheidung.*
   
   ****
-  ![[../../misc/Media/02_Kant, Pflicht und Achtung für das Gesetz.pdf|02_Kant, Pflicht und Achtung für das Gesetz]]
+  
 - Handlungen
 	- Es gibt Neigungen aus Pflicht und Neigung
 		- **Neigungen:** Werden durch Triebe, Bedürfnisse + persönliche Interessen bestimmt.
