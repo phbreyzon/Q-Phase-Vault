@@ -13,8 +13,21 @@ permissions:
 concurrency:
   group: "pages"
   cancel-in-progress: false
+
+
  
 jobs:
+
+  update-links:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out the repo
+      uses: actions/checkout@v3
+
+    - name: Run the script to update .excalidraw links to .svg
+      run: cd content && find -type f -name "*.md" -exec sed -i -e 's/\.excalidraw/\.svg/g' {} +
+       
+
   build:
     runs-on: ubuntu-22.04
     steps:
