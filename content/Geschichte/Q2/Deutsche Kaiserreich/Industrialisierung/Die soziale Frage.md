@@ -6,16 +6,16 @@ Eine Reihe gesellschaftliche probleme:
 - provisorische Errichtung von Unterkünften führte zur Bildung von Slums und Gettos
 - Kinderarbeit aufgrund geringe Löhne war meistens notwendig 
   
-[[../../../../misc/Media/Stationenarbeit zu den Folgen der Industrialisierung.pdf|Arbeitsauftrag]]
+[Arbeitsauftrag](../../../../../docs/images/Stationenarbeit%20zu%20den%20Folgen%20der%20Industrialisierung.pdf)
 #### Urbanisierung 
 Die Bewegung der Bevölkerung vom Land in die Städte, aufgrund besserer Arbeitsmöglichkeiten. 
-[[../../../../misc/Media/320B2413-2DC5-45A0-B53F-576D4F7E718E.png|ziehe source]]
+[ziehe source](../../../../../docs/images/320B2413-2DC5-45A0-B53F-576D4F7E718E.png)
 
 #### Veränderung der Arbeitsverhältnisse 
 13 Stunden Arbeiten. Dazu noch kein Frühstück, Mittags und Abenessen 
 Am Samstagen bis 8 Uhr abends und in manhen Fabriken bis 11 Uhr. 
 Die Gesundheit der Arbeiter leidete als Folge daruntter. Besonders die der minderjährigen (13-17). 
-[[../../../../misc/Media/320B2413-2DC5-45A0-B53F-576D4F7E718E 1.png|ziehe source]]
+[ziehe source](../../../../../docs/images/320B2413-2DC5-45A0-B53F-576D4F7E718E%201.png)
 #### Ökologische Folgen 
 Probleme bei der Wasserversorgung durch Urbanisierung. 
 Erst am En1. Mental health and criminal activity: The NRA representative may point out that the focus should be on addressing mental health issues and preventing criminal activity, rather than implementing stricter gun laws. They may argue that responsible gun owners should not be penalized for the actions of a few individuals who misuse firearms.de des 19. Jahrhunderts begann man mit den systematischen Ausbau von *Kanalysationssystemen*. 
@@ -23,7 +23,7 @@ Verunreinigung von Boden, der keinen Ortswechsel “durchmacht”
 Mangel an wissenschaftliche Expertise führte zur Ignoranz, um die Auswirkungen der Umwelt und Gesundheit der Menschen 
 Umweltschutz war lediglich eine Kostenfrage für Unternehmen. Solange es keine Regulierungen gab, wurde dort auch nicht investiert.
 Erst durch die Elektrifizierung am Ende des 19.Jahrhunderts verbesserte sich die Luftqualität unter anderem.
-[[../../../../misc/Media/A5599692-8F9B-4811-A85A-7B8A74189362.png|ziehe source]]
+[ziehe source](../../../../../docs/images/A5599692-8F9B-4811-A85A-7B8A74189362.png)
 
 
 - Blackmirror 
