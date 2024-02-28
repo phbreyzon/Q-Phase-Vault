@@ -2,7 +2,7 @@
 ## Sozialistengesetze
 
 
-![../../../../misc/Media/4. Sozialistengesetze.pdf](../../../../../docs/images/4.%20Sozialistengesetze.pdf)
+![[../../../../misc/Media/4. Sozialistengesetze.pdf|../../../../misc/Media/4. Sozialistengesetze.pdf]]
 
 
 ## Sozialgesetze 
