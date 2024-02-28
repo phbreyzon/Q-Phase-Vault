@@ -1,8 +1,0 @@
-- [x] [[misc/Alkene als ungesättigte Kohlenwasserstoffe|misc/Alkene als ungesättigte Kohlenwasserstoffe]] mit Doppelbindung, homologe Reihe, Nomenklatur (benennen und zeichnen) 
-- [x] [[misc/Alkene/Struktur|misc/Alkene/Struktur]] (Bindungswinkel, Doppelbindung, räumliche Ausrichtung, was bedeutet die Doppelbindung für die freie Drehbarkeit bei den Kohlenwasserstoffen?) 232
-- [x] [[misc/CIS-TRANS Isomerie|misc/CIS-TRANS Isomerie]] 233
-- [x] [[misc/Alkene/Elektrophile Addition (AE)|Elektrophile Addition (AE)]] (Mechanismus der Addition mit Brom über ein Bromonium-Ion (was heißt elektrophil?)  234
-- [x] [[misc/Alkene/Induktive Effekte|misc/Alkene/Induktive Effekte]](+I durch Alkylgruppen und -I durch elektronegativere Gruppen wie bspw. Brom) 235
-- [x] Verbrennen von Alkanen, Alkenen und Alkinen (Reaktionsgleichung der Oxidation) Heft
-- [x] Alkine als ungesättigte Kohlenwasserstoffe mit Dreifachbindung, homologe Reihe, Nomenklatur (benennen und zeichnen) 236
-- [x] Struktur (Bindungswinkel, Doppelbindung, räumliche Ausrichtung) 236

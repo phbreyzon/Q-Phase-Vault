@@ -1,2 +1,0 @@
-Theater ist eine reine **Aktualität**, spricht sie geschieht im unmittelbaren hier und jetzt. 
-Dadurch kann man Theater gut mit dem Leben vergleichen, denn sie geschieht auch bloß aktuell und kann nicht reproduziert werden, so wie sie war. Das bedeutet, dass im Theater jede Aufführung einzigartig ist, vor allem, wem man bedenkt, dass die **Schauspieler-Zuschauer-Konstellation** immer unterschiedlich ist und unter anderem davon abhängt, welche Themen man ein bestimmtes Publikum zeigt.  Außerdem ist das Gefühl der physischen nähe nicht mit digitalen Mitteln produzierbar.
