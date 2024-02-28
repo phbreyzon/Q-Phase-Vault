@@ -17,5 +17,5 @@
 | competition      | empowerment            | global citizenship        | apprehension                            |
 | opportunity      | intercultural exchange | global inequality         | hope                                    |
 |                  |                        |                           |                                         |
-##### Nr.2 
+
 
