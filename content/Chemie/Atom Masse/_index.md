@@ -1,6 +1,3 @@
----
-title: Atom Masse
----
 ## Die Masseneinheit $u$
 
 Die Einheit $u$ gibt uns an, was für eine Masse ein einzelnes Atom besitzt. Diese Einheit ist mit der **molaren Masse** gleichzusetzten ($g/mol$) 
