@@ -1,5 +1,5 @@
 
-![../../../../misc/Media/Cis-Trans-Isomerie 2023-11-10 12.20.42.excalidraw](../../../../../docs/images/Cis-Trans-Isomerie%202023-11-10%2012.20.42.svg)
+![[../../../../misc/Media/Cis-Trans-Isomerie 2023-11-10 12.20.42.svg|../../../../misc/Media/Cis-Trans-Isomerie 2023-11-10 12.20.42.excalidraw]]
 
 Die Cis-Trans Isomerie ist eine Art der **Konfigurationsisomerie**, was widerum eine Art der *Stereoisomerie* ist. 
 
