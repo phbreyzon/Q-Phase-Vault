@@ -1,8 +1,8 @@
-- Écrire un [[../../Grammatik/Résumé|../../Grammatik/Résumé]]
+- Écrire un [[misc/Grammatik/Résumé|misc/Grammatik/Résumé]]
 - le discours indirect
-- [[./_index|Paris]]: Le vocabulaire
-- Vivre à [[./_index|Paris]] - pour et contre
-- le tourisme à [[./_index|Paris]] - pour et contre
+- [[misc/Paris|misc/Paris]]: Le vocabulaire
+- Vivre à [[misc/Paris|misc/Paris]] - pour et contre
+- le tourisme à [[misc/Paris|misc/Paris]] - pour et contre
 
 - les conjugaisons des verbes (alle im Unterricht wiederholten Verbklassen und unregelmäẞigen Verben).
 - 
