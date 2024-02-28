@@ -1,1 +1,0 @@
-![[misc/attachments/WIN_20230504_14_23_45_Scan.jpg|misc/attachments/WIN_20230504_14_23_45_Scan.jpg]]
