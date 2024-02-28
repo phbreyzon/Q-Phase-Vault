@@ -13,7 +13,7 @@ share: true
 7. [[index#Englisch|Englisch]]
 8. [[index#Französisch|Französisch]]
 9. [[index#Ethik|Ethik]]
-10. [[index#Powi|Powi]]
+10. [[index#Powi|Powi]]  
 
 - [[index#Die Q1|Die Q1]]
 - [[index#Die Q2| Die Q2]]
