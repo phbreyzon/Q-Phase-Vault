@@ -1,6 +1,3 @@
----
-title: UML
----
 UML steht für *„Unified Modelling Language“* und ist ein Modellierungssystem, welches das Veranschaulichen verschiedenster Dinge standardisiert darstellt.
 Besonders in der Informatik bzw. Java können UML-Diagramme nützlich sein, um den Aufbau eines Objekt-Orientierten-Programms zu veranschaulichen. 
 
