@@ -1,11 +1,28 @@
-![[misc/Media/WIN_20240219_08_16_20_Scan.jpg|misc/Media/WIN_20240219_08_16_20_Scan.jpg]]
 
-- l’effet de serre  → der Treibhauseffekt
-- la fonte de glacier → die Gletscherschmelze
-- emettre → abgeben 
-- le rayonne → die Strahlen
-- le seisme → der Erdbeben 
-- le paludisme → Malaria 
-- davantage → ein symoym für (Plus = mehr) e.g. “Inutile d’attendre davantage”, “La qualité importe bien davantage que la quantité” 
+#### Utilitarismus: (teleologisch bzw. Konsequntialistisch)
 
-- [ ] Vokabeln lernen (optional)
+Das Flugzeug wird abgeschossen.Zwar werden alle Passagiere in diesem Flugzezug sterben, es können jedoch mehr Menschen dadurch gerettet werden (Quantitätskriterium). Der Nutzen ist also größer beim Abschießen. 
+
+- 160 Personen vs. 75000 Menschen (Quantitätskriterum)
+- 160 Menschen im Flugzeug sterben sowieso 
+- Prävention im Hinblick auf zukünftige terroritstische Akte
+- geringstes Leid für die Gesamtmenge
+
+#### Deontologische Ethik: (Kantianer)
+
+Das Flugzeug wird nicht abgeschossen. Das moralische Prinzip in einem verbietet es solch eine Tat zutun. Das Prinzip beruht auf dem Grundgedanke, dass wenn sich jeder daran hält, diese Siatuation gar nicht eintreffen darf. (spoilers, unmöglich umzusetzen)
+
+- Man kann Menschen leben nicht gegeneinander aufwiegen
+- Verstoß gegen *Menschenwürde*
+- Menschen zu Objekten degradieren
+- Schutz des Lebens gilt auch für Todgeweihte
+
+### Gedankenexperiment
+
+- Enthaltung ist auch eine aktive Entscheidung 
+
+Beide Stellungen beschäftigen sich mit der Grundfrage der *philosophischen Ethik*, nämlich mit der Frage: 
+> Was sollen wir tun?
+
+
+Definition von gut von Menschen bestimmt problemantisch?
