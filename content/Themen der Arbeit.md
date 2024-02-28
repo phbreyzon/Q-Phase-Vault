@@ -1,5 +1,4 @@
-- Wirtschaft
-- Grundbegriffe (Marktformen) 
-	- Keine Diagram 
-	- Wirtschaftskreislauf 
-	- Wissen aus [[Powi/Markt und Preisbildung/Wirtschaftswachstum|Wirtschaftswachstum]] anwenden können 
+- Ober-/ Untersumme
+- Definition der Stammfunktion
+- Berechnung des Integralwerts + Fläche mit der Stammfunktion
+- Integralfunktion
