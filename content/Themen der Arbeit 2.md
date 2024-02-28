@@ -1,8 +1,6 @@
-- [x] Die Revolution 1848
-	- [x] Voraussetzungen 
-	- [x] Entwicklung 
-	- [x] Das Parlament
-- [x] Kaisserreichsverfassung + Staatsaufbau
-- [x] Die Grundrechte im Detail
-- [x] Das Scheitern der Revolution 
-- [x] Karikaturanalyse 
+- [x] Comprehension tastk
+      - State something about a text 
+      - 
+- [x] Analysis 
+- [x] Discussion
+      - 4. and 5. task on George Floyd are essential  
