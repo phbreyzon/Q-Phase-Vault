@@ -1,5 +1,5 @@
 
-[[../../../misc/Media/IMG_1416.jpeg| page1]]
+[[/../misc/Media/IMG_1416.jpeg| page1]]
 
 
 #### What are the threats to globalization
@@ -44,12 +44,12 @@
 
 
 
-![[../../../misc/Media/IMG_1419 1.jpeg|../../../misc/Media/IMG_1419 1.jpeg]]
+![[../../../misc/Media/IMG_1419 1.jpeg|/misc/Media/IMG_1419 1.jpeg]]
 
 
-![[../../../misc/Media/IMG_1420.jpeg|../../../misc/Media/IMG_1420.jpeg]]
+![[../../../misc/Media/IMG_1420.jpeg|/misc/Media/IMG_1420.jpeg]]
 
-![[../../../misc/Media/IMG_1421.jpeg|../../../misc/Media/IMG_1421.jpeg]]
+![[../../../misc/Media/IMG_1421.jpeg|/misc/Media/IMG_1421.jpeg]]
 
 
 ### Nr.1 
