@@ -1,5 +1,5 @@
 Bergspitzen und Täler werden in der Mathematik als Hoch- bzw. Tiefpunkte bezeichnet. Ganz allgemein spricht man von *Extrema*.
-Mögliche Extremstellen kann man bestimmen, indem man die Nullstellen der [[./Ableitungsgesetze|Ableitungsgesetze]] berechnet.
+Mögliche Extremstellen kann man bestimmen, indem man die Nullstellen der [[misc/Ableitungsgesetze|misc/Ableitungsgesetze]] berechnet.
 
 Die Funktion $f$ ist auf dem Intervall $I$ zweimal differenzierbar. Dann gilt:
 - Gilt $f ''(x) < 0$ für alle x gehört zu $I$. So ist auf $I$ rechts gekrümmt.

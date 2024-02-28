@@ -7,7 +7,7 @@
 	- Erfindung des Autos 1886 (erst nach der Jahrhundertwende in Massenproduktion)
 
 
-![[../../../../misc/Media/2694E282-2F4B-4D17-A504-5C455147D995.jpeg|../../../../misc/Media/2694E282-2F4B-4D17-A504-5C455147D995.jpeg]]
+![[../../../../misc/Media/2694E282-2F4B-4D17-A504-5C455147D995.jpeg|2694E282-2F4B-4D17-A504-5C455147D995]]
 
 
 

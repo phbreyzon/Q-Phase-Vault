@@ -1,6 +1,6 @@
 # Nr.2
 - ... die Stadt, deren Reiz auf die ausländischen Besucher nicht zu leugenne ist...
-	- de la ville de [[./_index|Paris]], dont l'attrait est indèniable sur les visiteurs étrangers
+	- de la ville de [[misc/Paris|misc/Paris]], dont l'attrait est indèniable sur les visiteurs étrangers
 - angefangen bei
 	- à commencer par
 - Touristen aus der ganzen Welt empfangen
@@ -13,7 +13,7 @@
 	- travailler à temp complet
 # Nr.3 
 ## a)
--  la ville de [[./_index|Paris]], **_dont l'attrait est indèniable sur les visiteurs étrangers_**
+-  la ville de [[misc/Paris|misc/Paris]], **_dont l'attrait est indèniable sur les visiteurs étrangers_**
 ## b)
 - Sie le renouvellement perpètuel de la population parisienne est inscrit dans une tradition dex fois millènaire, la dèperdition d' habitants n' est pas un indice de vitalité.
 ## c)
