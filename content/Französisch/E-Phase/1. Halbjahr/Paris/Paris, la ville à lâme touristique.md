@@ -1,5 +1,5 @@
 # 1. Monologue
-- Dans ce texte "[[misc/Paris|misc/Paris]] , une histroire en images" écrit par Pascal Varejk, le sujet est le tourisme á [[./_index|Paris]]. 
+- Dans ce texte "[[misc/Paris|misc/Paris]] , une histroire en images" écrit par Pascal Varejk, le sujet est le tourisme á [[Paris|Paris]]. 
 - Le texte présente des statistiques liées au tourisme et on peut voir que le tourisme est évidemment trés important pour [[misc/Paris|misc/Paris]]. Par exemple le text dit statistiquement que un parisien sur dix gange sa vie grâce au tourisme ou que 70% des visiteurs du Louvre sont des étrangers.
 - Des aspects négatifs sont mentionnés aussi. Le texte met en évidence le risque que la ville se muer doucement en une <<ville-décor>> et déserté par ceux qui en furent les habitants. 
 Ce n'est pas bon pour la population intérieure, surtout quand il s'agit de la population française, très fière de son pays.
