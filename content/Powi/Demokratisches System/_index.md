@@ -1,6 +1,3 @@
----
-title: Demokratisches System
----
 ## Demokratie Systeme
 
 Wir leben in eine *repräsentativen Demokratie* bzw. in einer parlamentarischen Demokratie. 
