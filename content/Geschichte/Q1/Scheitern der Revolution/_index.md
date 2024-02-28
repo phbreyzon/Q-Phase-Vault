@@ -1,6 +1,3 @@
----
-title: Scheitern der Revolution
----
 
 ```timeline 
 + 1848
