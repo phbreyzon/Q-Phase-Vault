@@ -1,8 +1,8 @@
-- [x] [[./Deliberative Demokratie|Deliberative Demokratie]]
-- [x] [[Demokratisches System/Regierungsbildung |Regierungsbildung]] 
-- [x] [[./Parteienfinanzierung|Parteienfinanzierung]]
-- [x] [[./Populismus|Populismus]]
-- [x] [[./Privilegien, Pflichten und Funktionen|Privilegien, Pflichten und Funktionen]]
-- [x] [[./Wahlen|Wahlen]]
-- [x] [[./Wahlsysteme im Vergleich|Wahlsysteme im Vergleich]]
-- [x] [[./Wesensmerkmale und Entwicklung|Wesensmerkmale und Entwicklung]]
+- [x] [Deliberative Demokratie](./Deliberative%20Demokratie.md)
+- [x] [Regierungsbildung](Demokratisches%20System/Regierungsbildung.md) 
+- [x] [Parteienfinanzierung](./Parteienfinanzierung.md)
+- [x] [Populismus](./Populismus.md)
+- [x] [Privilegien, Pflichten und Funktionen](./Privilegien,%20Pflichten%20und%20Funktionen.md)
+- [x] [Wahlen](./Wahlen.md)
+- [x] [Wahlsysteme im Vergleich](./Wahlsysteme%20im%20Vergleich.md)
+- [x] [Wesensmerkmale und Entwicklung](./Wesensmerkmale%20und%20Entwicklung.md)
