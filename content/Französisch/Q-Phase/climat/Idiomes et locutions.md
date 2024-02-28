@@ -4,14 +4,14 @@
 
 ## Exercises
 
-![[../../../misc/Media/WIN_20240219_08_59_06_Scan.jpg|../../../misc/Media/WIN_20240219_08_59_06_Scan.jpg]]
+![[../../../misc/Media/WIN_20240219_08_59_06_Scan.jpg|WIN_20240219_08_59_06_Scan]]
 
-![[../../../misc/Media/WIN_20240219_09_00_03_Scan.jpg|../../../misc/Media/WIN_20240219_09_00_03_Scan.jpg]]
+![[../../../misc/Media/WIN_20240219_09_00_03_Scan.jpg|WIN_20240219_09_00_03_Scan]]
 
 
 #### Additional Material
 
 
-![[../../../misc/Media/WIN_20240226_08_43_27_Scan.jpg|../../../misc/Media/WIN_20240226_08_43_27_Scan.jpg]]
+![[../../../misc/Media/WIN_20240226_08_43_27_Scan.jpg|WIN_20240226_08_43_27_Scan]]
 
 - [ ]  Vokabeln und Ausdrücke im Text lernen + Übungszetteln als Klausurvorbereitung
