@@ -1,11 +1,11 @@
 ---
 title: Themen der Arbeit 2
 ---
-- [x] [[./Alkene als ungesättigte Kohlenwasserstoffe|Alkene als ungesättigte Kohlenwasserstoffe]] mit Doppelbindung, homologe Reihe, Nomenklatur (benennen und zeichnen) 
-- [x] [[../../Alkene/Struktur|../../Alkene/Struktur]] (Bindungswinkel, Doppelbindung, räumliche Ausrichtung, was bedeutet die Doppelbindung für die freie Drehbarkeit bei den Kohlenwasserstoffen?) 232
-- [x] [[./CIS-TRANS Isomerie|CIS-TRANS Isomerie]] 233
-- [x] [[../../Alkene/Elektrophile Addition (AE)|Elektrophile Addition (AE)]] (Mechanismus der Addition mit Brom über ein Bromonium-Ion (was heißt elektrophil?)  234
-- [x] [[../../Alkene/Induktive Effekte|../../Alkene/Induktive Effekte]](+I durch Alkylgruppen und -I durch elektronegativere Gruppen wie bspw. Brom) 235
+- [x] [Alkene als ungesättigte Kohlenwasserstoffe](./Alkene%20als%20unges%C3%A4ttigte%20Kohlenwasserstoffe.md) mit Doppelbindung, homologe Reihe, Nomenklatur (benennen und zeichnen) 
+- [x] [../../Alkene/Struktur](../../Alkene/Struktur.md) (Bindungswinkel, Doppelbindung, räumliche Ausrichtung, was bedeutet die Doppelbindung für die freie Drehbarkeit bei den Kohlenwasserstoffen?) 232
+- [x] [CIS-TRANS Isomerie](./CIS-TRANS%20Isomerie.md) 233
+- [x] [Elektrophile Addition (AE)](../../Alkene/Elektrophile%20Addition%20(AE).md) (Mechanismus der Addition mit Brom über ein Bromonium-Ion (was heißt elektrophil?)  234
+- [x] [../../Alkene/Induktive Effekte](../../Alkene/Induktive%20Effekte.md)(+I durch Alkylgruppen und -I durch elektronegativere Gruppen wie bspw. Brom) 235
 - [x] Verbrennen von Alkanen, Alkenen und Alkinen (Reaktionsgleichung der Oxidation) Heft
 - [x] Alkine als ungesättigte Kohlenwasserstoffe mit Dreifachbindung, homologe Reihe, Nomenklatur (benennen und zeichnen) 236
 - [x] Struktur (Bindungswinkel, Doppelbindung, räumliche Ausrichtung) 236

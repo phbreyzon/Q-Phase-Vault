@@ -6,6 +6,6 @@ Besonders in der Informatik bzw. Java können UML-Diagramme nützlich sein, um d
 
 Um verschiedene Dinge darstellen zu können braucht man unterschiedliche Diagramme. 
 
-## [[./Klassendiagramme|Klassendiagramme]]
+## [Klassendiagramme](./Klassendiagramme.md)
 
-Klassendiagramme illustrieren den Aufbau einer Klasse mit ihren wesentlichsten Bestandteile (*Attribute*, *Methoden*, usw.) sowie ihre [[./Klassendiagramme#Relationen|Relationen]] zu anderen Klassen. 
+Klassendiagramme illustrieren den Aufbau einer Klasse mit ihren wesentlichsten Bestandteile (*Attribute*, *Methoden*, usw.) sowie ihre [Relationen](./Klassendiagramme.md#Relationen) zu anderen Klassen. 

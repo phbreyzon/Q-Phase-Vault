@@ -3,7 +3,7 @@
 
 - [ ] Material auf Iserv abchecken für weitere Informationen
 
-![[../../../../misc/Media/Gesellschaft im Kaiserreich zwischen Tradition und Modern1.pdf|../../../../misc/Media/Gesellschaft im Kaiserreich zwischen Tradition und Modern1.pdf]]
+![../../../../misc/Media/Gesellschaft im Kaiserreich zwischen Tradition und Modern1.pdf](../../../../../docs/images/Gesellschaft%20im%20Kaiserreich%20zwischen%20Tradition%20und%20Modern1.pdf)
 
 
 #### Erläutern Sie, inwieweit sich im deutschen Kaiserreich Gesellschaft und Politik im Spannungsfeld zwischen „Tradition und Moderne“ bewegte.
@@ -43,6 +43,6 @@
   
   
   
-  ![[../../../../misc/Media/IMG_0610.png|../../../../misc/Media/IMG_0610.png]]
+  ![../../../../misc/Media/IMG_0610.png](../../../../../docs/images/IMG_0610.png)
 
 #### Nr.1 Stellen Sie die Grunzüge der “Untertanengesellschaft” und die Grundzüge der “Gesellschaft des Rechts” einander gegenüber und überprüfen Sie beide Urteile anhand Ihrer Kenntnisse

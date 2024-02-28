@@ -2,4 +2,4 @@
 - Grundbegriffe (Marktformen) 
 	- Keine Diagram 
 	- Wirtschaftskreislauf 
-	- Wissen aus [[./Wirtschaftswachstum|Wirtschaftswachstum]] anwenden können 
+	- Wissen aus [Wirtschaftswachstum](./Wirtschaftswachstum.md) anwenden können 

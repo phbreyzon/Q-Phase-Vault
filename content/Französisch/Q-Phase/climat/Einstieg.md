@@ -1,4 +1,4 @@
-![[../../../misc/Media/WIN_20240219_08_16_20_Scan.jpg|../../../misc/Media/WIN_20240219_08_16_20_Scan.jpg]]
+![../../../misc/Media/WIN_20240219_08_16_20_Scan.jpg](../../../../docs/images/WIN_20240219_08_16_20_Scan.jpg)
 
 - l’effet de serre  → der Treibhauseffekt
 - la fonte de glacier → die Gletscherschmelze

@@ -3,15 +3,15 @@ title: Deutsch
 ---
 # Relevante Literaturepochen
 
-- [[_index#Aufklärung (1720 - 1790)|Aufklärung (1720 - 1790)]]
-- [[_index#Empfindsamkeit (1740 - 1790)|Empfindsamkeit (1740 - 1790)]]
-- [[_index#Sturm und Drang (1765 - 1790)|Sturm und Drang (1765 - 1790)]]
-- [[_index#Weimarer Klassik (1786 - 1832)|Weimarer Klassik (1786 - 1832)]]
-- [[_index#Romantik (1798 - 1835)|Romantik (1798 - 1835)]]
-- [[_index#Biedermeier (1815 - 1848)|Biedermeier (1815 - 1848)]]
-- [[_index#Vormärz / Junges Deutschland (1815 - 1848)|Vormärz / Junges Deutschland (1815 - 1848)]]
-- [[_index#Realismus (1848 - 1890)|Realismus (1848 - 1890)]]
-- [[_index#Naturalismus (1880 - 1900)|Naturalismus (1880 - 1900)]]
+- [Aufklärung (1720 - 1790)](_index.md#Aufklärung%20(1720%20-%201790))
+- [Empfindsamkeit (1740 - 1790)](_index.md#Empfindsamkeit%20(1740%20-%201790))
+- [Sturm und Drang (1765 - 1790)](_index.md#Sturm%20und%20Drang%20(1765%20-%201790))
+- [Weimarer Klassik (1786 - 1832)](_index.md#Weimarer%20Klassik%20(1786%20-%201832))
+- [Romantik (1798 - 1835)](_index.md#Romantik%20(1798%20-%201835))
+- [Biedermeier (1815 - 1848)](_index.md#Biedermeier%20(1815%20-%201848))
+- [Vormärz / Junges Deutschland (1815 - 1848)](_index.md#Vormärz%20/%20Junges%20Deutschland%20(1815%20-%201848))
+- [Realismus (1848 - 1890)](_index.md#Realismus%20(1848%20-%201890))
+- [Naturalismus (1880 - 1900)](_index.md#Naturalismus%20(1880%20-%201900))
 
 ## Aufklärung (1720 - 1790)
 Die Aufklärung war eine geistige Bewegung, die von Vernunft, Wissenschaft und individueller Freiheit geprägt war. Die Literatur dieser Epoche zeichnete sich durch rationalistische Ideen, politische Satire und Moraldidaktik aus, wobei Autoren wie Lessing und Goethe wichtige Vertreter waren.
@@ -25,7 +25,7 @@ Die Sturm und Drang-Bewegung war eine rebellische Jugendbewegung, die gegen die 
 ## Weimarer Klassik (1786 - 1832)
 Die Klassik war geprägt von einer Rückbesinnung auf die Antike und einer Betonung der Harmonie und Ausgewogenheit. Die Literatur zeichnete sich durch klare Strukturen, ästhetische Perfektion und Idealismus aus. Goethe und Schiller sind auch hier wichtige Vertreter.
 
-## [[Romantik/Romantik |Romantik]] (1798 - 1835)
+## [Romantik](Romantik/Romantik.md) (1798 - 1835)
 Die Romantik war eine Reaktion auf die Industrialisierung und die Aufklärung. Sie betonte individuelle Empfindungen, das Unbewusste und die Sehnsucht nach dem Mystischen. Die Literatur war geprägt von emotionalen Naturbeschreibungen und fantastischen Elementen. Wichtige Vertreter sind Eichendorff, Novalis und die Brüder Grimm.
 
 ## Biedermeier (1815 - 1848)

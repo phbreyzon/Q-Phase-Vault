@@ -1,4 +1,4 @@
-![[./Additional material/WIN_20231212_08_48_11_Scan.jpg|Additional material/WIN_20231212_08_48_11_Scan.jpg]]
+![Additional material/WIN_20231212_08_48_11_Scan.jpg](../../../docs/images/WIN_20231212_08_48_11_Scan.jpg)
 ### Aufgabe 
 
 Die deutsche Staatsgewalt ist durch eine Gewaltenteilung in Judikative, Executive und Legislative gekennzeichnet. In ihrem Wesentlichsten geht alle Staatsgewalt vom Volke aus, spricht die Staatsgewalten unterliegen dem Prinzip der Volkssouveränität. 

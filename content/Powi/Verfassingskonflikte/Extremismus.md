@@ -1,11 +1,11 @@
 Extramismus ist eine Einstellung, die von einer starken Ablehnung oder Bekämpfung des Status quo geprägt ist, sowie durch eine Bereitschaft extreme Durchsetzungsmethoden wie Gewalt einzusetzen.
 
-### [[./Wehrhafte Demokratie|Wehrhafte Demokratie]]
+### [Wehrhafte Demokratie](./Wehrhafte%20Demokratie.md)
 
-![[../../misc/Media/WIN_20231121_08_48_52_Scan.jpg|../../misc/Media/WIN_20231121_08_48_52_Scan.jpg]]
+![../../misc/Media/WIN_20231121_08_48_52_Scan.jpg](../../../docs/images/WIN_20231121_08_48_52_Scan.jpg)
 
 
-![[../../misc/Media/WIN_20231121_08_49_32_Scan.jpg|../../misc/Media/WIN_20231121_08_49_32_Scan.jpg]]
+![../../misc/Media/WIN_20231121_08_49_32_Scan.jpg](../../../docs/images/WIN_20231121_08_49_32_Scan.jpg)
 
 
 Prizipien:
