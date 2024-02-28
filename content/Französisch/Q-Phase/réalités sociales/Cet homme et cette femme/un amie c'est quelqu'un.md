@@ -19,9 +19,9 @@ l’amitié c’est
 - une relation qui va au-déla des échanges d’information ou des choses materiéls. 
 
 
-![[../../../../misc/Media/WIN_20231120_08_48_32_Scan.jpg|../../../../../misc/Media/WIN_20231120_08_48_32_Scan.jpg]]
+![../../../../../misc/Media/WIN_20231120_08_48_32_Scan.jpg](../../../../../docs/images/WIN_20231120_08_48_32_Scan.jpg)
 
-![[../../../../misc/Media/clip 6.png|../../../../../misc/Media/clip 6.png]]
+![../../../../../misc/Media/clip 6.png](../../../../../docs/images/clip%206.png)
 
 ### Au choix 
 « …dire systématiquement la vérité n’est pas toujours souhaitable. Toutes les vérités ne sont pas bonnes à dire.» (l.42-44) Êrtres-vous d’accord? Justifiez votre opinion.
