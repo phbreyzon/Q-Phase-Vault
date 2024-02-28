@@ -1,3 +1,3 @@
-- [x] Buch S.218 - 229 ( + [radikalische Substitution](Alkane/Radikalische%20Substitution.md) )
-- [x] [Alkane](./_index.md)
-- [x] [Verbrennung von Alkanen](./Verbrennung%20von%20Alkanen.md)
+- [x] Buch S.218 - 229 ( + [[Alkane/Radikalische Substitution |radikalische Substitution]] )
+- [x] [[./_index|Alkane]]
+- [x] [[./Verbrennung von Alkanen|Verbrennung von Alkanen]]

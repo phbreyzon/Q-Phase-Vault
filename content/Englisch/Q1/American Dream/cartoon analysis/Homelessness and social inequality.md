@@ -1,4 +1,4 @@
-![../../../../misc/Media/Cartoon_homelessness.jpg](../../../../../docs/images/Cartoon_homelessness.jpg)
+![[../../../../misc/Media/Cartoon_homelessness.jpg|../../../../misc/Media/Cartoon_homelessness.jpg]]
 
 ### 1. What view does the author take on inequality and social mobility in the US?
 

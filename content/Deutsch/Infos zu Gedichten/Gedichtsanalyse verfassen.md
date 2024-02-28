@@ -1,10 +1,10 @@
 # Struktur
 ## Formale Gestaltung 
-- Welches [Metrum](./Metrum.md) hat das Gedicht und was für eine Wirkung erzeugt es.
+- Welches [[./Metrum|Metrum]] hat das Gedicht und was für eine Wirkung erzeugt es.
 - Welches Reimschema hat das Gedicht?
 
 ## Aufbau
-- Ist es ein bekannte [Gedichtsform](Gedichtsformen.md)
+- Ist es ein bekannte [[Gedichtsformen |Gedichtsform]]
 - Welche sind die typischen Merkmale dieser Gedichtsform.
 - Welche Strophen gehören zusammen bzw. lassen sich Sinnabschnitte bilden
 

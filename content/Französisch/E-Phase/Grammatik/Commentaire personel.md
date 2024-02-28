@@ -1,6 +1,6 @@
 # Expressions
-![WIN_20221117_14_45_55_Scan.jpg](franz%C3%B6sisch/attachments/WIN_20221117_14_45_55_Scan.jpg)
-![WIN_20221117_14_46_39_Scan.jpg](franz%C3%B6sisch/attachments/WIN_20221117_14_46_39_Scan.jpg)
+![[französisch/attachments/WIN_20221117_14_45_55_Scan.jpg|französisch/attachments/WIN_20221117_14_45_55_Scan.jpg]]
+![[französisch/attachments/WIN_20221117_14_46_39_Scan.jpg|französisch/attachments/WIN_20221117_14_46_39_Scan.jpg]]
 ***
 # Nr.1
 
@@ -54,8 +54,8 @@ Parce-que...
 - Man könnte annehmen man könnte alles Erzählen und sich alles erlauben. 
 
 - Man muss Freiheit haben ... dennoch braucht man Grenzen
-[WIN_20221212_08_41_57_Scan.jpg](attachments/WIN_20221212_08_41_57_Scan.jpg)
-[attachments/WIN_20221212_08_20_27_Scan.jpg](../../../../docs/images/WIN_20221212_08_20_27_Scan.jpg)
+[[attachments/WIN_20221212_08_41_57_Scan.jpg|attachments/WIN_20221212_08_41_57_Scan.jpg]]
+[[../attachments/WIN_20221212_08_20_27_Scan.jpg|attachments/WIN_20221212_08_20_27_Scan.jpg]]
 
 
 

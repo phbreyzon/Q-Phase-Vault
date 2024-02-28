@@ -18,31 +18,31 @@ In Beziehung setzen
   
   
   > Andere Tipps 
-![../../misc/Media/Recording 20240228114659.webm](../../../docs/images/Recording%2020240228114659.webm)
+![[../../misc/Media/Recording 20240228114659.webm|../../misc/Media/Recording 20240228114659.webm]]
 
 
 > Durch die Formulierung eine Art Wertung
-![../../misc/Media/Recording 20240228114817.webm](../../../docs/images/Recording%2020240228114817.webm)
+![[../../misc/Media/Recording 20240228114817.webm|../../misc/Media/Recording 20240228114817.webm]]
  
 > Die Begründung schreiben 
-![../../misc/Media/Recording 20240228115035.webm](../../../docs/images/Recording%2020240228115035.webm)
+![[../../misc/Media/Recording 20240228115035.webm|../../misc/Media/Recording 20240228115035.webm]]
 
 
-![../../misc/Media/Recording 20240228115348.webm](../../../docs/images/Recording%2020240228115348.webm)
+![[../../misc/Media/Recording 20240228115348.webm|../../misc/Media/Recording 20240228115348.webm]]
 
 
 > Bezug auf das Material nehmen 
-![../../misc/Media/Recording 20240228115714.webm](../../../docs/images/Recording%2020240228115714.webm)
+![[../../misc/Media/Recording 20240228115714.webm|../../misc/Media/Recording 20240228115714.webm]]
 
 > Bezug direkt im Fließtext  + Quellenzitate 
-![../../misc/Media/Recording 20240228115816.webm](../../../docs/images/Recording%2020240228115816.webm)
+![[../../misc/Media/Recording 20240228115816.webm|../../misc/Media/Recording 20240228115816.webm]]
 
 
 
 > Bei einer Einordnung 
 > 
-![../../misc/Media/Recording 20240228120235.webm](../../../docs/images/Recording%2020240228120235.webm)
+![[../../misc/Media/Recording 20240228120235.webm|../../misc/Media/Recording 20240228120235.webm]]
 
 
 
-![../../misc/Media/Recording 20240228120519.webm](../../../docs/images/Recording%2020240228120519.webm)
+![[../../misc/Media/Recording 20240228120519.webm|../../misc/Media/Recording 20240228120519.webm]]

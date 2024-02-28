@@ -9,4 +9,4 @@ title: Paris
 - Au pied de la Tour Eiffel, il y a le Champ-de-Mars, qui a été utilisé pour des exercises et des défilés militaires. 
 - Aujourd'hui c'est un parc calme.
 
-## Vortragsthema: [Le Jardin des Tuileries](./Le%20Jardin%20des%20Tuileries.md) 
+## Vortragsthema: [[./Le Jardin des Tuileries|Le Jardin des Tuileries]] 

@@ -14,5 +14,5 @@ It is very likely the case, that other factors such as family issues as well as 
 
 
 
-![../../../misc/Media/Pasted image 20240215120026.png](../../../../docs/images/Pasted%20image%2020240215120026.png)
+![[../../../misc/Media/Pasted image 20240215120026.png|/misc/Media/Pasted image 20240215120026.png]]
 

@@ -1,1 +1,1 @@
-![attachments/WIN_20230504_14_23_45_Scan.jpg](../../../../../docs/images/WIN_20230504_14_23_45_Scan.jpg)
+![[./attachments/WIN_20230504_14_23_45_Scan.jpg|attachments/WIN_20230504_14_23_45_Scan.jpg]]

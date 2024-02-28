@@ -1,4 +1,4 @@
-![../../../misc/Media/WIN_20240227_10_11_01_Scan.jpg](../../../../docs/images/WIN_20240227_10_11_01_Scan.jpg)
+![[../../../misc/Media/WIN_20240227_10_11_01_Scan.jpg|../../../misc/Media/WIN_20240227_10_11_01_Scan.jpg]]
 
 ### Parallelen zum Drama “Woyzeck”
 

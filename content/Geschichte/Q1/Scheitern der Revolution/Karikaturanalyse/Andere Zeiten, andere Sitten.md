@@ -1,4 +1,4 @@
-![additional material/Reichsbremse.jpg](../../../../../docs/images/Reichsbremse.jpg)
+![[./additional material/Reichsbremse.jpg|additional material/Reichsbremse.jpg]]
 
 Die vorliegende Bildquelle ist eine Karikatur, die an dem Beiblat “Deutschen Bremse” zum “Leuchtturm”, am 26. Februar  1949 von einen unbekannten Verfasser in Leipzig veröffentlicht wurde, kritisiert das unbeständige Verhältnis von Friedrich Wilhelm IV und dem deutschen Volk. Konktret wird  das Ereignisse im Jahr 1848 in Berlin aufgegriffen und mit der Lage im darauffolgenden jahr, nämlich die Aufnahme der durch Preußen oktroyierte Verfassung, und die mit ihr verbundenen Rückkehr zu den restaurativen Verhältnissen, in Kontrast gesetzt. Die Karikatur war vor allem an die Leipziger politisch interessierte Leserschaft der Zeitung und im allgemein an dem gesamten Volk gerichtet. 
 
