@@ -1,1 +1,0 @@
-Ce sont les personnes qui sont nées après l'année 1995. Toutes ces personnes font partie de la soi-disant génération Z. D'ailleurs, cette génération passe beaucoup de leur temps sur l'internet. Mais il faut également ajouter qu'ils font aussi beaucoup de sport, surtout dans la salle de musculation. 
