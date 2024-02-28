@@ -1,3 +1,6 @@
+---
+title: Speech Analysis
+---
 ### 1. Understanding the context
 Identify the focus of analysis and the speaker’s aim or assignment. Then look at the context in which the speech was given.
 
