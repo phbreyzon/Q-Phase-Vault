@@ -15,7 +15,7 @@ Beim Cracken entstehen aus langkettigen Alkanen kürzerkettigen Alkane, Alkene u
 
 Wo es bei den Alkanen der Winkel tetraedisch ist (109.5°), ist es bei den Alkenen *Trigonal-Planar* (120°)
 
-![[../../../misc/Media/Ungesättigte Kohlenwasserstoffe 2023-11-10 11.45.16.svg|../../../misc/Media/Ungesättigte Kohlenwasserstoffe 2023-11-10 11.45.16.excalidraw]]
+![../../../misc/Media/Ungesättigte Kohlenwasserstoffe 2023-11-10 11.45.16.excalidraw](../../../../docs/images/Unges%C3%A4ttigte%20Kohlenwasserstoffe%202023-11-10%2011.45.16.svg)
 
 Die Alkene haben eine freie Drehbarkeit, wo hingegen es bei den Alkenen nicht so ist. 
 
