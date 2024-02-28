@@ -1,4 +1,4 @@
-![[../../../misc/Media/Pasted image 20231122193813.png|../../../misc/Media/Pasted image 20231122193813.png]]
+![[../../../misc/Media/Pasted image 20231122193813.png|Pasted image 20231122193813]]
 
 
 
