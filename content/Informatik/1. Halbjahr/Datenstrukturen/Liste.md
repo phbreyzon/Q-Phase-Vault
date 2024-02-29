@@ -1,4 +1,3 @@
-## Einfach verkettete Liste
 
 ## Mehrfach verkettete Liste
 ### Anwendungsgebiet

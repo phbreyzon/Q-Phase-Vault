@@ -12,6 +12,6 @@ Es gibt verschiedene Ableitungsgesetze, die uns helfen, die Ableitung von komple
 
 6. Quotientenregel: Die Ableitung des Quotienten zweier Funktionen $f(x) = \frac{u(x)}{v(x)}$ ist $f'(x) = \frac{u'(x) \cdot v(x) - u(x) \cdot v'(x)}{v(x)^{2}}$. Zum Beispiel ist die Ableitung von $f(x) = \frac{3x^2 + 2x}{x}$ gleich $f'(x) = \frac{6x + 2 - (3x^2 + 2x)}{x^{2}}$.
 
-7. [[misc/Kettenregel|misc/Kettenregel]]: Die Ableitung einer verketteten Funktion $f(x) = u(v(x))$ ist $f'(x) = u'(v(x)) \cdot v'(x)$.
+7. [[Mathematik/Analysis 1/Ableitung/Kettenregel|Kettenregel]]: Die Ableitung einer verketteten Funktion $f(x) = u(v(x))$ ist $f'(x) = u'(v(x)) \cdot v'(x)$.
 
 Diese Gesetze sind grundlegende Werkzeuge in der Differenzialrechnung und ermöglichen es uns, Ableitungen von Funktionen zu berechnen, um verschiedene Probleme in den Bereichen Mathematik, Physik und Ingenieurwissenschaften zu lösen.

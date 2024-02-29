@@ -1,7 +1,3 @@
----
-quickshare-date: 2023-12-11 20:35:04
-quickshare-url: https://noteshare.space/note/clq1bcbuh854801mw4ixpq9wd#+B2gVEBbzHGmnx2RMbD7UqmDUEc9D+hMo8ntqkdoPTo
----
 Nathanael scheint ein junger Mann zu sein, der unter intensiven psychischen Störungen leidet, die sich in Form von Paranoia, Halluzinationen und emotionaler Labilität manifestieren. Diese Symptome sind tief in seinem Unterbewusstsein verankert und werden durch traumatische Kindheitserlebnisse ausgelöst.
 
 Die zentrale Figur, die Nathanaels Psyche beeinflusst, ist der Sandmann, eine mythische Gestalt aus seiner Kindheit, die er mit Angst und Schrecken assoziiert. In frühen Jahren wurde ihm erzählt, dass der Sandmann den unartigen Kindern Sand in die Augen streut, woraufhin diese herausfallen und von ihm gesammelt werden. Diese grausame Erzählung hat sich tief in Nathanaels Unbewusstes eingegraben und steht symbolisch für Kastrationsangst, eine typische Phobie in der phallischen Phase der psychosexuellen Entwicklung nach meiner Theorie.
