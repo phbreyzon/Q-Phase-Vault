@@ -16,4 +16,4 @@ Für *zusammengesetzte Funktionen* gilt folgendes:
 | Stammfunktion $F$ | $F(x)=G(x) + H(x)$   | $F(x) = c \cdot G(x)$ | $F(x) = \frac{1}{c} \cdot G(c \cdot x + d)$ |     |
 
 
-![[misc/Media/Integralrechnung 2023-10-15 19.23.09.svg|misc/Media/Integralrechnung 2023-10-15 19.23.09.svg]]
+![[misc/Media/Integralrechnung 2023-10-15 19.23.09.excalidraw|misc/Media/Integralrechnung 2023-10-15 19.23.09.excalidraw]]
