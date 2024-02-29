@@ -24,9 +24,9 @@ Mit einigen Stoffen, wie Sauerstoff oder den *Halogenen* können sie reagieren, 
 ## Struktur 
 
 Ein *Methanmolekül* besitzt 4 Wasserstoffmoleküle um das Kohlenstoffatom herum. Sie halten größtmöglichem Abstand zueinander und sind deshalb **tetraedrisch um das Kohlenstoffatom** angeordnet, dementsprechend haben sie einen Winkel von $109.5°$ zueinander (welches auch als *Tetraederwinkel* bezeichnet wird).
-![[misc/Media/Alkane 2023-10-11 18.54.20.excalidraw|misc/Media/Alkane 2023-10-11 18.54.20.excalidraw]]
+![[misc/Media/Alkane 2023-10-11 18.54.20.svg|misc/Media/Alkane 2023-10-11 18.54.20.svg]]
 Das *Ethanmolekül* ist ebenfalls tetraedrisch aufgebaut, wobei es aus 2 gegenständigen Tetraedern besteht.
-![[misc/Media/Alkane 2023-10-11 18.58.24.excalidraw|misc/Media/Alkane 2023-10-11 18.58.24.excalidraw]]
+![[misc/Media/Alkane 2023-10-11 18.58.24.svg|misc/Media/Alkane 2023-10-11 18.58.24.svg]]
 
 Strutkrurisomerie bezieht sich auf Verbindungen, die die gleiche Summenformel haben, aber sich in der Annordung unterscheiden. 
 Diese Isomere haben ähnliche chemische Eigenschaften, da sie die gleichen Atomen enthalten, aber ihre Struktur kann variieren. 

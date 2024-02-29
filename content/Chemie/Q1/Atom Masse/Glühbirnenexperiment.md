@@ -18,7 +18,7 @@ share: true
 - destilliertes Wasser ($H_{2}O$)
 
 # Aufbau
-![[misc/Media/Excalidraw/Glühbirnenexperiment 2023-09-09 12.00.21.excalidraw|misc/Media/Excalidraw/Glühbirnenexperiment 2023-09-09 12.00.21.excalidraw]]
+![[misc/Media/Excalidraw/Glühbirnenexperiment 2023-09-09 12.00.21.svg|misc/Media/Excalidraw/Glühbirnenexperiment 2023-09-09 12.00.21.svg]]
 
 
 1. Die Glühbirnenfassung wird an dem Greifarm befestigt, so dass es über der Höhe des Bunsenbrenners liegt.
@@ -27,7 +27,7 @@ share: true
 4. Dan Greifarm mit brennender Glühbirne so über den Brenner halten, dass die Flamme nur das Glas beeinflussen kann.
 # Beobachtungen
 
-![[misc/Media/Excalidraw/Glühbirnenexperiment 2023-09-09 11.40.19.excalidraw|misc/Media/Excalidraw/Glühbirnenexperiment 2023-09-09 11.40.19.excalidraw]]
+![[misc/Media/Excalidraw/Glühbirnenexperiment 2023-09-09 11.40.19.svg|misc/Media/Excalidraw/Glühbirnenexperiment 2023-09-09 11.40.19.svg]]
 
 1. Nach langem Erhitzen platzt der Glaskolben nach außen auf
 2. Glühbirne erlischt (Der Draht ist gerissen)
