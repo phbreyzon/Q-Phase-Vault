@@ -29,7 +29,7 @@ Die Ethik zu begründen, ohne Sich dabei auf die Metaphysik zu stützen — das 
 
 Der Mensch kann sich in seiner Selbstbetrachtung zwei Standpunkte einnehmen, den der **Sinnlichkeit** und den der **Vernunft**:
 
-![[misc/Media/Kants Antropologie 2023-09-27 16.30.51.excalidraw|misc/Media/Kants Antropologie 2023-09-27 16.30.51.excalidraw]]
+![[misc/Media/Kants Antropologie 2023-09-27 16.30.51.svg|misc/Media/Kants Antropologie 2023-09-27 16.30.51.svg]]
 
 ### Die Menschenwürde
 

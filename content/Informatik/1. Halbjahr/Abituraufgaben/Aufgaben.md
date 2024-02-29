@@ -13,7 +13,7 @@ Und die Methoden:
   
 ### Zeichnen Sie die Beziehungen zwischen den Klassen in das Diagramm ein und erläutern Sie diese.
 
-![[misc/Media/Aufgaben 2023-11-22 08.50.26.excalidraw|misc/Media/Aufgaben 2023-11-22 08.50.26.excalidraw]]
+![[misc/Media/Aufgaben 2023-11-22 08.50.26.svg|misc/Media/Aufgaben 2023-11-22 08.50.26.svg]]
 
 Zwischen der Klasse Route und der Klasse Adresse besteht eine Aggregation in Richtung der Route, denn eine Route hat eine Adresse als Argument, sowie eine Adresse[] als Argument in seinem Konstruktor. Dementsprechend lässt sich daraus ziehen, dass mindestens eine Aggregation bestehen muss. usw...
 
