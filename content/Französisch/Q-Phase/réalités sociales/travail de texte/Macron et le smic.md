@@ -1,5 +1,3 @@
-***
-
 **Intervieweur**: Monsieur le Président, merci de nous rejoindre. Comment allez-vous?
 
 **Macron**: Je suis enchanté, comme toujours, de discuter des réalités sociales de notre belle France.
