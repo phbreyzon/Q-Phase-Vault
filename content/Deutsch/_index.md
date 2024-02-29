@@ -1,14 +1,47 @@
+%% Begin Waypoint %%
+- **Infos zu Gedichten**
+	- [[Gedichtsanalyse verfassen|Gedichtsanalyse verfassen]]
+	- [[Gedichtsformen|Gedichtsformen]]
+	- [[Metrum|Metrum]]
+	- [[Reimschemata|Reimschemata]]
+- **[Romantik](./Romantik/Romantik.md)**
+	- **Der Sandmann**
+		- [[Leitung zur Charakterisierung|Leitung zur Charakterisierung]]
+		- [[Lesereindrücker|Lesereindrücker]]
+		- [[Psychoanalyse Nathanaels|Psychoanalyse Nathanaels]]
+	- **Gedichtsinterpretationen**
+		- [[Hörst du wie die Brunnen rauschen|Hörst du wie die Brunnen rauschen]]
+		- [[Mondnacht|Mondnacht]]
+		- [[Rhetorische Mitteln|Rhetorische Mitteln]]
+		- [[Sekundärliteratur|Sekundärliteratur]]
+	- **Woyzeck**
+		- [[Anlehnung zu der Vorlage|Anlehnung zu der Vorlage]]
+		- [[Aufbau des Dramas|Aufbau des Dramas]]
+		- [[Büchners Kustauffassung|Büchners Kustauffassung]]
+		- [[Disput|Disput]]
+		- [[Dokumentation|Dokumentation]]
+		- [[Hessischer Landbote|Hessischer Landbote]]
+		- [[Lesereindrücke|Lesereindrücke]]
+		- [[Pauperismus|Pauperismus]]
+		- [[Restlichen Szenen|Restlichen Szenen]]
+		- [[Rollenbiografie|Rollenbiografie]]
+		- [[Szene 5|Szene 5]]
+		- [[Szenen 1-5|Szenen 1-5]]
+		- [[Theatralische Darstellung|Theatralische Darstellung]]
+
+%% End Waypoint %%
+
 # Relevante Literaturepochen
 
-- [[misc/#Aufklärung (1720 - 1790)|Aufklärung (1720 - 1790)]]
-- [[misc/#Empfindsamkeit (1740 - 1790)|Empfindsamkeit (1740 - 1790)]]
-- [[misc/#Sturm und Drang (1765 - 1790)|Sturm und Drang (1765 - 1790)]]
-- [[misc/#Weimarer Klassik (1786 - 1832)|Weimarer Klassik (1786 - 1832)]]
-- [[misc/#Romantik (1798 - 1835)|Romantik (1798 - 1835)]]
-- [[misc/#Biedermeier (1815 - 1848)|Biedermeier (1815 - 1848)]]
-- [[misc/#Vormärz / Junges Deutschland (1815 - 1848)|Vormärz / Junges Deutschland (1815 - 1848)]]
-- [[misc/#Realismus (1848 - 1890)|Realismus (1848 - 1890)]]
-- [[misc/#Naturalismus (1880 - 1900)|Naturalismus (1880 - 1900)]]
+- [[#Aufklärung (1720 - 1790)|Aufklärung (1720 - 1790)]]
+- [[#Empfindsamkeit (1740 - 1790)|Empfindsamkeit (1740 - 1790)]]
+- [[#Sturm und Drang (1765 - 1790)|Sturm und Drang (1765 - 1790)]]
+- [[#Weimarer Klassik (1786 - 1832)|Weimarer Klassik (1786 - 1832)]]
+- [[#Romantik (1798 - 1835)|Romantik (1798 - 1835)]]
+- [[#Biedermeier (1815 - 1848)|Biedermeier (1815 - 1848)]]
+- [[#Vormärz / Junges Deutschland (1815 - 1848)|Vormärz / Junges Deutschland (1815 - 1848)]]
+- [[#Realismus (1848 - 1890)|Realismus (1848 - 1890)]]
+- [[#Naturalismus (1880 - 1900)|Naturalismus (1880 - 1900)]]
 
 ## Aufklärung (1720 - 1790)
 Die Aufklärung war eine geistige Bewegung, die von Vernunft, Wissenschaft und individueller Freiheit geprägt war. Die Literatur dieser Epoche zeichnete sich durch rationalistische Ideen, politische Satire und Moraldidaktik aus, wobei Autoren wie Lessing und Goethe wichtige Vertreter waren.
@@ -22,7 +55,7 @@ Die Sturm und Drang-Bewegung war eine rebellische Jugendbewegung, die gegen die 
 ## Weimarer Klassik (1786 - 1832)
 Die Klassik war geprägt von einer Rückbesinnung auf die Antike und einer Betonung der Harmonie und Ausgewogenheit. Die Literatur zeichnete sich durch klare Strukturen, ästhetische Perfektion und Idealismus aus. Goethe und Schiller sind auch hier wichtige Vertreter.
 
-## [[misc/Romantik/Romantik |Romantik]] (1798 - 1835)
+## [[Deutsch/Romantik/Romantik|Romantik]] (1798 - 1835)
 Die Romantik war eine Reaktion auf die Industrialisierung und die Aufklärung. Sie betonte individuelle Empfindungen, das Unbewusste und die Sehnsucht nach dem Mystischen. Die Literatur war geprägt von emotionalen Naturbeschreibungen und fantastischen Elementen. Wichtige Vertreter sind Eichendorff, Novalis und die Brüder Grimm.
 
 ## Biedermeier (1815 - 1848)
