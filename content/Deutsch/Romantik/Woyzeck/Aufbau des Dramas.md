@@ -1,5 +1,5 @@
 
-![[misc/Media/Aufbau des Dramas 2024-02-13 10.46.34.svg|misc/Media/Aufbau des Dramas 2024-02-13 10.46.34.svg]]
+![[misc/Media/Aufbau des Dramas 2024-02-13 10.46.34.excalidraw|misc/Media/Aufbau des Dramas 2024-02-13 10.46.34.excalidraw]]
 
 #### Wie könnte eine solche Struktur? Handlungsstränge / Themen: 
 
