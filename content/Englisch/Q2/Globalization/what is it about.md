@@ -41,6 +41,7 @@
 | primary questions | Where does my country fit into global competition and opportunities | Where does my company fit into the global economy?                                                    | Where do  as an individual fit into the global competition and opportunities of the day, and how can I, on my own, collaborate with others globally? |
 | sizo of world     | from large to size                                                  | from medium to small                                                                                  | from small to tiny                                                                                                                                   |
 | time frame        | 1492-1800                                                           | 1800-2000                                                                                             | 2000-today                                                                                                                                           |
+|                   |                                                                     |                                                                                                       |                                                                                                                                                      |
 
 
 
@@ -75,7 +76,22 @@ c) The five life-changing technologies are:
 
 ### Nr.3 
 
+- unite global communities 
+- build sustainable economies 
+- adapt & modernise governance models 
+- reduce material & socal inequalities 
+- commit to value-based leadership of emerging tech 
+
 
 
 ### Nr.4 
 
+1. It is up to us to influence whether the fourth revolution will have positive or negative oucomes. It’s a means to an end. 
+2. We will move away from quantity, towards quality 
+3. We have enough power over the revolution that we can shape it to have the best outcome, socially as well. 
+
+
+
+![[misc/Media/IMG_1427.jpeg|misc/Media/IMG_1427.jpeg]]
+
+![[misc/Media/IMG_1437.jpeg|misc/Media/IMG_1437.jpeg]]
