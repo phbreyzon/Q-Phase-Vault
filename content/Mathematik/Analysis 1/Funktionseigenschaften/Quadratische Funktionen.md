@@ -11,15 +11,19 @@
 
 ## Von der Scheitelpunkt-form zur Normalform
 
+
 $$f(x)= 2(x-5)^2+3$$
 ### Rechnung: 
 
 - die 2. binomische Formel einsetzen: $(a-b)^2 = a^2-2ab+b^2$
 
+
 $$2 \cdot \left({x}^{2} - 2 \cdot x \cdot 5 + {5}^{2}\right) + 3$$
 - die klammer auflösen
+
 $$f(x) = (2x^{2}) - (2 \cdot 2 \cdot x \cdot 5)+ (2 \cdot 5^2)+3$$
 - Zusammenfassen
+
 $$f(x) = 2x^2 -20x + 53$$
 
 > Der Y-Achsenabschnitt kann nur mit der normal Formel herausgefunden werden, in diesem Fall beträgt dieser 53.
