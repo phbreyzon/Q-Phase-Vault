@@ -1,5 +1,3 @@
-
-
 [[misc/Media/WIN_20240222_12_07_51_Scan.jpg|ziehe AB1]]
 [[misc/Media/WIN_20240222_12_08_11_Scan.jpg|und AB2]]
 
