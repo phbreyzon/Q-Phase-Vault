@@ -67,7 +67,7 @@ Bei P3 ist die Nachfrage zu hoch und das Angebot zu niedrig.
 
 
 
-![[misc/Media/Einstieg 2024-02-22 12.50.11.excalidraw|misc/Media/Einstieg 2024-02-22 12.50.11.excalidraw]]
+![[misc/Media/Einstieg 2024-02-22 12.50.11.svg|misc/Media/Einstieg 2024-02-22 12.50.11.svg]]
 
 
 
