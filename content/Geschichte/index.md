@@ -40,11 +40,12 @@
 			- [[Einstieg|Einstieg]]
 			- [[Erfindungen und technischer Fortschritt|Erfindungen und technischer Fortschritt]]
 			- [[Wandel der Gesellschaft|Wandel der Gesellschaft]]
-		- **Innenpolitik**
+		- **[Innenpolitik](./Q2/Deutsche%20Kaiserreich/Innenpolitik/Innenpolitik.md)**
 			- [[Antisemitismus|Antisemitismus]]
 			- [[Characteristika|Characteristika]]
 			- [[Germanisierungspolitik|Germanisierungspolitik]]
 			- [[Kaisserreichsverfassung|Kaisserreichsverfassung]]
+			- [[Mögliche Fragestellungen|Mögliche Fragestellungen]]
 			- [[Politik und Gesellschaft|Politik und Gesellschaft]]
 			- [[Sozialgesetze|Sozialgesetze]]
 	- [[Themen der Arbeit|Themen der Arbeit]]
