@@ -1,5 +1,6 @@
 
-[[misc/Media/IMG_1416.jpeg| page1]]
+![[misc/Media/IMG_1416.jpeg| page1]]
+
 
 
 #### What are the threats to globalization

@@ -1,4 +1,4 @@
-Die Reichsverfassung des Deutschen Kaiserreichs von 1871 ist eine Verfassung, **die** sowohl fortschrittliche als auch konservative Elemente dieser Zeit vereint. Sie spiegelt die politische Struktur und Machtverhältnisse des Kaiserreichs wi**e**der, das zwischen Monarchie und Demokratie balancierte.
+Die Reichsverfassung des Deutschen Kaiserreichs von 1871 ist eine Verfassung, **die** sowohl fortschrittliche als auch konservative Elemente dieser Zeit vereint. Sie spiegelt die politische Struktur und Machtverhältnisse des Kaiserreichs wieder, das zwischen Monarchie und Demokratie balancierte.
 
 Der Kaiser ist das Oberhaupt des Staates und hat umfassende Befehlsgewalt über Armee und Marine sowie die Entscheidungsbefugnis in Kriegs- und Friedensangelegenheiten. Dadurch behält er eine starke monarchische Autorität.
 
