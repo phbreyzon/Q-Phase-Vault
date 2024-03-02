@@ -1,0 +1,1 @@
+- Alkohole, Alkanale, Aldehyde, Ketonen, Carbonsäuren
