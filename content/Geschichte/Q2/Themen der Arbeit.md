@@ -1,5 +1,3 @@
-
-
 - [ ] Bismarck Innenpolitik 
 	- [ ] Verhältnis zu den Parteien 
 	- [ ] Bismarcks Regierungstechnik 
@@ -13,41 +11,17 @@
 ****
 #### Stichpunkte 
 - In Beziehung setzen 
-- Kurz die Ansichten zusammenfassen 
-- Fließtext 
+- Kurz die Ansichten eines Autors zusammenfassen 
+- Alles in einem Fließtext schreiben 
 - 1. Die Ansichten 2. Was waren die Ansichten Bismarcks
   
-  
- **Reichsfeinden** 
- - Die Ziele der Innenpolitik
- - Kulturkampf und Sozialistengesetze
+ **Die Innenpolitik**
+ 1. Die Ziele der Innenpolitik
+ 2. genauer Umgang mit den Reichsfeinden 
+ 3. Kulturkampf und Sozialistengesetze 
+ 4. Welche Maßnahmen wurden durchgeführt 
+ 5. welche Ergebnisse entstanden daraus
 ![[misc/Media/Recording 20240228114659.webm|misc/Media/Recording 20240228114659.webm]]
 
 
-
-
-Durch die Formulierung eine Art Wertung
-![[misc/Media/Recording 20240228114817.webm|misc/Media/Recording 20240228114817.webm]]
- 
-Die Begründung schreiben 
-![[misc/Media/Recording 20240228115035.webm|misc/Media/Recording 20240228115035.webm]]
-
-
-![[misc/Media/Recording 20240228115348.webm|misc/Media/Recording 20240228115348.webm]]
-
-
-Bezug auf das Material nehmen 
-![[misc/Media/Recording 20240228115714.webm|misc/Media/Recording 20240228115714.webm]]
-
-Bezug direkt im Fließtext  + Quellenzitate 
-![[misc/Media/Recording 20240228115816.webm|misc/Media/Recording 20240228115816.webm]]
-
-
-
-Bei einer Einordnung 
-
-![[misc/Media/Recording 20240228120235.webm|misc/Media/Recording 20240228120235.webm]]
-
-
-
-![[misc/Media/Recording 20240228120519.webm|misc/Media/Recording 20240228120519.webm]]
+ziehe [[Geschichte/Klausurmethoden/Geschichtliche Einordnungen|Geschichtliche Einordnungen]] für weitere Tipps 
