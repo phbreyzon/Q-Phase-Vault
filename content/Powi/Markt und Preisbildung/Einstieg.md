@@ -1,4 +1,40 @@
-[[misc/Media/Markt und Preisbildung SuS.pdf|ziehe Arbeitsauftrag]]
+
+![[misc/Media/Markt und Preisbildung SuS.pdf|ziehe Arbeitsauftrag]]
+
+## Marktformen
+### Stichpunkte 
+
+**Vollkommener Markt:**
+Dient als Bezugspunkt für die unvollmoenen Märkte *(heterogene Märkte)* in der wirklichkeit. Diese sind allerdings kaum in der Wirklichkeit zu finden. Folgene Voraussetzungen sind erforderlich: 
+
+- Keine Präferenz zwischen den Marktteilnehmern
+
+- Beim gehandeltem Gut gibt es bei dem Urteil der Nachfrage kein Unterschied in Qualität, Aufmachung oder Verpackung. (homolog)
+
+- Zeitliche Faktoren, die die Lieferung oder Bezahlungszeit spielen keine Rolle. 
+  
+- Der Markt ist vollständig transparent, spricht dass jeder Nachfrager alle Angebote von jedem der Anbieter und jeder Anbieter jedem Gebot der Nachfrager kennt 
+
+- Die räumliche Begebenheit von Anbieter und Nachfrager spielt keine Rolle bspw. der Ort der Transaktion hat kein Einfluss 
+
+
+**Unterscheidungskriterien bei unterschiedliche Märkten:**
+Die Art eines Marktes wird nicht nur vom *Grad der Marktvollkommenheit* unterschieden, sondern auch von der *relativen Anzahl und Größe von Anbietern und Nachfragern*. Da aber eine Abgrenzung anhand dieser Kriterien sich als schwierig erweist nimmt man als zusätzliches Kriterium die *Beweglichkeit der Nachfrager bei Presiändernung:*
+
+> Der Effekt den die Preissenkung eines Anbieters auf die Nachfrage der konkurrierenden Anbieter ausübt. 
+
+****
+
+#### Unvollkommene Märkte 
+
+In der Wirklichkeit sind Märkte weder vollständig transparent, noch sind die Güter die angeboten werden homogen. Nachfrager sind in den meisten Fällen nicht über die Qualität, Verpackung und Preise der Konkurrenz informiert. Und zusätzlich nehmen persönliche Preferenzen, zeitliche sowie örtliche Faktoren (Präferenzen) Einfluss auf den Markt. 
+
+##### Absatzkurve für ein bestimmtes Gut eines Anbieters
+
+![[misc/Media/Pasted image 20240301171711.png|misc/Media/Pasted image 20240301171711.png]]
+
+Der in grün markierten Bereich zeigt, dass neue Nachfrager aufgrund der Preissenkung gereizt werden, die ansonsten wegen des zu hohen Preises gar nicht nachgefragt hätten. 
+
 
 ##### Nr.1 
 - Jeans Markt → polypol (Änderungen des Preis wirkt sich nicht auf de Konkurrenz)
@@ -18,9 +54,31 @@ Der Bäcker im Vorort hat deshalb einen monopolistische Preisspielraum, weil sei
 - **Allokationsfunktion:** Bei einem hohen Kaffeepreis wird seitens der Produzenten  wird expandiert, denn damit lassen sich die höchsten gewinne erzielen
 ##### Nr.2 
 
-![[misc/Media/Einstieg 2024-02-22 12.50.11.svg|misc/Media/Einstieg 2024-02-22 12.50.11.svg]]
+#### Wie Angebot und Nachfrage den Preis bestimmen
+
+![[misc/Media/Pasted image 20240301174746.png|misc/Media/Pasted image 20240301174746.png]]
+
+Bei P1 ist das Angebot zu hoch und die Nachfrage niedrig (Angebotsüberschuss), eine Preissenkung würde den Verkauf (Absatz) steigern. 
+Bei P2 befindet sich der Markt im Gleichgewicht.
+Bei P3 ist die Nachfrage zu hoch und das Angebot zu niedrig. 
+
+
+![[misc/Media/Pasted image 20240301174818.png|misc/Media/Pasted image 20240301174818.png]]
+
+
+
+![[misc/Media/Einstieg 2024-02-22 12.50.11.excalidraw|misc/Media/Einstieg 2024-02-22 12.50.11.excalidraw]]
+
+
+
+
+
+
+
 
 ![[misc/Media/Pasted image 20240222141221.png|misc/Media/Pasted image 20240222141221.png]]
+
+
 
 ![[misc/Media/WIN_20240222_13_32_59_Scan.jpg|misc/Media/WIN_20240222_13_32_59_Scan.jpg]]
 
