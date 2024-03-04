@@ -1,7 +1,7 @@
 Wehler charakterisiert Bismarcks Politik als:
 - polarisierend 
 - Ausgrenzend 
-- Die Reichsfreunde unter dem Nationalbewusstsein integrieren indem amn andere Auschließt
+- Die Reichsfreunde unter dem Nationalbewusstsein integrieren indem man andere Auschließt
 
 
 #### Hinzufügend 
