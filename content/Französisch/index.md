@@ -27,7 +27,7 @@
 		- [[La Famille|La Famille]]
 		- [[Le subjonctif|Le subjonctif]]
 		- [[Les formules et les expressions pour le dire|Les formules et les expressions pour le dire]]
-		- [[Französisch/E-Phase/Grammatik/Mediation|Französisch/E-Phase/Grammatik/Mediation]]
+		- [[Mediation|Mediation]]
 		- [[Passif|Passif]]
 		- [[Possesivbegleiter|Possesivbegleiter]]
 		- [[Questions|Questions]]
@@ -37,6 +37,7 @@
 	- **climat**
 		- [[Einstieg|Einstieg]]
 		- [[Idiomes et locutions|Idiomes et locutions]]
+		- [[l'énergie nucléaire|l'énergie nucléaire]]
 	- **Databases**
 
 	- **instructions**
@@ -50,7 +51,7 @@
 			- [[Personne 2|Personne 2]]
 			- [[un amie c'est quelqu'un|un amie c'est quelqu'un]]
 		- **ONGs**
-			- [[Französisch/E-Phase/Grammatik/Mediation|Französisch/E-Phase/Grammatik/Mediation]]
+			- [[Mediation|Mediation]]
 			- [[Mobil'douche|Mobil'douche]]
 		- **racisme**
 			- **Exercise 1**

@@ -9,7 +9,7 @@
 	- **Funktionseigenschaften**
 		- [[Quadratische Funktionen|Quadratische Funktionen]]
 		- [[trigonometrische Funktionen|trigonometrische Funktionen]]
-	- [[Mathematik/Analysis 1/Themen der Arbeit|Mathematik/Analysis 1/Themen der Arbeit]]
+	- [[Themen der Arbeit|Themen der Arbeit]]
 - **Analysis 2**
 	- **additional material**
 
@@ -22,5 +22,9 @@
 - **Lineare Algebra**
 	- [[Erste Übungen dazu|Erste Übungen dazu]]
 	- [[Gemischte Aufgaben|Gemischte Aufgaben]]
+	- [[Kolinearität und Parametergleichung|Kolinearität und Parametergleichung]]
+	- [[Lage zwischen Geraden|Lage zwischen Geraden]]
+	- [[Längen im Raum|Längen im Raum]]
+	- [[Themen der Arbeit|Themen der Arbeit]]
 
 %% End Waypoint %%

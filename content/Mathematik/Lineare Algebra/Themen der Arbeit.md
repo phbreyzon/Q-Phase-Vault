@@ -1,0 +1,11 @@
+- [ ] Umgang mit Vektoren 
+	- [ ] Addition, Subtraktion, Skalarmultiplikation 
+	- [ ] Linearkombination 
+	- [ ] Länge berechnen 
+	- [ ] Parallelität / Kollinearität erkennen 
+- [ ] Umgang mit dreidimentionalen Koordinatensystemen 
+	- [ ] Punkte ablesen 
+	- [ ] Punkte einzeichnen 
+- [ ]  Besondere Vierecke erkennen (insbesondere über Parallelität)
+- [ ] Abstand zweiter Punkte im Raum berechnen 
+- [ ] Geranden im Raum

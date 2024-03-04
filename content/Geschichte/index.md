@@ -44,10 +44,11 @@
 			- [[Antisemitismus|Antisemitismus]]
 			- [[Characteristika|Characteristika]]
 			- [[Germanisierungspolitik|Germanisierungspolitik]]
+			- [[Gesetzgebung Bismarcks|Gesetzgebung Bismarcks]]
 			- [[Kaisserreichsverfassung|Kaisserreichsverfassung]]
 			- [[Mögliche Fragestellungen|Mögliche Fragestellungen]]
+			- [[Nationalismus|Nationalismus]]
 			- [[Politik und Gesellschaft|Politik und Gesellschaft]]
-			- [[Sozialgesetze|Sozialgesetze]]
-	- [[Themen der Arbeit|Themen der Arbeit]]
+	- [[Geschichte/Q2/Themen der Arbeit|Geschichte/Q2/Themen der Arbeit]]
 
 %% End Waypoint %%
