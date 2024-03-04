@@ -1,0 +1,1 @@
+Dieser entsteht auf natürlicherweise wenn keine Eingriffe von Außen vorgenommen werden. Beeinflusst man diesen Extern durch beispielsweise die Feststellung eines Mindes- bzw. Höchstpreises kann sich der Preis nicht frei in das Marktgleichgewicht hineinpendeln.
