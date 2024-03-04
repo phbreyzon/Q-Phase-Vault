@@ -85,7 +85,7 @@ Eine Angebotskurve verläuft von unten nach oben. Bei niedrigen Preisen gibt es 
 - **linksverschiebende Faktoren:** Erhöhung der [[Powi/Markt und Preisbildung/Begriffe/Vorpreise|Vorpreise]]
 - **Rechtsverschiebende Faktoren:** Senkung der [[Powi/Markt und Preisbildung/Begriffe/Vorpreise|Vorpreise]] 
 
-![[misc/Media/Einstieg 2024-02-22 12.50.11.excalidraw|misc/Media/Einstieg 2024-02-22 12.50.11.excalidraw]]
+![[misc/Media/Einstieg 2024-02-22 12.50.11.svg|misc/Media/Einstieg 2024-02-22 12.50.11.svg]]
 
 ## Additional ressources
 
