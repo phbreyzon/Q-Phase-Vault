@@ -17,7 +17,7 @@
 		- [[Tipps beim Präsentieren|Tipps beim Präsentieren]]
 		- [[Vorschläge|Vorschläge]]
 - **normative Ethik**
-	- [[Einstieg|Einstieg]]
+	- [[Ethik/normative Ethik/Einstieg|Ethik/normative Ethik/Einstieg]]
 	- [[Kants gedanklicher Ausganspunkt|Kants gedanklicher Ausganspunkt]]
 	- [[Kants guter Wille|Kants guter Wille]]
 	- [[Universellen Entscheidungskompass|Universellen Entscheidungskompass]]

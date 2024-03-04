@@ -10,8 +10,13 @@
 	- [[Wahlsysteme im Vergleich|Wahlsysteme im Vergleich]]
 	- [[Wesensmerkmale und Entwicklung|Wesensmerkmale und Entwicklung]]
 - **Markt und Preisbildung**
-	- [[Einstieg|Einstieg]]
-	- [[Powi/Markt und Preisbildung/Themen der Arbeit|Powi/Markt und Preisbildung/Themen der Arbeit]]
+	- **Begriffe**
+		- [[Marktgleichgewicht|Marktgleichgewicht]]
+		- [[Vorpreise|Vorpreise]]
+	- [[BIP|BIP]]
+	- [[Grundbegriffe|Grundbegriffe]]
+	- [[Themen der Arbeit|Themen der Arbeit]]
+	- [[Wirtschaftskreislauf|Wirtschaftskreislauf]]
 	- [[Wirtschaftswachstum|Wirtschaftswachstum]]
 - **Öffentlichkeit im Wandel**
 	- [[Blog|Blog]]
