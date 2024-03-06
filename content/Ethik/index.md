@@ -16,10 +16,10 @@
 		- [[The ethical elements of enhancement|The ethical elements of enhancement]]
 		- [[Tipps beim Präsentieren|Tipps beim Präsentieren]]
 		- [[Vorschläge|Vorschläge]]
-- **normative Ethik**
+- **[normative Ethik](./normative%20Ethik/normative%20Ethik.md)**
 	- [[Ethik/normative Ethik/Einstieg|Ethik/normative Ethik/Einstieg]]
-	- [[Kants gedanklicher Ausganspunkt|Kants gedanklicher Ausganspunkt]]
 	- [[Kants guter Wille|Kants guter Wille]]
+	- [[Pflicht und Achtung für das Gesetz|Pflicht und Achtung für das Gesetz]]
 	- [[Universellen Entscheidungskompass|Universellen Entscheidungskompass]]
 - **Tierethik**
 	- [[Leidensfähigkeit|Leidensfähigkeit]]
