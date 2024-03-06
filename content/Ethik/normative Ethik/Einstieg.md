@@ -1,7 +1,9 @@
+[[misc/Media/01 PPP_KANT.pdf|ziehe Source]]
+## Gedankenexperiment 
 
 #### Utilitarismus: (teleologisch bzw. Konsequntialistisch)
 
-Das Flugzeug wird abgeschossen.Zwar werden alle Passagiere in diesem Flugzezug sterben, es können jedoch mehr Menschen dadurch gerettet werden (Quantitätskriterium). Der Nutzen ist also größer beim Abschießen. 
+Das Flugzeug wird abgeschossen. Zwar werden alle Passagiere in diesem Flugzezug sterben, es können jedoch mehr Menschen dadurch gerettet werden (Quantitätskriterium). Der Nutzen ist also größer beim Abschießen. 
 
 - 160 Personen vs. 75000 Menschen (Quantitätskriterum)
 - 160 Menschen im Flugzeug sterben sowieso 
@@ -17,12 +19,4 @@ Das Flugzeug wird nicht abgeschossen. Das moralische Prinzip in einem verbietet 
 - Menschen zu Objekten degradieren
 - Schutz des Lebens gilt auch für Todgeweihte
 
-### Gedankenexperiment
-
-- Enthaltung ist auch eine aktive Entscheidung 
-
-Beide Stellungen beschäftigen sich mit der Grundfrage der *philosophischen Ethik*, nämlich mit der Frage: 
-> Was sollen wir tun?
-
-
-Definition von gut von Menschen bestimmt problemantisch?
+Ziehe [[Ethik/E-Phase/Anthropologie/Kant/Kants Anthropologie|Kants Anthropologie]], um über sein Menschenbild zu erfahren. 
