@@ -1,0 +1,2 @@
+- [ ] [[Informatik/Q2/Datenbanken/Relationale Algebra|Relationale Algebra]]
+- [ ] 
