@@ -25,6 +25,6 @@
 
 **Definition für Pflicht:** “Die Notwendigkeit einer Handlung aus Achtung fürs Gesetz”
 
-**Gefühl von Achtung:** Das Gefühl von Achtung definiert Kant als eine Reaktion, die nicht unmittelbar dazu dient, das Handelnd zu beeinflussen, sondern als eine Reaktion auf das Gesetz, das auf meine Vernunft wirkt. Wenn ich also ein Gesetz für mich gültig erkenne, reagiere ich mit Achtung, was bedeutet, dass ich mir bewusst bin, dass mei Wille diesem Gesetz untergeordnet ist. 
+**Gefühl von Achtung:** Das Gefühl von Achtung definiert Kant als eine Reaktion, die nicht unmittelbar dazu dient, das Handelnd zu beeinflussen, sondern als eine Reaktion auf das Gesetz, das auf meine Vernunft wirkt. Wenn ich also ein Gesetz für mich gültig erkenne, reagiere ich mit Achtung, was bedeutet, dass ich mir bewusst bin, dass mein Wille diesem Gesetz untergeordnet ist. 
 
 **Achtung:** Achtung ist also das Bewusstsein der Unterordnung meines Willens unter ein Gesetz, das mein Handeln leitet. 
