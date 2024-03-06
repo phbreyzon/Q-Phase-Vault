@@ -1,6 +1,11 @@
 ![[misc/Media/04_Der kategorische Imperativ als allgemein gültiges Moralprinzip.pdf|misc/Media/04_Der kategorische Imperativ als allgemein gültiges Moralprinzip.pdf]]
 
-### Moraltest 
+## Kategorischer Imperativ 
+
+![[misc/Media/04_Herleitung des kategorischen Imperativs_Schaubild.jpg|misc/Media/04_Herleitung des kategorischen Imperativs_Schaubild.jpg]]
+
+
+## Moraltest 
 
 **Beschreibung des Moralischen Dilemmas:** 
 jemand befindet sich in einer Geldnotlage und will sich Geld leihen, obwohl er weiß, dass er’s wahrscheinlich nicht mehr zurückzahlen kann. Wenn er’s aber nicht verpsricht, das Geld zurückzugeben, dann wird er kein Geld kriegen. 
