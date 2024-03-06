@@ -18,4 +18,3 @@
 - Hauptmann 
 	- Mit der Vergänglichkeit der Zeit besessen
 - Doktor ist wahnsinniger als der Hauptmann 
-- 

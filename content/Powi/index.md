@@ -11,11 +11,12 @@
 	- [[Wesensmerkmale und Entwicklung|Wesensmerkmale und Entwicklung]]
 - **Markt und Preisbildung**
 	- **Begriffe**
+		- [[Einkommensättigung|Einkommensättigung]]
 		- [[Marktgleichgewicht|Marktgleichgewicht]]
 		- [[Vorpreise|Vorpreise]]
 	- [[BIP|BIP]]
 	- [[Grundbegriffe|Grundbegriffe]]
-	- [[Themen der Arbeit|Themen der Arbeit]]
+	- [[Powi/Markt und Preisbildung/Themen der Arbeit|Powi/Markt und Preisbildung/Themen der Arbeit]]
 	- [[Wirtschaftskreislauf|Wirtschaftskreislauf]]
 	- [[Wirtschaftswachstum|Wirtschaftswachstum]]
 - **Öffentlichkeit im Wandel**

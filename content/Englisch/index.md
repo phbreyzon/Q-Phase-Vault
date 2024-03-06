@@ -45,11 +45,12 @@
 - **Q2**
 	- **Globalization**
 		- [[Consumption|Consumption]]
+		- [[Economy vs Ecology|Economy vs Ecology]]
 		- [[Entry|Entry]]
 		- [[industrial revolutions|industrial revolutions]]
 		- [[Mediation|Mediation]]
 		- [[Shared Benefits|Shared Benefits]]
-	- **Gran Tourino**
+	- **Gran Torino**
 		- [[Verbs and expressions|Verbs and expressions]]
 	- **Gun culture**
 		- [[Main aspects of Gun culture|Main aspects of Gun culture]]
@@ -58,5 +59,6 @@
 	- **Mediation**
 		- **[Deutsche Gangs mediation](./Q2/Mediation/Deutsche%20Gangs%20mediation/Deutsche%20Gangs%20mediation.md)**
 			- [[Deutsche Gangs Text|Deutsche Gangs Text]]
+		- [[Die Reichen|Die Reichen]]
 
 %% End Waypoint %%
