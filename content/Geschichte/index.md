@@ -37,7 +37,7 @@
 	- **[Deutsche Kaiserreich](./Q2/Deutsche%20Kaiserreich/Deutsche%20Kaiserreich.md)**
 		- **[Industrialisierung](./Q2/Deutsche%20Kaiserreich/Industrialisierung/Industrialisierung.md)**
 			- [[Die soziale Frage|Die soziale Frage]]
-			- [[Geschichte/Q2/Deutsche Kaiserreich/Industrialisierung/Einstieg|Geschichte/Q2/Deutsche Kaiserreich/Industrialisierung/Einstieg]]
+			- [[Einstieg|Einstieg]]
 			- [[Erfindungen und technischer Fortschritt|Erfindungen und technischer Fortschritt]]
 			- [[Wandel der Gesellschaft|Wandel der Gesellschaft]]
 		- **[Innenpolitik](./Q2/Deutsche%20Kaiserreich/Innenpolitik/Innenpolitik.md)**
@@ -49,6 +49,8 @@
 			- [[Mögliche Fragestellungen|Mögliche Fragestellungen]]
 			- [[Nationalismus|Nationalismus]]
 			- [[Politik und Gesellschaft|Politik und Gesellschaft]]
-	- [[Geschichte/Q2/Themen der Arbeit|Geschichte/Q2/Themen der Arbeit]]
+	- **Erster Weltkrieg**
+		- [[Einstieg|Einstieg]]
+	- [[Themen der Arbeit|Themen der Arbeit]]
 
 %% End Waypoint %%
