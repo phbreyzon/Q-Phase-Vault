@@ -1,0 +1,1 @@
+Der Verdienst mit der sich Leuten in unterschiedlichen Ländern zufrieden geben. Wenn diese Einkommensättigung erreicht ist, dann hat eine Erhöhung des Gehaltes keine bemerkbare Folgen auf das Wohlergehen einer person
