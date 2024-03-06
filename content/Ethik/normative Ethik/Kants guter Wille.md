@@ -1,4 +1,7 @@
-[[misc/Media/01_Kant, Guter Wille.pdf|ziehe Quelle]]
+![[misc/Media/01_Kant, Guter Wille.pdf|ziehe Quelle]]
+
+
+
 ##### 1. Was kann nach Kant ohne Einschränkungen für gut geheißen werden?
 ein guter Wille 
 ##### 2. In welcher Beziehung stehen die Talente des Geistes und der Wille zueinander?
@@ -23,5 +26,26 @@ Der gute Wille hat also einen intrinsischen Wert (ein Juwel quasi, welches unabh
 ##### 8. Gibt es etwas, was den guten Willen einschränkt? 
 Besondere Ungunste des Schicksals oder natürliche Begrenzungen. Externe Faktoren können also den guten Willen in ihrer Durchsetzungsfähigkeit einschränken. 
 
+***
 
-
+- Ohne Einschränkungen gut 
+- Allen durch das *Wollen* ist er gut (nicht durch das was er bewirkt)
+- Eine Handlung, die aus gutem Willen entstanden ist, die aber ihr Ziel vielleicht nicht erreicht hat, hat  seinen vollen moralischen Wert
+- Wirkt sich auf: 
+	- **Talente des Geistes:** 
+		- Verstand 
+		- Witz 
+		- Urteilskraft
+	- **Eigenschaften des Temperaments (Persönlichkeitsmerkmale):**
+		- Mut 
+		- Entschlossenheit 
+		- Behaarlichkeit
+	- **Glücksgaben:** 
+		- Macht 
+		- Reichtum 
+		- Ehre
+		- Gesundheit
+		- Zufriedenheit 
+		  
+- Wenn der Wille nicht gut ist, können all diese Eigenschaften gefährlich werden wenn der Wille, der von ihnen Gebrauch macht, nicht gut ist (→ Kriminal komissar / Bankräuber, Jeffrey Dahmer)
+- Laut Kant: *Gibt es immer die Möglichkeit sich anders zu Entscheiden. Die Entscheidung nicht gut zu handeln ist eine bewusste Entscheidung.* Für Begründung ziehe [[Ethik/E-Phase/Anthropologie/Kant/Kants Anthropologie|Kants Anthropologie]]
