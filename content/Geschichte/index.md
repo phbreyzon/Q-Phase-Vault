@@ -50,7 +50,7 @@
 			- [[Nationalismus|Nationalismus]]
 			- [[Politik und Gesellschaft|Politik und Gesellschaft]]
 	- **Erster Weltkrieg**
-		- [[Einstieg|Einstieg]]
+		- [[Außenpolitik Bismarcks|Außenpolitik Bismarcks]]
 	- [[Themen der Arbeit|Themen der Arbeit]]
 
 %% End Waypoint %%
