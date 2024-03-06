@@ -1,7 +1,5 @@
 ![[misc/Media/01_Kant, Guter Wille.pdf|ziehe Quelle]]
 
-
-
 ##### 1. Was kann nach Kant ohne Einschränkungen für gut geheißen werden?
 ein guter Wille 
 ##### 2. In welcher Beziehung stehen die Talente des Geistes und der Wille zueinander?
