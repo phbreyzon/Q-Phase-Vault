@@ -35,7 +35,7 @@
 - Das BIP misst nicht die unbezahlte Arbeit. 89 Milliarden Stunden werden nicht bezahlt in Deutshland 
 - Das BIP erhöht sich und der Wohlstand der Menschen stagniert oder geht sogar zurück 
 
-- [[Einkommensättigung|Einkommensättigung]]
+- [[Powi/Markt und Preisbildung/Begriffe/Einkommensättigung|Powi/Markt und Preisbildung/Begriffe/Einkommensättigung]]
 - Das Wohlbefinden des Ökosystem wird  nicht von BIP erfasst 
 - Steigerungen im BIP lönnen ebefalls dazu beitragen, dass die Umwelt geschadet wird. 
 	- 2010 stieg das BIP von USA bei einem Ölleak 
