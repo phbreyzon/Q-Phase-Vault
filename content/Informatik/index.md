@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- **1. Halbjahr**
+- **Q1**
 	- **Abituraufgaben**
 		- [[Aufgaben|Aufgaben]]
 	- **Algorithmen**
@@ -14,8 +14,11 @@
 		- [[Liste|Liste]]
 		- [[Schlange|Schlange]]
 	- [[Klausurenthemen|Klausurenthemen]]
-	- **[UML](./1.%20Halbjahr/UML/UML.md)**
+	- **[UML](./Q1/UML/UML.md)**
 		- [[ERM|ERM]]
 		- [[Klassendiagramme|Klassendiagramme]]
+- **[Q2](./Q2/Q2.md)**
+	- **[Datenbanken](./Q2/Datenbanken/Datenbanken.md)**
+		- [[Relationale Algebra|Relationale Algebra]]
 
 %% End Waypoint %%
