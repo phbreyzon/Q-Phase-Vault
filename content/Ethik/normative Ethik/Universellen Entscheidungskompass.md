@@ -4,7 +4,9 @@
 
 ![[misc/Media/04_Herleitung des kategorischen Imperativs_Schaubild.jpg|misc/Media/04_Herleitung des kategorischen Imperativs_Schaubild.jpg]]
 
-
+![[misc/Media/WIN_20240306_17_49_12_Scan.jpg|misc/Media/WIN_20240306_17_49_12_Scan.jpg]]
+**Fazit:**
+> Kant fordert den Handelnden auf, sich selbst zu fragen, “ob die Handlung, die du vorhast, wenn sie nach einem Gesetz der Natur, von der du selbst ein Teil wärest, geschehen sollte, du sie wohl als durch deinen Willen möglich ansehen könntest”
 ## Moraltest 
 
 **Beschreibung des Moralischen Dilemmas:** 
