@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "de-GER",
+    locale: "de-DE",
     baseUrl: "phbreyzon.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
