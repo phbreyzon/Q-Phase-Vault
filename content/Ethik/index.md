@@ -23,6 +23,7 @@
 	- [[Probeklausur|Probeklausur]]
 	- [[Übungen|Übungen]]
 	- [[Universellen Entscheidungskompass|Universellen Entscheidungskompass]]
+	- [[Weiter Notizen|Weiter Notizen]]
 - **Tierethik**
 	- [[Leidensfähigkeit|Leidensfähigkeit]]
 	- [[Peter Singer|Peter Singer]]
