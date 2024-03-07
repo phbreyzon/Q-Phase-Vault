@@ -8,7 +8,7 @@
 		- **Pflicht:** “Werden durch die Achtung an einem *objektiv moralischem Gesetz* bestimmt”. → **Nur dann liegt der Handlung ein guter Wille zugrunde**
 			- Nur diese Art von Handlung haben echten moralischen Wert. 
 			- sind objektiv, d.h. unabhängig von individuellen Vorlieben
-		- **Pflicht = Notwendigkeit einer Handlung aus Achtung für’s ==Gesetz== (gemeint ist hier das objektive moralische Gesetz) → im Sinne von Einsicht {Aus Einsicht heraus}**
+		- **Pflicht = Notwendigkeit einer Handlung aus Achtung für’s ==Gesetz== (gemeint ist hier das moralische Gesetz) → im Sinne von Einsicht {Aus Einsicht heraus}**
 		- ABER: Anders als Gefühle (Neigungen) ist das Gefühl der Achtung nicht die Ursache für mein Handlung, sondern die *“Wirkung des Gesetzes auf die Vernunft”* 
 
 ## Kant unterscheidet zwischen 3 Handlungstypen: 
