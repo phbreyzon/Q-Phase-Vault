@@ -44,6 +44,7 @@
 		- [[Themen der Arbeit 2|Themen der Arbeit 2]]
 - **Q2**
 	- **Globalization**
+		- [[Climate summit in Scottland|Climate summit in Scottland]]
 		- [[Consumption|Consumption]]
 		- [[Economy vs Ecology|Economy vs Ecology]]
 		- [[Entry|Entry]]
