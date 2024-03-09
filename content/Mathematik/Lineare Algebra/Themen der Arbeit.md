@@ -1,15 +1,15 @@
-- [ ] Umgang mit Vektoren
-	- [ ] Addition, Subtraktion, Skalarmultiplikation
-	- [ ] Linearkombinationen
-	- [ ] Länge berechnen
-	- [ ] Parallelität/Kollinearität erkennen
-- [ ] Umgang mit dreidimensionalen Koordinatensystemen
-	- [ ] Punkte ablesen
-	- [ ] Punkte einzeichnen
-- [ ] Besondere Vierecke erkennen (insbesondere über Parallelität)
-- [ ] Abstand zweier Punkte im Raum berechnen
-- [ ] Geraden (im Raum)
-	- [ ] Parameterdarstellung
-	- [ ] Punkte der Geraden bestimmen
-	- [ ] Punktprobe
-	- [ ] Lagebeziehungen
+- [x] Umgang mit Vektoren
+	- [x] Addition, Subtraktion, Skalarmultiplikation
+	- [x] Linearkombinationen
+	- [x] Länge berechnen
+	- [x] Parallelität/Kollinearität erkennen
+- [x] Umgang mit dreidimensionalen Koordinatensystemen
+	- [x] Punkte ablesen
+	- [x] Punkte einzeichnen
+- [x] Besondere Vierecke erkennen (insbesondere über Parallelität)
+- [x] Abstand zweier Punkte im Raum berechnen
+- [x] Geraden (im Raum)
+	- [x] Parameterdarstellung
+	- [x] Punkte der Geraden bestimmen
+	- [x] Punktprobe
+	- [x] Lagebeziehungen
