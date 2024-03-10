@@ -25,6 +25,6 @@
 	- [[Kolinearität und Parametergleichung|Kolinearität und Parametergleichung]]
 	- [[Lage zwischen Geraden|Lage zwischen Geraden]]
 	- [[Längen im Raum|Längen im Raum]]
-	- [[Themen der Arbeit|Themen der Arbeit]]
+	- [[Themen Lineare Algebra|Themen Lineare Algebra]]
 
 %% End Waypoint %%

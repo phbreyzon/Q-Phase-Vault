@@ -51,6 +51,6 @@
 			- [[Politik und Gesellschaft|Politik und Gesellschaft]]
 	- **Erster Weltkrieg**
 		- [[Außenpolitik Bismarcks|Außenpolitik Bismarcks]]
-	- [[Themen der Arbeit|Themen der Arbeit]]
+	- [[Geschichte/Q2/Themen der Arbeit|Geschichte/Q2/Themen der Arbeit]]
 
 %% End Waypoint %%
