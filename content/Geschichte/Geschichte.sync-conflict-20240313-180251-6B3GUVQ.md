@@ -4,7 +4,6 @@
 
 
 %% Begin Waypoint %%
-- [[Geschichte.sync-conflict-20240313-180251-6B3GUVQ|Geschichte.sync-conflict-20240313-180251-6B3GUVQ]]
 - **Klausurmethoden**
 	- [[Geschichtliche Einordnungen|Geschichtliche Einordnungen]]
 - **Q1**
