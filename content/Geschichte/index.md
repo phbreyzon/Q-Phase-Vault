@@ -37,7 +37,7 @@
 	- **[Deutsche Kaiserreich](./Q2/Deutsche%20Kaiserreich/Deutsche%20Kaiserreich.md)**
 		- **[Industrialisierung](./Q2/Deutsche%20Kaiserreich/Industrialisierung/Industrialisierung.md)**
 			- [[Die soziale Frage|Die soziale Frage]]
-			- [[Einstieg|Einstieg]]
+			- [[Geschichte/Q2/Deutsche Kaiserreich/Industrialisierung/Einstieg|Geschichte/Q2/Deutsche Kaiserreich/Industrialisierung/Einstieg]]
 			- [[Erfindungen und technischer Fortschritt|Erfindungen und technischer Fortschritt]]
 			- [[Wandel der Gesellschaft|Wandel der Gesellschaft]]
 		- **[Innenpolitik](./Q2/Deutsche%20Kaiserreich/Innenpolitik/Innenpolitik.md)**
@@ -51,6 +51,7 @@
 			- [[Politik und Gesellschaft|Politik und Gesellschaft]]
 	- **Erster Weltkrieg**
 		- [[Außenpolitik Bismarcks|Außenpolitik Bismarcks]]
+		- [[Bismarcks Abschied|Bismarcks Abschied]]
 	- [[Geschichte/Q2/Themen der Arbeit|Geschichte/Q2/Themen der Arbeit]]
 
 %% End Waypoint %%
