@@ -4,6 +4,7 @@
 
 
 %% Begin Waypoint %%
+- [[Geschichte.sync-conflict-20240313-180251-6B3GUVQ|Geschichte.sync-conflict-20240313-180251-6B3GUVQ]]
 - **Klausurmethoden**
 	- [[Geschichtliche Einordnungen|Geschichtliche Einordnungen]]
 - **Q1**
@@ -52,6 +53,7 @@
 	- **Erster Weltkrieg**
 		- [[Außenpolitik Bismarcks|Außenpolitik Bismarcks]]
 		- [[Bismarcks Abschied|Bismarcks Abschied]]
-	- [[Geschichte/Q2/Themen der Arbeit|Geschichte/Q2/Themen der Arbeit]]
+		- [[Der Neue Kurs|Der Neue Kurs]]
+	- [[Themen der Arbeit|Themen der Arbeit]]
 
 %% End Waypoint %%
