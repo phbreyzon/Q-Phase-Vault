@@ -13,7 +13,7 @@ Grund dafür sind die zwischenmolekulare Kräfte.
 
 Das Ethanolmolekül  besteht aus einer unpolaren Alkylgruppe (lipohil) und einer polaren Hydroxygruppe (hydrophil), dementsprechend lässt sich Ethanol auch in Wasser lösen. 
 
-![[misc/Media/Alkanole 2024-03-13 20.13.04.excalidraw|misc/Media/Alkanole 2024-03-13 20.13.04.excalidraw]]
+![[misc/Media/Alkanole 2024-03-13 20.13.04.svg|misc/Media/Alkanole 2024-03-13 20.13.04.svg]]
 
 ### Siedetemperaturen 
 Die Siedetemperaturder Alkanole liegt deutlich über die der Alkane. Dies liegt hauptsächlich daran, dass die Alkanole Wasserstoffbrückenbindungen bilden können. Mit längerwerdene Alkylgruppen steigt die Siedetemperatur, ähnlich wie bei den Alkanen, da die wachsende länge der unpolaren Alkylgruppe auch die Van-der-Waals-Kräfte verstärkt.
