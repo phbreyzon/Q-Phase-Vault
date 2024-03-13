@@ -17,9 +17,17 @@
 	- **[UML](./Q1/UML/UML.md)**
 		- [[ERM|ERM]]
 		- [[Klassendiagramme|Klassendiagramme]]
-- **[Q2](./Q2/Q2.md)**
+- **Q2**
 	- **[Datenbanken](./Q2/Datenbanken/Datenbanken.md)**
-		- [[ERM|ERM]]
-		- [[Relationale Algebra|Relationale Algebra]]
+		- [[Anomalien|Anomalien]]
+		- [[Das 3 Schichtenmodell|Das 3 Schichtenmodell]]
+		- **[ERM](./Q2/Datenbanken/ERM/ERM.md)**
+			- [[Übungen zu ERM|Übungen zu ERM]]
+		- [[Normalisierung|Normalisierung]]
+		- [[RDM|RDM]]
+		- **[Relationale Algebra](./Q2/Datenbanken/Relationale%20Algebra/Relationale%20Algebra.md)**
+			- [[Übungen zu RA|Übungen zu RA]]
+		- [[Vom ERM zum RDM|Vom ERM zum RDM]]
+	- **Softwareprojekt**
 
 %% End Waypoint %%

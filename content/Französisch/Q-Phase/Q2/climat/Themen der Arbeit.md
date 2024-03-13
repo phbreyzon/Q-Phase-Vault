@@ -1,0 +1,2 @@
+- [ ] Mediation (Möglichst viel mit eigenen Worten. Das wichtigste schreiben)
+- [ ] Commentaire (Keine Richtigen Einleitung. wird ohne Text sein bzw. auf den bereits vorhandenen Text anknüpfen. Pro- Contra abwegen und am Ende an eine Begründung kommen)

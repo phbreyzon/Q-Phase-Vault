@@ -7,13 +7,3 @@ Darüber hinaus können Menschen ihre Sprache nutzen, um über Dinge zu sprechen
 Insgesamt ist die menschliche Sprache ein einzigartiges Merkmal unserer Spezies und hat uns geholfen, komplexe Gesellschaften aufzubauen und unser Wissen von Generation zu Generation weiterzugeben.
 
 
-### Vortrag
-
-Das Modell unterscheidet unter folgenden Kategorien:
-- Ausdruck
-- Auslösefunktion
-- Darstellungsfunktion
-	- Argumentative Funktion 
-
-unmoralisch, weil es nicht mit dem gesamt Gesellschaftliches Ziel übreieinstimmt
-

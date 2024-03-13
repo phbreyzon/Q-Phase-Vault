@@ -19,9 +19,6 @@
 - Fokus auf die Differenzierung.
 
 
- Das Gesamte Modell von Sprache
-![[misc/Kommunikationsmodell|Das Modell der Sprache]]
-
 ## Können Tiere Denken?
 
 ● Denken ist etwas Urteil externes zu bejahen oder zu verneinen

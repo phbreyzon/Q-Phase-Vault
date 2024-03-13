@@ -9,3 +9,19 @@
 - Bismarck hatte Bedenken, dass sich Frankreich das neu annektierte Elsaß-Lothringen durch Krieg zurückholt, deshalb er Bündnisse mit Frankreich ablehnte.
 
 ![[misc/Media/Darstellungstext Bismarcks Außenpolitik.pdf|misc/Media/Darstellungstext Bismarcks Außenpolitik.pdf]]
+
+
+
+### Bismarck Denkmal 
+- Kulturkampf
+- Abneigungn gegen Demokratie 
+- Umgang mit Minderheiten 
+
+- Sozialgesetze 
+
+- Vermittlung zwischen Großmächten 
+- Wollte für Frieden sorgen 
+- Auschließung Frankreichs 
+
+- grober Steckbrief
+Eine umstritte Persönlichkeit 
