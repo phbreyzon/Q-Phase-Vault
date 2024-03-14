@@ -50,7 +50,8 @@
 		- [[Economy vs Ecology|Economy vs Ecology]]
 		- [[Entry|Entry]]
 		- [[industrial revolutions|industrial revolutions]]
-		- [[Englisch/Q2/Globalization/Mediation|Englisch/Q2/Globalization/Mediation]]
+		- [[Mediation|Mediation]]
+		- [[Produktionsstandrorte Europa|Produktionsstandrorte Europa]]
 		- [[Pursuit of Profit|Pursuit of Profit]]
 		- [[Shared Benefits|Shared Benefits]]
 	- **Gran Torino**
