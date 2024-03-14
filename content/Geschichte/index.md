@@ -54,6 +54,6 @@
 		- [[Außenpolitik Bismarcks|Außenpolitik Bismarcks]]
 		- [[Bismarcks Abschied|Bismarcks Abschied]]
 		- [[Der Neue Kurs|Der Neue Kurs]]
-	- [[Themen der Arbeit|Themen der Arbeit]]
+	- [[Geschichte/Q2/Themen der Arbeit|Geschichte/Q2/Themen der Arbeit]]
 
 %% End Waypoint %%
