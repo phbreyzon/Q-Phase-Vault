@@ -4,6 +4,9 @@
 	- [[Gedichtsformen|Gedichtsformen]]
 	- [[Metrum|Metrum]]
 	- [[Reimschemata|Reimschemata]]
+- **Materialgestütztes Schreiben**
+	- [[Der Kommentar|Der Kommentar]]
+	- [[Mundartpflege oder nicht|Mundartpflege oder nicht]]
 - **[Romantik](./Romantik/Romantik.md)**
 	- **Der Sandmann**
 		- [[Leitung zur Charakterisierung|Leitung zur Charakterisierung]]

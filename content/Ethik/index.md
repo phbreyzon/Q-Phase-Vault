@@ -17,11 +17,12 @@
 		- [[Tipps beim Präsentieren|Tipps beim Präsentieren]]
 		- [[Vorschläge|Vorschläge]]
 - **[normative Ethik](./normative%20Ethik/normative%20Ethik.md)**
-	- [[Ethik/normative Ethik/Einstieg|Ethik/normative Ethik/Einstieg]]
+	- [[Einstieg|Einstieg]]
+	- [[Kants begründung für die Würde|Kants begründung für die Würde]]
 	- [[Kants guter Wille|Kants guter Wille]]
 	- [[Pflicht und Achtung für das Gesetz|Pflicht und Achtung für das Gesetz]]
 	- [[Probeklausur|Probeklausur]]
-	- [[Übungen|Übungen]]
+	- [[Ethik/normative Ethik/Übungen|Ethik/normative Ethik/Übungen]]
 	- [[Universellen Entscheidungskompass|Universellen Entscheidungskompass]]
 	- [[Weiter Notizen|Weiter Notizen]]
 - **Tierethik**

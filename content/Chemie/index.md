@@ -26,7 +26,6 @@
 - **Q2**
 	- **[Alkohole](./Q2/Alkohole/Alkohole.md)**
 		- [[Aldehyde und Ketone|Aldehyde und Ketone]]
-		- **Alkanole**
 		- [[Alkanole|Alkanole]]
 		- **Carbonsäure**
 			- [[Ester|Ester]]

@@ -60,10 +60,12 @@
 
 	- **Q2**
 		- **climat**
-			- [[Französisch/Q-Phase/Q2/climat/Einstieg|Französisch/Q-Phase/Q2/climat/Einstieg]]
+			- [[Einstieg|Einstieg]]
 			- [[Fessenheim|Fessenheim]]
 			- [[Idiomes et locutions|Idiomes et locutions]]
 			- [[l'énergie nucléaire|l'énergie nucléaire]]
 			- [[Themen der Arbeit|Themen der Arbeit]]
+			- [[Übungen|Übungen]]
+			- [[Vokabeln|Vokabeln]]
 
 %% End Waypoint %%
