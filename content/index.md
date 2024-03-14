@@ -2,18 +2,18 @@
 icon: RiGitlabLine
 share: true
 ---
-# Inhaltsverzeichnis
+# Explorer
 
-1. [[#Mathematik|Mathematik]]
-2. [[#Chemie|Chemie]]
-3. [[#Informatik|Informatik]]
-4. [[#Geschichte|Geschichte]]
-5. [[#Deutsch|Deutsch]]
-6. [[#Darstellendes Spiel|Darstellendes Spiel]]
-7. [[#Englisch|Englisch]]
-8. [[#Französisch|Französisch]]
-9. [[#Ethik|Ethik]]
-10. [[#Powi|Powi]]  
+1. [[Mathematik/index|Mathematik]]
+2. [[Chemie/index|Chemie]]
+3. [[Informatik/index|Informatik]]
+4. [[Geschichte/index|Geschichte]]
+5. [[Deutsch/index|Deutsch]]
+6. [[Darstellendes Spiel/index|Darstellendes Spiel]]
+7. [[Englisch/index|Englisch]]
+8. [[Französisch/index|Französisch]]
+9. [[Ethik/index|Ethik]]
+10. [[Powi/|Powi]]  
 
 - [[index#Die Q1|Die Q1]]
 - [[index#Die Q2| Die Q2]]

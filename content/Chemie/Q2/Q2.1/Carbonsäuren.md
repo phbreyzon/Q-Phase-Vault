@@ -1,15 +1,17 @@
 Oxidiert man ein Aldehyd, so erhält man eine Carbonsäure. 
-Zu den genauen Ablauf ziehe [[Chemie/Q2/Oxidation von Alkohole|Oxidation von Alkohole]].
+Zu den genauen Ablauf ziehe [[Chemie/Q2/Q2.1/Oxidation von Alkohole|Oxidation von Alkohole]].
 
 ## Struktur und Eigenschaften 
 
 Bei den Carbonsäuren ist mindestens eine **Carboxygruppe** (-COOH) vorhanden. 
 Ihr Name leitet sich von den Bestandteilen dieser Gruppe ab, der **Carb**onylgruppe und der Hydr**oxy**gruppe.
 
+![[misc/Media/Experiment 2 2024-02-16 12.36.48.excalidraw|misc/Media/Experiment 2 2024-02-16 12.36.48.excalidraw]]
+
 Außerdem können diese Doppelmoleküle bilden mit Hilfe von Wasserstoffbrücken. Diese Doppelmoleküle nennt man *Dimere*.
 
 
-![[misc/Media/Carbonsäuren 2024-03-14 20.16.58.svg|misc/Media/Carbonsäuren 2024-03-14 20.16.58.svg]]
+![[misc/Media/Carbonsäuren 2024-03-14 20.16.58.excalidraw|misc/Media/Carbonsäuren 2024-03-14 20.16.58.excalidraw]]
  
 ### Siedetemperatur und Löslichkeit 
 
@@ -20,9 +22,10 @@ Die Löslichkeit im Wasser nimmt mit steigender Kettenlänge ab. Carbonsäure bi
 ### Wirkung als Säure 
  Carbonsäuren protolysieren in Wasser zum geringen Maßen. Dabei gibt die Carboxygruppe ein Wasserstoffatom an das Wassermolekül ab und das Molekül wird zu einem **Carboxylat**-Ion. 
 
-![[misc/Media/2|misc/Media/2]]
+![[misc/Media/2jdjf.excalidraw|misc/Media/2jdjf.excalidraw]]
+
 Grund dafür, dass Carbonsäuren im Gegensatz zu Alkoholen protolysieren ist besondere Stabilisierung, welches das Carboxylat-Ion nach dem Protolysieren anwendet, nämlich die *Mesomeriestabiliserung*
-![[misc/Media/Übersicht Oxidation der Akanole 2024-02-23 12.42.51.svg|misc/Media/Übersicht Oxidation der Akanole 2024-02-23 12.42.51.svg]]
+![[misc/Media/Übersicht Oxidation der Akanole 2024-02-23 12.42.51.excalidraw|misc/Media/Übersicht Oxidation der Akanole 2024-02-23 12.42.51.excalidraw]]
 
 #### Säurestärke
 Die Stärke einer Säure wird durch positive bzw. negative I-Effekte beeinflusst. 
