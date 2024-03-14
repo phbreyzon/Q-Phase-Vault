@@ -24,21 +24,17 @@
 				- [[CIS-TRANS Isomerie|CIS-TRANS Isomerie]]
 				- [[Isomerarten|Isomerarten]]
 - **Q2**
-	- **[Alkohole](./Q2/Alkohole/Alkohole.md)**
+	- **Q2.1**
 		- [[Aldehyde und Ketone|Aldehyde und Ketone]]
 		- [[Alkanole|Alkanole]]
-		- **Carbonsäure**
-			- [[Ester|Ester]]
-			- [[Homologe Reihe|Homologe Reihe]]
-			- [[Übersicht Oxidation der Akanole|Übersicht Oxidation der Akanole]]
-		- [[Experiment 2|Experiment 2]]
-		- [[Experiment mit Alkohole|Experiment mit Alkohole]]
+		- [[Alkohole|Alkohole]]
+		- [[Carbonsäuren|Carbonsäuren]]
+		- [[Ester|Ester]]
+		- [[Gäransatz|Gäransatz]]
 		- [[Mehrwertige Alkohole|Mehrwertige Alkohole]]
-	- [[Carbonsäuren|Carbonsäuren]]
-	- [[Gäransatz|Gäransatz]]
-	- [[Oxidation von Alkohole|Oxidation von Alkohole]]
-	- [[Themen der Arbeit|Themen der Arbeit]]
-	- [[Versuch|Versuch]]
+		- [[Nachweis von Aldehyden|Nachweis von Aldehyden]]
+		- [[Oxidation von Alkohole|Oxidation von Alkohole]]
+		- [[Themen der Arbeit Alkohole|Themen der Arbeit Alkohole]]
 
 %% End Waypoint %%
 
