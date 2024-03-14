@@ -9,7 +9,7 @@ Ihr Name leitet sich von den Bestandteilen dieser Gruppe ab, der **Carb**onylgru
 Außerdem können diese Doppelmoleküle bilden mit Hilfe von Wasserstoffbrücken. Diese Doppelmoleküle nennt man *Dimere*.
 
 
-![[misc/Media/Carbonsäuren 2024-03-14 20.16.58.excalidraw|misc/Media/Carbonsäuren 2024-03-14 20.16.58.excalidraw]]
+![[misc/Media/Carbonsäuren 2024-03-14 20.16.58.svg|misc/Media/Carbonsäuren 2024-03-14 20.16.58.svg]]
  
 ### Siedetemperatur und Löslichkeit 
 
@@ -22,7 +22,7 @@ Die Löslichkeit im Wasser nimmt mit steigender Kettenlänge ab. Carbonsäure bi
 
 ![[misc/Media/2|misc/Media/2]]
 Grund dafür, dass Carbonsäuren im Gegensatz zu Alkoholen protolysieren ist besondere Stabilisierung, welches das Carboxylat-Ion nach dem Protolysieren anwendet, nämlich die *Mesomeriestabiliserung*
-![[misc/Media/Übersicht Oxidation der Akanole 2024-02-23 12.42.51.excalidraw|misc/Media/Übersicht Oxidation der Akanole 2024-02-23 12.42.51.excalidraw]]
+![[misc/Media/Übersicht Oxidation der Akanole 2024-02-23 12.42.51.svg|misc/Media/Übersicht Oxidation der Akanole 2024-02-23 12.42.51.svg]]
 
 #### Säurestärke
 Die Stärke einer Säure wird durch positive bzw. negative I-Effekte beeinflusst. 
