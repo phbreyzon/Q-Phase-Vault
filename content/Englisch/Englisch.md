@@ -43,12 +43,16 @@
 		- **Globalization**
 			- [[Arguments against consumerism|Arguments against consumerism]]
 			- [[Climate summit in Scottland|Climate summit in Scottland]]
-			- [[Consumption|Consumption]]
 			- [[Economy vs Ecology|Economy vs Ecology]]
 			- [[Entry|Entry]]
 			- [[industrial revolutions|industrial revolutions]]
-			- [[Mediation|Mediation]]
-			- [[Produktionsstandrorte Europa|Produktionsstandrorte Europa]]
+			- **Practicing medition**
+				- [[Consumption|Consumption]]
+				- [[Deutsche Gang in Neuköln|Deutsche Gang in Neuköln]]
+				- [[Die Reichen|Die Reichen]]
+				- [[Fashion vs conscience|Fashion vs conscience]]
+				- [[How to write a mediation|How to write a mediation]]
+				- [[Produktionsstandrorte Europa|Produktionsstandrorte Europa]]
 			- [[Pursuit of Profit|Pursuit of Profit]]
 			- [[Shared Benefits|Shared Benefits]]
 		- **Gran Torino**
@@ -57,11 +61,6 @@
 			- [[Main aspects of Gun culture|Main aspects of Gun culture]]
 			- [[Page 29|Page 29]]
 			- [[Youth of the nation|Youth of the nation]]
-		- **Mediation**
-			- **[Deutsche Gangs mediation](./Q2/Q2.1/Mediation/Deutsche%20Gangs%20mediation/Deutsche%20Gangs%20mediation.md)**
-				- [[Deutsche Gangs Text|Deutsche Gangs Text]]
-			- [[Die Reichen|Die Reichen]]
-			- [[Fashion vs conscience|Fashion vs conscience]]
 - **vocabulary**
 	- **General vocabulary**
 
