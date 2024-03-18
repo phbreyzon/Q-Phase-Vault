@@ -1,0 +1,10 @@
+
+Es gibt verschiedene Reimschemen, die in der Literatur angewendet werden. Die drei am häufigsten verwendeten sind das Kreuzreim-Schema (ABAB), das Paarreim-Schema (AABB) und das umarmende Reim-Schema (ABBA). Jedes Reimschema hat eine eigene Wirkung auf den Leser. 
+
+**Das Kreuzreim-Schema**, bei dem sich jeweils zwei sich reimende Verse abwechseln, wirkt in der Regel sehr harmonisch und angenehm beim Lesen. Es erzeugt eine Art rhythmische Abfolge, die sehr ruhig und ausbalanciert wirkt. Diese Wirkung ist besonders gut geeignet, um eine Botschaft oder einen Inhalt auf angenehme Weise zu vermitteln, ohne den Leser zu überfordern.
+
+**Das Paarreim-Schema**, bei dem sich immer zwei Verse aufeinander reimen, wirkt oft sehr energisch und kompakt. Es erzeugt eine Art schnellen Rhythmus, der dem Leser das Gefühl gibt, dass etwas schnell oder aufeinanderfolgend passiert. Diese Wirkung kann gut eingesetzt werden, um Spannung zu erzeugen oder eine schnelle Handlung oder Bewegung zu beschreiben. Es kommt oft in Gedichten vor, die eine Handlung oder Geschichte erzählen.
+
+**Das umarmende Reim-Schema**, bei dem sich der erste und der vierte Vers sowie der zweite und der dritte Vers aufeinander reimen, erzeugt eine Art Verschränkung und Verschachtelung. Es verleiht dem Gedicht eine gewisse Tiefe und gibt dem Leser das Gefühl, dass es mehr zu entdecken gibt, als auf den ersten Blick ersichtlich ist. Diese Wirkung ist oft in Gedichten zu finden, die eine tiefere Bedeutung haben oder emotional sehr berührend sind.
+
+Insgesamt können Reimschemen also eine große Wirkung auf Leser haben und können helfen, eine bestimmte Stimmung oder Botschaft zu vermitteln. Es gibt noch viele weitere Reimschemen, die alle unterschiedliche Wirkungen haben und je nach Bedarf und Kontext eingesetzt werden können.
