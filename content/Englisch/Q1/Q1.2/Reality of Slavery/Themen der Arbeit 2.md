@@ -1,6 +1,0 @@
-- [x] Comprehension tastk
-      - State something about a text 
-      - 
-- [x] Analysis 
-- [x] Discussion
-      - 4. and 5. task on George Floyd are essential  
