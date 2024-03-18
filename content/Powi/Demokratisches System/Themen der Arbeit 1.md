@@ -1,8 +1,0 @@
-- [x] [[misc/Deliberative Demokratie|misc/Deliberative Demokratie]]
-- [x] [[misc/Demokratisches System/Regierungsbildung |Regierungsbildung]] 
-- [x] [[misc/Parteienfinanzierung|misc/Parteienfinanzierung]]
-- [x] [[misc/Populismus|misc/Populismus]]
-- [x] [[misc/Privilegien, Pflichten und Funktionen|misc/Privilegien, Pflichten und Funktionen]]
-- [x] [[misc/Wahlen|misc/Wahlen]]
-- [x] [[misc/Wahlsysteme im Vergleich|misc/Wahlsysteme im Vergleich]]
-- [x] [[misc/Wesensmerkmale und Entwicklung|misc/Wesensmerkmale und Entwicklung]]
