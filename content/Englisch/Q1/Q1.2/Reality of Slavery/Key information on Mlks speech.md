@@ -1,0 +1,6 @@
+- Racism is not based on some empirical generalization, but rather based on an ontological affirmation… It is the affirmation that the very being of certain people are inferior 
+- The white-backlash: In 1863 black people were freed from physical slavery, but at the same time, they were refused to possess land.
+- Riots are socially destructive and self-defeating. 
+- Non-violence is the most potent weapon to oppresed people in their struggle for freedom an justice 
+- riots do not evolve out of thin air 
+- riots are the language of the unheard 
