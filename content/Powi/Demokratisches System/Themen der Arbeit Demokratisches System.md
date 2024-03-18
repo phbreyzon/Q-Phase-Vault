@@ -1,0 +1,7 @@
+- [x] [[Powi/Demokratisches System/Deliberative Demokratie|Deliberative Demokratie]]
+- [x] [[Powi/Demokratisches System/Parteienfinanzierung|Powi/Demokratisches System/Parteienfinanzierung]]
+- [x] [[Powi/Demokratisches System/Populismus|Powi/Demokratisches System/Populismus]]
+- [x] [[Powi/Demokratisches System/Privilegien, Pflichten und Funktionen|Powi/Demokratisches System/Privilegien, Pflichten und Funktionen]]
+- [x] [[Powi/Demokratisches System/Wahlen|Powi/Demokratisches System/Wahlen]]
+- [x] [[Powi/Demokratisches System/Wahlsysteme im Vergleich|Powi/Demokratisches System/Wahlsysteme im Vergleich]]
+- [x] [[Powi/Demokratisches System/Wesensmerkmale und Entwicklung|Powi/Demokratisches System/Wesensmerkmale und Entwicklung]]

@@ -10,7 +10,7 @@
 		- **Funktionseigenschaften**
 			- [[Quadratische Funktionen|Quadratische Funktionen]]
 			- [[trigonometrische Funktionen|trigonometrische Funktionen]]
-		- [[Themen der Arbeit|Themen der Arbeit]]
+		- [[Themen der Arbeit Anylsis 1|Themen der Arbeit Anylsis 1]]
 	- **Analysis 2**
 		- **additional material**
 
@@ -18,8 +18,8 @@
 		- [[Integralrechnung 1|Integralrechnung 1]]
 		- [[Integralrechnung|Integralrechnung]]
 		- [[Rotationskörper|Rotationskörper]]
-		- [[Themen der Arbeit 1|Themen der Arbeit 1]]
-		- [[Themen der Arbeit 2|Themen der Arbeit 2]]
+		- [[Themen der Arbeit Analysis1|Themen der Arbeit Analysis1]]
+		- [[Themen der Arbeit Analysis2|Themen der Arbeit Analysis2]]
 - **Q2**
 	- **Q2.1**
 		- [[Erste Übungen zu Vektoren|Erste Übungen zu Vektoren]]

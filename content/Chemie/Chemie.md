@@ -10,7 +10,7 @@
 	- **Q1.2**
 		- **Alkane**
 			- [[Radikalische Substitution|Radikalische Substitution]]
-			- [[Chemie/Q1/Q1.2/Alkane/Themen der Arbeit 1|Chemie/Q1/Q1.2/Alkane/Themen der Arbeit 1]]
+			- [[Themen der Arbeit Alkane|Themen der Arbeit Alkane]]
 			- [[Überblick zu Alkanen|Überblick zu Alkanen]]
 			- [[Verbrennung von Alkanen|Verbrennung von Alkanen]]
 		- **Alkene**
@@ -22,10 +22,11 @@
 		- **Alkine**
 			- [[Isomere Alkine|Isomere Alkine]]
 		- **Arbeit 2**
-			- **[Themen der Arbeit 2](./Q1/Q1.2/Arbeit%202/Themen%20der%20Arbeit%202/Themen%20der%20Arbeit%202.md)**
+			- **Themen der Arbeit**
 				- [[Alkene als ungesättigte Kohlenwasserstoffe|Alkene als ungesättigte Kohlenwasserstoffe]]
 				- [[CIS-TRANS Isomerie|CIS-TRANS Isomerie]]
 				- [[Isomerarten|Isomerarten]]
+				- [[Themen der Arbeit organische Chemie|Themen der Arbeit organische Chemie]]
 - **Q2**
 	- **Q2.1**
 		- [[Aldehyde und Ketone|Aldehyde und Ketone]]

@@ -5,7 +5,7 @@
 	- [[Populismus|Populismus]]
 	- [[Privilegien, Pflichten und Funktionen|Privilegien, Pflichten und Funktionen]]
 	- [[Regierungsbildung|Regierungsbildung]]
-	- [[Themen der Arbeit 1|Themen der Arbeit 1]]
+	- [[Themen der Arbeit Demokratisches System|Themen der Arbeit Demokratisches System]]
 	- [[Übersicht zu Demokratisches System|Übersicht zu Demokratisches System]]
 	- [[Wahlen|Wahlen]]
 	- [[Wahlsysteme im Vergleich|Wahlsysteme im Vergleich]]
@@ -17,7 +17,7 @@
 		- [[Vorpreise|Vorpreise]]
 	- [[BIP|BIP]]
 	- [[Grundbegriffe|Grundbegriffe]]
-	- [[Themen der Arbeit|Themen der Arbeit]]
+	- [[Themen der Arbeit Wirtschaft|Themen der Arbeit Wirtschaft]]
 	- [[Wirtschaftskreislauf|Wirtschaftskreislauf]]
 	- [[Wirtschaftswachstum|Wirtschaftswachstum]]
 - **Öffentlichkeit im Wandel**
@@ -35,7 +35,7 @@
 	- [[Extremismus|Extremismus]]
 	- [[Körperscanner|Körperscanner]]
 	- [[Spannungsfeld Freiheit und Sicherheit|Spannungsfeld Freiheit und Sicherheit]]
-	- [[Themen der Arbeit 2|Themen der Arbeit 2]]
+	- [[Themen der Arbeit Verfassungskonflikte|Themen der Arbeit Verfassungskonflikte]]
 	- [[Verwirkung von Grundrechten|Verwirkung von Grundrechten]]
 	- [[Wehrhafte Demokratie|Wehrhafte Demokratie]]
 
