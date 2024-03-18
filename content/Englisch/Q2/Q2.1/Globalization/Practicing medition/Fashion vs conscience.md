@@ -1,5 +1,5 @@
 ![[misc/Media/Fashion vs conscience.pdf|misc/Media/Fashion vs conscience.pdf]]
 
-Shalom fellow peers,
+Hello fellow peers,
 In my research I’ve been concentrated on how well informed tthe majority of of us young people about the textile production and if that influences our shopping habits in any way. And I’ll like to give you some insight on my findings.
 According to the Article “Jung und unfair”, written by Susanne Amann and published in the Spiegel in 2015, a new Study from Greenpeace including 500 teenagers shows that, the vast majority of us young people are very well aware about the ethical concerns in the textile production. Nevertheless this fact does not inpact our consumption habits in any way, which is ironic and concerninng at the same time, don’t you think. Let me know in the comments what your opinion on that is. 
