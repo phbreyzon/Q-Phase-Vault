@@ -27,7 +27,7 @@
 		- [[La Famille|La Famille]]
 		- [[Le subjonctif|Le subjonctif]]
 		- [[Les formules et les expressions pour le dire|Les formules et les expressions pour le dire]]
-		- [[Französisch/E-Phase/Grammatik/Mediation|Französisch/E-Phase/Grammatik/Mediation]]
+		- [[Mediation|Mediation]]
 		- [[Passif|Passif]]
 		- [[Possesivbegleiter|Possesivbegleiter]]
 		- [[Questions|Questions]]
@@ -46,7 +46,7 @@
 				- [[Personne 2|Personne 2]]
 				- [[un amie c'est quelqu'un|un amie c'est quelqu'un]]
 			- **ONGs**
-				- [[Französisch/E-Phase/Grammatik/Mediation|Französisch/E-Phase/Grammatik/Mediation]]
+				- [[excercise de Mediation|excercise de Mediation]]
 				- [[Mobil'douche|Mobil'douche]]
 			- **racisme**
 				- **Exercise 1**
@@ -68,6 +68,6 @@
 				- [[Übung2|Übung2]]
 			- [[Themen der Arbeit climat|Themen der Arbeit climat]]
 			- [[Übungen|Übungen]]
-			- [[Vokabeln|Vokabeln]]
+			- [[Vokabeln 1|Vokabeln 1]]
 
 %% End Waypoint %%
