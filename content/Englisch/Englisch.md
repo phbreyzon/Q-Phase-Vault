@@ -3,30 +3,41 @@
 	- **Q1.1**
 		- **Aspects of the AD**
 			- [[American individualism and selfishness|American individualism and selfishness]]
+			- [[Chat on the American Dream|Chat on the American Dream]]
+			- [[Coca Cola and racial inequality|Coca Cola and racial inequality]]
 			- [[Other symboles|Other symboles]]
 		- **cartoon analysis**
 			- [[Biden vs Trump|Biden vs Trump]]
+			- [[Homelessness and social inequality|Homelessness and social inequality]]
 		- **Mediation**
 			- **additional material**
 
 			- [[America of the poor|America of the poor]]
+			- [[American Dream and homelessness|American Dream and homelessness]]
 			- [[Mediating a German text|Mediating a German text]]
-		- **Speech Analysis**
+			- [[Mediation Tasks|Mediation Tasks]]
+		- **[Speech Analysis](./Q1/Q1.1/Speech%20Analysis/Speech%20Analysis.md)**
 			- **additional material**
 
 			- [[Election night victory|Election night victory]]
+			- [[Obama's victory speech|Obama's victory speech]]
 			- [[Take a Chance Analysis|Take a Chance Analysis]]
 			- [[Take a Chance Text|Take a Chance Text]]
+			- [[Your ticket to success|Your ticket to success]]
 	- **Q1.2**
 		- **Civil Rights Movement**
 			- **additional material**
 
 			- [[BLM|BLM]]
+			- [[Mock Exam|Mock Exam]]
 		- **Reality of Slavery**
 			- **additional material**
 
+			- [[Civil right movement|Civil right movement]]
+			- [[Key information on Mlks speech|Key information on Mlks speech]]
 			- [[Malcolm X|Malcolm X]]
 			- [[The Other America part1|The Other America part1]]
+			- [[Themen der Arbeit reality of slavery|Themen der Arbeit reality of slavery]]
 - **Q2**
 	- **Q2.1**
 		- **Globalization**
