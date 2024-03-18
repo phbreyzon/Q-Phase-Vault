@@ -1,7 +1,3 @@
----
-quickshare-date: N/A
-quickshare-url: Removed
----
 Philosophie E-Phase (Hohmann)
 Was ist der Mensch? – Einführung in die philosophische Anthropologie
 ***
