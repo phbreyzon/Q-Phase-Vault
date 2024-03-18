@@ -1,0 +1,42 @@
+-  **Personifikation** 
+	- Vermenschlichung von Nichtmenschlichem, Dingen, Begriffen, Tieren durch menschliche Eigenschaften Beispiele: Mutter Natur / Der Finanzmarkt ist eingebrochen. / Sie weinte ein Meer aus Tränen. / Die Sonne lacht an diesem schönen Tage. 
+-  **Rhetorische Frage** 
+	- Scheinfrage bzw. Frage, auf die keine Antwort erwartet wird Beispiele: Sehe ich so blöd aus? / Ist das dein Ernst?  
+- **Symbol** 
+	- Bedeutungsträger, der Assoziationen für etwas abstrakt Vorstellbares auslöst, oft für etwas Unanschauliches Beispiele: rotes Herz für Liebe; weiße Taube für Frieden; Totenkopf für Tod; Schnecke für Langsamkeit  
+- **Untertreibung** 
+	- Herunterspielen einer Aussage; Wert der Aussage wird untertrieben, vermindert Beispiel: Es war in Ordnung. Er h  at es okay gemacht.  
+- **Vergleich** 
+	- Gleichsetzung durch das Verknüpfen zweier Sachverhalte, Dinge, Personen Beispiel: größer als ein Elefant; sie ist so schöne wie eine Blume  
+- **Akkumulation** 
+	- Anhäufung von ähnlichen Begriffen oder Wörtern Beispiel: Sonne, Mond und Sterne  
+- **Alliteration** 
+	- Mindestens zwei benachbarte oder aufeinanderfolgende Wörter mit demselben Anfangslaut Beispiele: Mensch Meier, Kind und Kegel, sieben Siegel  
+- **Anapher** 
+	- Wiederholung eines ganzen Wortes oder Satzteils am Anfang eines Verses oder einer Strophe Beispiel: Ich wünsche mir Liebe. Ich wünsche mir Glück. 
+- **Antithese** 
+	- Zusammenführung gegenteiliger bzw. entgegengesetzter Begriffe Beispiel: Ihre Liebe war ein Segen. Ihre Ehe war die Hölle.  
+- **Assonanz**
+	- Wiederholung oder Häufung eines Vokals in benachbarten Wörtern, oftmals vokalischer Halbreim Beispiel: Ohne Ottos Mops. / Die liebe Liebe liebt viel.  
+- **Ellipse** 
+	- Auslassung eines Satzteils bzw. ein unvollständiger Satz Beispiel: Ich darf gehen, du nicht. / Was? (statt: Was willst du?) 
+- **Hyperbel** 
+	- Starke Übertreibung Beispiele: Schneckentempo, todmüde, stinksauer, himmelhoch jauchzend, zu Tode betrübt  
+- **Interjektion** 
+	- kurzer Ausruf, Gefühlsausdruck Beispiele: Oh!, Ah!, Ich!, Hey!, Aha!, Okay!, Ey!  
+- **Ironie** 
+	- Aussage, die eigentlich etwas anderes meint als das tatsächlich Gesagte, und auch so verstanden wird Beispiele: Schöne Bescherung! / Toll gemacht! / Ich liebe dich auch! (als Antwort auf eine Beleidigung)  
+- **Klimax** 
+	- Dreigliedrige Steigerung bzw. Steigerung von einer schwächeren Aussage Beispiele: Er ist fleißig, er arbeitet acht, neun, zehn Stunden am Tag. / Ich kam, sah und siegte.  
+- **Metapher** 
+	- Bildlicher Vergleich und gleichzeitige Bedeutungsübertragung auf einen fremden Zusammenhang Beispiele: rosarote Brille aufhaben, ein Meer von Menschen, die Kuh vom Eis kriegen, in die Hose machen, eine Glückssträhne haben  
+- **Neologismus** 
+	- Wortneuschöpfung, sprachliche Neubildung von Wörtern Beispiel: Hipster  
+- **Oxymoron** 
+	- Zwei sich widersprechende Begriffe Beispiele: offenes Geheimnis, bittersüß, Hassliebe, heißkalt  
+- **Paradoxon** 
+	- Aussage mit scheinbarer Widersprüchlichkeit, widerspricht meist der öffentlichen Meinung Beispiel: Ich weiß, dass ich nichts weiß.  
+- **Parallelismus** 
+	- Mindestens zwei identische oder ähnliche Satzgefüge, die parallel bzw. gleich angeordnet sind Beispiele: Heiß ist der Sommer, kalt ist der Winter. / Kleine Kinder, kleine Sorgen – große Kinder, große Sorgen.
+- **Parenthese** 
+	- Einschub von teils ergänzenden, informativen Wörternoder Satzteilen im Satz Beispiel: Ich bin – wie gesagt – schwer enttäuscht. 
