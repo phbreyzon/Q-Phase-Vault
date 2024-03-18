@@ -14,6 +14,6 @@
 
 ![[misc/Media/WIN_20240226_08_43_27_Scan.jpg|misc/Media/WIN_20240226_08_43_27_Scan.jpg]]
 
-- [ ]  Vokabeln und Ausdrücke im Text lernen + Übungszetteln als Klausurvorbereitung
+- [x]  Vokabeln und Ausdrücke im Text lernen + Übungszetteln als Klausurvorbereitung
 
 
