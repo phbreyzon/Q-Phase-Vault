@@ -4,7 +4,6 @@
 
 
 %% Begin Waypoint %%
-- [[Geschichte.sync-conflict-20240313-180251-6B3GUVQ|Geschichte.sync-conflict-20240313-180251-6B3GUVQ]]
 - **Klausurmethoden**
 	- [[Geschichtliche Einordnungen|Geschichtliche Einordnungen]]
 - **Q1**
@@ -35,25 +34,28 @@
 		- [[Metternich System|Metternich System]]
 		- [[Vormärz|Vormärz]]
 - **Q2**
-	- **[Deutsche Kaiserreich](./Q2/Deutsche%20Kaiserreich/Deutsche%20Kaiserreich.md)**
-		- **[Industrialisierung](./Q2/Deutsche%20Kaiserreich/Industrialisierung/Industrialisierung.md)**
-			- [[Die soziale Frage|Die soziale Frage]]
-			- [[Geschichte/Q2/Deutsche Kaiserreich/Industrialisierung/Einstieg|Geschichte/Q2/Deutsche Kaiserreich/Industrialisierung/Einstieg]]
-			- [[Erfindungen und technischer Fortschritt|Erfindungen und technischer Fortschritt]]
-			- [[Wandel der Gesellschaft|Wandel der Gesellschaft]]
-		- **[Innenpolitik](./Q2/Deutsche%20Kaiserreich/Innenpolitik/Innenpolitik.md)**
-			- [[Antisemitismus|Antisemitismus]]
-			- [[Characteristika|Characteristika]]
-			- [[Germanisierungspolitik|Germanisierungspolitik]]
-			- [[Gesetzgebung Bismarcks|Gesetzgebung Bismarcks]]
-			- [[Kaisserreichsverfassung|Kaisserreichsverfassung]]
-			- [[Mögliche Fragestellungen|Mögliche Fragestellungen]]
-			- [[Nationalismus|Nationalismus]]
-			- [[Politik und Gesellschaft|Politik und Gesellschaft]]
-	- **Erster Weltkrieg**
-		- [[Außenpolitik Bismarcks|Außenpolitik Bismarcks]]
-		- [[Bismarcks Abschied|Bismarcks Abschied]]
-		- [[Der Neue Kurs|Der Neue Kurs]]
-	- [[Geschichte/Q2/Themen der Arbeit|Geschichte/Q2/Themen der Arbeit]]
+	- **Q2.1**
+		- **[Deutsche Kaiserreich](./Q2/Q2.1/Deutsche%20Kaiserreich/Deutsche%20Kaiserreich.md)**
+			- **[Industrialisierung](./Q2/Q2.1/Deutsche%20Kaiserreich/Industrialisierung/Industrialisierung.md)**
+				- [[Die soziale Frage|Die soziale Frage]]
+				- [[Einstieg|Einstieg]]
+				- [[Erfindungen und technischer Fortschritt|Erfindungen und technischer Fortschritt]]
+				- [[Wandel der Gesellschaft|Wandel der Gesellschaft]]
+			- **[Innenpolitik](./Q2/Q2.1/Deutsche%20Kaiserreich/Innenpolitik/Innenpolitik.md)**
+				- [[Antisemitismus|Antisemitismus]]
+				- [[Characteristika|Characteristika]]
+				- [[Germanisierungspolitik|Germanisierungspolitik]]
+				- [[Gesetzgebung Bismarcks|Gesetzgebung Bismarcks]]
+				- [[Kaisserreichsverfassung|Kaisserreichsverfassung]]
+				- [[Mögliche Fragestellungen|Mögliche Fragestellungen]]
+				- [[Nationalismus|Nationalismus]]
+				- [[Politik und Gesellschaft|Politik und Gesellschaft]]
+		- [[Themen der Arbeit|Themen der Arbeit]]
+	- **Q2.2**
+		- **Weg in den Ersten Weltkrieg**
+			- [[Außenpolitik Bismarcks|Außenpolitik Bismarcks]]
+			- [[Bismarcks Abschied|Bismarcks Abschied]]
+			- [[Der Neue Kurs|Der Neue Kurs]]
+			- [[Imperialismus|Imperialismus]]
 
 %% End Waypoint %%
