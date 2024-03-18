@@ -1,6 +1,6 @@
 ### Beschreiben Sie die Klasse Route des UML-Diagramms
 
-![[Informatik/Q1/Abituraufgaben/LA23-INF-LK-AJ-AUFG.pdf|Informatik/Q1/Abituraufgaben/LA23-INF-LK-AJ-AUFG.pdf]]
+![[misc/Media/LA23-INF-LK-AJ-AUFG.pdf|misc/Media/LA23-INF-LK-AJ-AUFG.pdf]]
 
 Die Klasse Route besitzt die Argumente:
 - dieAdresse (Adresse[])
@@ -13,7 +13,7 @@ Und die Methoden:
   
 ### Zeichnen Sie die Beziehungen zwischen den Klassen in das Diagramm ein und erläutern Sie diese.
 
-![[misc/Media/Aufgaben 2023-11-22 08.50.26.svg|misc/Media/Aufgaben 2023-11-22 08.50.26.svg]]
+![[misc/Media/Aufgaben 2023-11-22 08.50.26.excalidraw|misc/Media/Aufgaben 2023-11-22 08.50.26.excalidraw]]
 
 Zwischen der Klasse Route und der Klasse Adresse besteht eine Aggregation in Richtung der Route, denn eine Route hat eine Adresse als Argument, sowie eine Adresse[] als Argument in seinem Konstruktor. Dementsprechend lässt sich daraus ziehen, dass mindestens eine Aggregation bestehen muss. usw...
 

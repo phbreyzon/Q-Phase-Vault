@@ -24,4 +24,4 @@
 ![[misc/Media/Recording 20240228114659.webm|misc/Media/Recording 20240228114659.webm]]
 
 
-ziehe [[Geschichte/Klausurmethoden/Geschichtliche Einordnungen|Geschichtliche Einordnungen]] für weitere Tipps 
+ziehe [[Geschichte/Q1/Klausurmethoden/Geschichtliche Einordnungen|Geschichtliche Einordnungen]] für weitere Tipps 

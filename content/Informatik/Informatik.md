@@ -1,0 +1,37 @@
+%% Begin Waypoint %%
+- **Q1**
+	- **Abituraufgaben**
+		- [[Aufgaben|Aufgaben]]
+	- **Algorithmen**
+		- [[Bedeutung und Begriffe|Bedeutung und Begriffe]]
+		- [[Best practices|Best practices]]
+		- [[Sortieralgorithmen|Sortieralgorithmen]]
+		- [[Textsuchalgorithmen|Textsuchalgorithmen]]
+	- **Datenstrukturen**
+		- [[Baum|Baum]]
+		- [[Graphen|Graphen]]
+		- [[Keller|Keller]]
+		- [[Liste|Liste]]
+		- [[Schlange|Schlange]]
+	- [[Klausurenthemen|Klausurenthemen]]
+	- **UML**
+		- [[ERM|ERM]]
+		- [[Klassendiagramme|Klassendiagramme]]
+		- [[Übersicht zu UML|Übersicht zu UML]]
+- **Q2**
+	- **Q2.1**
+		- [[Anomalien|Anomalien]]
+		- [[Das 3 Schichtenmodell|Das 3 Schichtenmodell]]
+		- **ERM**
+			- [[Entity Relationship Modell|Entity Relationship Modell]]
+			- [[Übungen zu ERM|Übungen zu ERM]]
+		- [[Normalisierung|Normalisierung]]
+		- [[RDM|RDM]]
+		- **Relationale Algebra**
+			- [[Übersicht zu Relationale Algebra|Übersicht zu Relationale Algebra]]
+			- [[Übungen zu RA|Übungen zu RA]]
+		- [[Themen der Arbeit zu Datenbanken|Themen der Arbeit zu Datenbanken]]
+		- [[Vom ERM zum RDM|Vom ERM zum RDM]]
+	- **Q2.2**
+
+%% End Waypoint %%

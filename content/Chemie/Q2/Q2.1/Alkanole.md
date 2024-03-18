@@ -13,15 +13,15 @@ Grund dafür sind die zwischenmolekulare Kräfte.
 
 Das Ethanolmolekül  besteht aus einer unpolaren Alkylgruppe (lipohil) und einer polaren Hydroxygruppe (hydrophil), dementsprechend lässt sich Ethanol auch in Wasser lösen. 
 
-![[misc/Media/Alkanole 2024-03-13 20.13.04.svg|misc/Media/Alkanole 2024-03-13 20.13.04.svg]]
+![[misc/Media/Alkanole 2024-03-13 20.13.04.excalidraw|misc/Media/Alkanole 2024-03-13 20.13.04.excalidraw]]
 
 ### Siedetemperaturen 
 Die Siedetemperaturder Alkanole liegt deutlich über die der Alkane. Dies liegt hauptsächlich daran, dass die Alkanole Wasserstoffbrückenbindungen bilden können. Mit längerwerdene Alkylgruppen steigt die Siedetemperatur, ähnlich wie bei den Alkanen, da die wachsende länge der unpolaren Alkylgruppe auch die Van-der-Waals-Kräfte verstärkt.
 
 
 ### Isomere 
-- Alkanole können in Unverzweigter oder in gezweigter Form vorkommen. Verzweigte Alkanole sind [[Chemie/Q1/Organische Chemie/Arbeit 2/Themen der Arbeit 2/Isomerarten#**Konsitutionsisomerie**|Konstitutionsisomere]] der unverzweigten Alkanole. 
-- Die Position der Hydroxygruppe kann ebenfalls variieren ([[Chemie/Q1/Organische Chemie/Arbeit 2/Themen der Arbeit 2/Isomerarten#**Stellungsisomere**|Stellungsisomere]]). Je nachdem in welche Stellung es sich befindet, spricht man von *primäre*, *sekundäre* oder *tertiäre Alkanole*. Der Name entspricht den Kohlenstoffatom an der sich die Hydroxygruppe befindet. 
+- Alkanole können in Unverzweigter oder in gezweigter Form vorkommen. Verzweigte Alkanole sind [[Chemie/Q1/Q1.2/Arbeit 2/Themen der Arbeit 2/Isomerarten#**Konsitutionsisomerie**|Konstitutionsisomere]] der unverzweigten Alkanole. 
+- Die Position der Hydroxygruppe kann ebenfalls variieren ([[Chemie/Q1/Q1.2/Arbeit 2/Themen der Arbeit 2/Isomerarten#**Stellungsisomere**|Stellungsisomere]]). Je nachdem in welche Stellung es sich befindet, spricht man von *primäre*, *sekundäre* oder *tertiäre Alkanole*. Der Name entspricht den Kohlenstoffatom an der sich die Hydroxygruppe befindet. 
 - Die isomeren Alkanole haben unterschiedliche physikalische Eigenschaften sowie Reaktivitätsverhalten. 
 
 #### Eigenschaften Isomererer Alkanole 
