@@ -20,7 +20,7 @@
 			- [[Andere Zeiten, andere Sitten|Andere Zeiten, andere Sitten]]
 			- [[kleiner Hampelmann|kleiner Hampelmann]]
 		- [[Zeitstrahl|Zeitstrahl]]
-	- [[Geschichte/Q1/Themen der Arbeit 2|Geschichte/Q1/Themen der Arbeit 2]]
+	- [[Themen der Arbeit Revolution 1848|Themen der Arbeit Revolution 1848]]
 	- **Zeit des Vormärz**
 		- [[Entwicklung des Nationalgedanken|Entwicklung des Nationalgedanken]]
 		- [[Karlsbacher Beschlüsse|Karlsbacher Beschlüsse]]
@@ -46,7 +46,7 @@
 				- [[Nationalismus|Nationalismus]]
 				- [[Politik und Gesellschaft|Politik und Gesellschaft]]
 				- [[Übersicht innenpolitik|Übersicht innenpolitik]]
-		- [[Geschichte/Q2/Q2.1/Themen der Arbeit|Geschichte/Q2/Q2.1/Themen der Arbeit]]
+		- [[Themen der Arbeit Bismarck|Themen der Arbeit Bismarck]]
 	- **Q2.2**
 		- **Weg in den Ersten Weltkrieg**
 			- [[Außenpolitik Bismarcks|Außenpolitik Bismarcks]]
