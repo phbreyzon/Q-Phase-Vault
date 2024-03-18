@@ -1,0 +1,7 @@
+- [x] UML: 
+	- UML Diagramm der höheren Datenstrukturen
+- [x] Höhere Datenstrukturen
+	- Benennung der einzelnen Bestandteile
+	- Anwendungsfälle (in Programmieren und in echt)
+- [ ] Rekursion
+	- Rekursive Probleme eigenständig lösen
