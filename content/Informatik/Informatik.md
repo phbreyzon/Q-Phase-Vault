@@ -13,7 +13,7 @@
 		- [[Keller|Keller]]
 		- [[Liste|Liste]]
 		- [[Schlange|Schlange]]
-	- [[Klausurenthemen|Klausurenthemen]]
+	- [[Klausurenthemen Q1|Klausurenthemen Q1]]
 	- **UML**
 		- [[ERM|ERM]]
 		- [[Klassendiagramme|Klassendiagramme]]
