@@ -3,11 +3,11 @@
 ### 1. Startreaktion
 Um die Startreaktion zu initiieren, muss der Reaktionsansatz mit energiereichem Licht bestrahlt werden. Dabei werden die Brom-Moleküle *homolytisch* in jeweils zwei **Brom-Radikale** gespalten:
 
-![[misc/Media/Radikale Substitution 2023-10-06 11.59.24.excalidraw|misc/Media/Radikale Substitution 2023-10-06 11.59.24.excalidraw]]
+![[misc/Media/Radikale Substitution 2023-10-06 11.59.24.svg|misc/Media/Radikale Substitution 2023-10-06 11.59.24.svg]]
 ### 2. Kettenreaktion
 Anschließend kommt es zur Übertragung von Wasserstoffatomen von den Alkan-Molekülen auf die Brom-Radikalen, wobei *Hydrogenbromid* und *Alkylradikale* entstehen. Diese reagieren mit den nicht gespaltenen Brom-Moleküle, wobei Chloralkane und neue Chlorradikale gebildet werden, welche die Kettenreaktion fortsetzen:  
 
-![[misc/Media/Radikale Substitution 2023-10-06 12.03.28.excalidraw|misc/Media/Radikale Substitution 2023-10-06 12.03.28.excalidraw]]
+![[misc/Media/Radikale Substitution 2023-10-06 12.03.28.svg|misc/Media/Radikale Substitution 2023-10-06 12.03.28.svg]]
 ### 3. Abbruchreaktionen
 Abbruchreaktion stoppen die Kettenreaktion. Diese Reaktionen sind dadurch gekennzeichnet, dass aus ihr keine Radikale mehr hervorkommen, was auf verschieden Weisen passieren kann. 
 
@@ -15,13 +15,13 @@ Abbruchreaktion stoppen die Kettenreaktion. Diese Reaktionen sind dadurch gekenn
 2. Wenn ein Alkyl-Radikal mit einem Bromradikal zu einem Brom-Alkan reagieren.
 3. Und anschließend, wenn zwei Alkyl-Radikale zu einem größeren Alkan reagieren.
 
-![[misc/Media/Radikale Substitution 2023-10-06 12.09.38.excalidraw|misc/Media/Radikale Substitution 2023-10-06 12.09.38.excalidraw]]
+![[misc/Media/Radikale Substitution 2023-10-06 12.09.38.svg|misc/Media/Radikale Substitution 2023-10-06 12.09.38.svg]]
 
 
 ## Benennung von Halogenalkane
 
 *Beispiel:*
-![[misc/Media/Radikalische Substitution 2023-10-11 18.22.52.excalidraw|misc/Media/Radikalische Substitution 2023-10-11 18.22.52.excalidraw]]
+![[misc/Media/Radikalische Substitution 2023-10-11 18.22.52.svg|misc/Media/Radikalische Substitution 2023-10-11 18.22.52.svg]]
 
 1. **Stammname der Verbindung:** 
 	Ermitteln Sie die längste Kohlenstoffkette, an die ein Halogenatom gebunden ist.

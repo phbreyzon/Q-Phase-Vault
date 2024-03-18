@@ -9,11 +9,11 @@ Eine Einigungsverträglichkeit gilt, wenn die Attribute zwischen den Tabellen ü
 ### Durchschnitt 
 Der Durchschnitt $N$, wobei es dann so geschrieben wird $N = R \cap S$ ist die Menge an **Tupeln**, also Zeilen, die sowohl in der Relation $R$ als auch in der Relation $S$ vorhanden sind. 
 
-![[misc/Media/Relationale Algebra 2024-03-12 18.35.26.excalidraw|misc/Media/Relationale Algebra 2024-03-12 18.35.26.excalidraw]]
+![[misc/Media/Relationale Algebra 2024-03-12 18.35.26.svg|misc/Media/Relationale Algebra 2024-03-12 18.35.26.svg]]
 ### Vereinigung 
 Die Vereinigung ist im Grunde genommen ein *Natural-join*, nur mit Vereinigungsveträglichkeit, wird wie folgt aufgeschrieben $N = R \cup S$ und so in der Praxis sieht es so aus: 
 
-![[misc/Media/Relationale Algebra 2024-03-12 18.44.16.excalidraw|misc/Media/Relationale Algebra 2024-03-12 18.44.16.excalidraw]]
+![[misc/Media/Relationale Algebra 2024-03-12 18.44.16.svg|misc/Media/Relationale Algebra 2024-03-12 18.44.16.svg]]
 
 
 ### Differenz 
@@ -31,7 +31,7 @@ Das kartesische Produkt bildet alle möglichen Kombinationen aller Tupeln von $R
 Die Division $N = R \div S$  gibt alle Tupel aus $R$ zurück, die in jeder Kombination mit den Tupeln aus $S$ vorkommen. 
 Also es schaut, welche Tupeln aus $R$ ein kartesisches Produkt mit $S$ gebildet haben und gibt dieses aus.
 
-![[misc/Media/Relationale Algebra 2024-03-12 19.08.31.excalidraw|misc/Media/Relationale Algebra 2024-03-12 19.08.31.excalidraw]]
+![[misc/Media/Relationale Algebra 2024-03-12 19.08.31.svg|misc/Media/Relationale Algebra 2024-03-12 19.08.31.svg]]
 
 ### Selektion und Projektion
 Die *Selektion* $N = \sigma{_\text{Bedingung}}(R)$ gibt alle Tupeln aus $R$ aus, die eine bestimmte Bedingung erfüllen. 
@@ -44,7 +44,7 @@ Der Join ist eine Kombination aus Operation, nämlich der Bildung eines kartesis
 
 *Bedingung für ein Join ist, dass bestimmte Spalten den gleichen Inhalt haben müssen*
 
-![[misc/Media/Relationale Algebra 2024-03-12 19.26.14.excalidraw|misc/Media/Relationale Algebra 2024-03-12 19.26.14.excalidraw]]
+![[misc/Media/Relationale Algebra 2024-03-12 19.26.14.svg|misc/Media/Relationale Algebra 2024-03-12 19.26.14.svg]]
 
 ### Umbenennung 
 Ziemlich selbsterklärend, es ändert die Bezeichnung eines Attributes und wird wie folgt aufgeschrieben $N = \rho{_{\text{[neu} \leftarrow \text{alt]}} }(R)$
