@@ -1,8 +1,0 @@
-- [x] Die Revolution 1848
-	- [x] Voraussetzungen 
-	- [x] Entwicklung 
-	- [x] Das Parlament
-- [x] Kaisserreichsverfassung + Staatsaufbau
-- [x] Die Grundrechte im Detail
-- [x] Das Scheitern der Revolution 
-- [x] Karikaturanalyse 
