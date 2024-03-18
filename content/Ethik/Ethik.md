@@ -1,0 +1,35 @@
+%% Begin Waypoint %%
+- **E-Phase**
+	- **Anthropologie**
+		- **Kant**
+			- [[Kants Anthropologie|Kants Anthropologie]]
+		- [[Was ist der Mensch|Was ist der Mensch]]
+	- [[KI und der Mensch|KI und der Mensch]]
+	- [[Kommunikationsmodell|Kommunikationsmodell]]
+	- [[Texte über Menschen und Affen|Texte über Menschen und Affen]]
+- **Q1**
+	- **Q1.1**
+		- [[Dein Teil der Präsentation|Dein Teil der Präsentation]]
+		- [[Generelle Informationen|Generelle Informationen]]
+		- [[The ethical elements of enhancement|The ethical elements of enhancement]]
+		- [[Themen fürs Abitur|Themen fürs Abitur]]
+		- [[Tipps beim Präsentieren|Tipps beim Präsentieren]]
+		- [[Vorschläge|Vorschläge]]
+	- **Q1.2**
+		- [[Leidensfähigkeit|Leidensfähigkeit]]
+		- [[Peter Singer|Peter Singer]]
+		- [[Tom Regan|Tom Regan]]
+- **Q2**
+	- **Q2.1**
+		- [[Einstieg|Einstieg]]
+		- [[Kants guter Wille|Kants guter Wille]]
+		- [[Normative Ethik Themen|Normative Ethik Themen]]
+		- [[Pflicht und Achtung für das Gesetz|Pflicht und Achtung für das Gesetz]]
+		- [[Probeklausur|Probeklausur]]
+		- [[Übungen|Übungen]]
+		- [[Universellen Entscheidungskompass|Universellen Entscheidungskompass]]
+		- [[Weiter Notizen|Weiter Notizen]]
+	- **Q2.2**
+		- [[Kants begründung für die Würde|Kants begründung für die Würde]]
+
+%% End Waypoint %%
