@@ -41,7 +41,6 @@
 				- [[Characteristika|Characteristika]]
 				- [[Germanisierungspolitik|Germanisierungspolitik]]
 				- [[Gesetzgebung Bismarcks|Gesetzgebung Bismarcks]]
-				- [[Kaisserreichsverfassung|Kaisserreichsverfassung]]
 				- [[Mögliche Fragestellungen|Mögliche Fragestellungen]]
 				- [[Nationalismus|Nationalismus]]
 				- [[Politik und Gesellschaft|Politik und Gesellschaft]]
