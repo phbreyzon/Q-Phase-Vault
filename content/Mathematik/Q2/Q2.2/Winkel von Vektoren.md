@@ -6,9 +6,9 @@ $$\vec{V_{a}}= \begin{bmatrix}
 a_{1} \\ a_{2} \\ a_{3} \end{bmatrix} \text{ , } 
 \vec{V_{b}}= \begin{bmatrix}
 b_{1} \\ b_{2}\\ b_{3}
-\end{bmatrix} \text{ dann gilt bei:  }
-
-\vec{V_{a}}\times \vec{V_{b}} = a_{1} \cdot b_{1} + a_{2} \cdot b_{2} + \text{...} 
+\end{bmatrix} 
+\text{ dann gilt bei:  }
+\vec{V_{a}}\times \vec{V_{b}} = a_{1} \cdot b_{1} + a_{2} \cdot b_{2} + \ldots  
 $$
 
 $$\text{Wenn also } \vec{V_{a}} \times \vec{V_{b}} = 0 \text{ dann liegt ein } 90 \degree \text{ Winkel vor}$$
