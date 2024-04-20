@@ -2,8 +2,6 @@
 Kant begründet die Würde des Menschen mit ihrer Fähigkeit **selbstbestimmt moralisch zu handeln**
 Sie sind dadurch an der moralischen Gesetzgebung beteiligt, welches im gegensatz zu relativen Ziele der einzige absolute Zweck ist.
 
-
-
 ### Argumente 
 
 - Tatunbeteiligte Menschen werden vom Absturz betroffen 

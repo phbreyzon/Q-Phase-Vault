@@ -54,7 +54,7 @@ In der Wirklichkeit sind Märkte weder vollständig transparent, noch sind die G
 
 - **Bei P1:** Ist der Preis im Markt hoch angesetzt, sodass Unternehmer gereizt werden mehr zu produzieren um Profit zu machen, was das Angebot steigert. Doch gleichzeitig nimmt die Nachfrage ab, da diese den Preis zu hoch findet. Es gibt also ein *Angebotsüberschuss*. Eine Preissenkung würde den Absatz also steigern.  
   
-- **Bei P2:** Der Preis befindet sich im Schnittpunkt zwischen Angebot und Nachfrage (das sog. [[Powi/Markt und Preisbildung/Begriffe/Marktgleichgewicht|Martkgleichgewicht]]), dort kann *die Ware zum höchsten Preis verkauft werden ohne dass es sich negativ auf die Nachfragerzahl auswirkt*. Das höchstmögliche Profit wird also dort erzielt.
+- **Bei P2:** Der Preis befindet sich im Schnittpunkt zwischen Angebot und Nachfrage (das sog. [[Powi/Q2/Q2.1/Markt und Preisbildung/Begriffe/Marktgleichgewicht|Martkgleichgewicht]]), dort kann *die Ware zum höchsten Preis verkauft werden ohne dass es sich negativ auf die Nachfragerzahl auswirkt*. Das höchstmögliche Profit wird also dort erzielt.
   
 - **Bei P3:** Der Marktpreis ist unterhalb des Marktgleichgewichts. Die Nachfrage nimmt zu, da der Preis relativ niedrig angesetzt ist und man deshalb mehr von der Ware kaufen kann. Anbieter sind aber wenig angereizt mehr von der Ware zu produzieren, da diese durch ihren niedrigen Preis keinen großen Profit machen oder diese sogar ein Minusgeschäft hervorbringt. Ein *Nachfrageüberschuss* liegt vor.
 
@@ -82,10 +82,10 @@ Auf der anderen Seite beeinflussen Faktoren wie eine Absenkung des Einkommens di
 #### Verschiebungsfaktoren bei einer Angebotskurve
 Eine Angebotskurve verläuft von unten nach oben. Bei niedrigen Preisen gibt es wenige Anbieter die bereit sind eine große Menge an Angebot zu bieten. Im Gegenzug sind viele Anbieter bereit eine große Menge an Angebot zu bieten bei einem hohem Preis. 
 
-- **linksverschiebende Faktoren:** Erhöhung der [[Powi/Markt und Preisbildung/Begriffe/Vorpreise|Vorpreise]]
-- **Rechtsverschiebende Faktoren:** Senkung der [[Powi/Markt und Preisbildung/Begriffe/Vorpreise|Vorpreise]] 
+- **linksverschiebende Faktoren:** Erhöhung der [[Powi/Q2/Q2.1/Markt und Preisbildung/Begriffe/Vorpreise|Vorpreise]]
+- **Rechtsverschiebende Faktoren:** Senkung der [[Powi/Q2/Q2.1/Markt und Preisbildung/Begriffe/Vorpreise|Vorpreise]] 
 
-![[misc/Media/Einstieg 2024-02-22 12.50.11.svg|misc/Media/Einstieg 2024-02-22 12.50.11.svg]]
+![[misc/Media/Einstieg 2024-02-22 12.50.11.excalidraw|misc/Media/Einstieg 2024-02-22 12.50.11.excalidraw]]
 
 ## Additional ressources
 

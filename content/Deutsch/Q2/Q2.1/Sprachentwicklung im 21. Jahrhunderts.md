@@ -1,0 +1,27 @@
+
+## Die Sprachnachrichten: praktische Kommunikation oder pure Faulheit?
+
+
+Man kennt diese Situation genau. Man sitzt friedlich zuhause und man geht ganz normal seinem Leben nach bis auf einmal das Handy klingelt. Man öffnet die Nachrichten App, geht auf dem Chat und man wird geschockt von der Tatsache, dass man gerade eine 30-minütige Sprachnachricht erhalten hat. Diese und ähnliche Situation reizt einem manchmal sich die frage zu stellen, was sich denn derjenige gedacht hatte, der so eine belanglose Erfindung auf die Erde gebracht hatte. Ist denn die Verwendung von Sprachnachriten in Messengerdiensten ein Gewinn für die digitale Alltagskommunikation, oder kann das eher als ein Rückschritt betrachtet werden? 
+
+Um diese Fragestellung vernünftig nachzugehen werden zunächst ein Paar fundamentale Fakten benötigt. 
+
+Sprachnachrichten sind Audioaufnahmen die man meistens durch einen Messengerdienst aufnimmt und an jemandem verschickt. Sie werden in der Regel automatisch von dem Empfäger heruntergeladen und werden dann von diesem abgespielt. Die Wiedergabe erfolgt meistens über Lautsprechern oder Kopfhörern.
+Sie gehören zu den sogenannten asyncronen Kommunikationsformen, d.h. die Kommunikation mit dem Empfänger erfolgt versetzt und nicht in Echtzeit, wie es beispielsweise bei einem Telefonat der Fall wäre. 
+
+Hierbei können sich einige Probleme ergeben.
+Sprachnachrichten hängen zunächst einmal sehr stark von der Qualität des Aufnahmegerätes ab, im Gegensatz zu Chats beispielsweise. Zwar betrifft es dem Telefonat genauso, nur hat dieser der entscheidender Vorteil, dass man auch im zweifelsfall jemandem in der Moment rufen kann, wenn man nichts versteht. Wenn eine Sprachnachricht mit einem Microphon eines 5 jahrealten Kabelkopfhören erhält ist die Qualität meistens nicht die unbedingt die beste. Dann muss man auch im zweifelsfall sich durch die 30 Minuten schlechte Qualität durchquälen um dann am Ende festzustellen, dass man bloß die Hälfte verstanden hat. 
+Und nicht nur das. 
+Man muss sogar noch dafür zahlen. Es ist  zwar sicherlich sehr praktisch, wenn die Sprachnachricht in der Sekunde, in der es gesendet wird, auch runtergeladen wird, doch diese verbraucht viel mehr Datenvolumen als eine konventionelle Chatnachricht, somit sind die kosten viel höher. Und es ist nicht gerade wenig. Wir sind zwar mit der Entwicklung von Datenkomprimierungsalgorithmen ziemlich weit fortgeschritten in den letzten Paar Jahre, doch eine Audionachricht verbraucht trotzdem 50-Mal mehr Datenvolument als simpler Text wenn man das in Verhältnis setzt. Und das muss manchmal wirklich nicht sein. Manchmal kann sich doch einfach die Mühe geben und ein vernünftigen Text verfassen.
+
+Soweit die Stimmen der Kritiker, aber um mal auf die ursprüngliche Frage zurückzukommen. Was hat denn sich derjenige gedacht, der das Ganze ins Leben gerufen hat? Er müsste doch eigentlich ein Grund dafür haben sich so etwas auszudenken? 
+Und zwar nicht nur ein Grund hatte diese Person gehabt, sondern wahrscheinlich auch mehrere. 
+Es ist zwar sehr wohl wahr, dass man nicht gerade mit der größten Begeisterung eine 30-minütige Audioaufnahme erhält. Doch dieses Beispiel der nervigsten Seite von Audionachrichten hat seine entscheidende Vorteile. Mal angenommen du bist irgendwo an einem Land am anderem Ende der Welt und du merkst gerade, dass dein bester Freund Geburstag heute hat, aber aufgrund der Zeitverschiebungen er sich wahrscheinlich noch im Bett befindet. Ihn in diesem Moment anzurufen wäre mehr als unpraktisch, denn er hat einen sehr vollen Tag. Du bist in einem Restaurant, wo gerade Jazz Musik gespielt wird und du weißt ganz genau, dass dein Freund Jazz liebt. Also entscheidest du dich statt ihn anzurufen, ihn eine Audionachricht zu senden, was den Moment, die Atmosphäre und vor allem deine authentischen Worte einfängt, welches Gefühle vermitteln kann, welches nur bedingt durch Texte vermittelt werden können, und es in sekundenschnelle abschickt. In dem Moment mag es sein, dass du dich dann auch fragst, was sich wohl derjenige gedacht hat, wer diese Erfindung auf die Erde gebracht hat. 
+
+Man sieht also das Sprachnachrichten auch sinnvoll sein können. Sie sind zwar eine asyncrone Kommunikationsform, welches Nachteile mit sich zieht, doch das ist ihre größte Stärke. In dem Beispiel aufgeführt sind sie vor allem nützlich, wenn man weiß, dass ein asyncrones Mitel zu Ungemütlichkeiten führen kann. Das können Textnachrichten zwar auch, aber wie vorhin aufgeführt ist das Aufnehmen der eigenen Stimme viel intimer und für somit für manche Kommunikationssituationen, die vielleicht etwas gefühlsgeladener sind, besser geeignet. 
+
+
+Ist also nun die Verwendung von Sprachnachriten in Messengerdiensten ein Gewinn für die digitale Alltagskommunikation, oder ist das denn jetzt ein Rückschritt?
+
+Ein Rückschritt ist das meiner Meinung nach auf jeden Fall nicht. Sie ist eben eine andere Form der Kommunikation, welches ihre vor und Nachteile hat. Und sicherlich können sie auch manchmal unter gewisse Umstände nervig sein, doch ihr Ziel ist es nicht die anderen digitalen Kommunikationsformen komplett zu ersetzen, sondern stattdessen ist diese lediglich eine weitere Möglichkeit, welches wir dann als Personen die kommunizieren wollen, auch wählen können. 
+Und eine größere vielfalt an Wegen, die wir nutzen können, um uns mit anderen zu verständigen, uns auszudrücken, Sachen zu teilen, die vielleicht mit konventionellen Kommunikationsformen gar nicht möglich gewesen wären, ist definitiv ein Gewinn.

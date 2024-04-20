@@ -1,0 +1,6 @@
+- A terrorist attack at 4 different locations in the city of London 
+- Carried out by Islamist terrorists 
+- Travelling London’s public transport 
+- 52 Total victims killed + the suicide bombers 
+- 784 People injured 
+- It was Londons deadlist terrorist incident since the Lockerbie bombing of 1998 . 

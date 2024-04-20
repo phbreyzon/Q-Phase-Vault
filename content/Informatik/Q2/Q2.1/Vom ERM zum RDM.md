@@ -4,8 +4,8 @@
 - Jeder Beziehungstyp (relationship) wird ebenfalls zu einer Relation. 
 - Bei den Beziehungstypen werden die beiden Primärschlüssel der beteiligten Entitätstypen zu Fremdschlüsseln und Primätschlüssel im Relationschema des Beziehungstypen.
   
-  ![[misc/Media/Pasted image 20240312202234.png|misc/Media/Pasted image 20240312202234.png]]
-![[misc/Media/Pasted image 20240312202341.png|misc/Media/Pasted image 20240312202341.png]]
+![[misc/Media/Pasted image 20240312202234.jpg|misc/Media/Pasted image 20240312202234.jpg]]
+![[misc/Media/Pasted image 20240312202341.jpg|misc/Media/Pasted image 20240312202341.jpg]]
 
 Wenn der Beziehungstyp $R$ und die beiden beteiligten Entytätstypen $A$ und $B$ gegeben sind, dann gilt
 #### m:n Beziehung: 

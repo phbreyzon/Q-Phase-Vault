@@ -30,5 +30,6 @@
 		- [[Themen Lineare Algebra|Themen Lineare Algebra]]
 	- **Q2.2**
 		- [[Lineare Abhängigkeit|Lineare Abhängigkeit]]
+		- [[Winkel von Vektoren|Winkel von Vektoren]]
 
 %% End Waypoint %%

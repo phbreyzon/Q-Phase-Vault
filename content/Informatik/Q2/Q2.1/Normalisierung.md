@@ -1,7 +1,7 @@
 Die Normalisierung ist die Änderung eines Schemas, so dass bestimmte Regeln erfüllt werden, um beispielsweise eine Datenbank für ein bestimmtes Standard zertifizieren zu lassen.
 
 Ziele sind unteran  derem: 
-- [[Informatik/Q2/Q2.1/Anomalien|Informatik/Q2/Q2.1/Anomalien]] zu vermeiden
+- [[Informatik/Q2/Q2.1/Anomalien|Anomalien]] zu vermeiden
 - Datenredudanz vermeiden (mehrfache Speicherung der gleichen Informationen)
 - eine strukturierte und übersichtliches Design zu schaffen 
 

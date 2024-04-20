@@ -15,7 +15,6 @@
 		- [[Schlange|Schlange]]
 	- [[Klausurenthemen Q1|Klausurenthemen Q1]]
 	- **UML**
-		- [[ERM|ERM]]
 		- [[Klassendiagramme|Klassendiagramme]]
 		- [[Übersicht zu UML|Übersicht zu UML]]
 - **Q2**
@@ -33,5 +32,6 @@
 		- [[Themen der Arbeit zu Datenbanken|Themen der Arbeit zu Datenbanken]]
 		- [[Vom ERM zum RDM|Vom ERM zum RDM]]
 	- **Q2.2**
+		- [[Software Planning and Technical Documentation|Software Planning and Technical Documentation]]
 
 %% End Waypoint %%

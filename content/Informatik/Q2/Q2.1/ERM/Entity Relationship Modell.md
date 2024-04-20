@@ -1,14 +1,10 @@
 
-
-
-
 ![[misc/Media/Pasted image 20240311150528.png|misc/Media/Pasted image 20240311150528.png]]
 
 ERM steht für **Entity Relationship Modell**
 
 
 ## Begriffe 
-
 
 #### Entität vs Entitätstyp 
 

@@ -30,6 +30,7 @@
 		- [[Universellen Entscheidungskompass|Universellen Entscheidungskompass]]
 		- [[Weiter Notizen|Weiter Notizen]]
 	- **Q2.2**
+		- [[Autonomieformel|Autonomieformel]]
 		- [[Kants begründung für die Würde|Kants begründung für die Würde]]
 
 %% End Waypoint %%

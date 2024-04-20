@@ -59,7 +59,7 @@
 		- **Vocab**
 
 	- **Q2**
-		- **climat**
+		- **Q2.1**
 			- [[Einstieg|Einstieg]]
 			- [[Idiomes et locutions|Idiomes et locutions]]
 			- [[l'énergie nucléaire|l'énergie nucléaire]]
@@ -69,5 +69,7 @@
 			- [[Themen der Arbeit climat|Themen der Arbeit climat]]
 			- [[Übungen|Übungen]]
 			- [[Vokabeln 1|Vokabeln 1]]
+		- **Q2.2**
+			- [[Commence Mondialisation|Commence Mondialisation]]
 
 %% End Waypoint %%
