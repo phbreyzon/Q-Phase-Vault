@@ -1,42 +1,45 @@
 %% Begin Waypoint %%
-- **Demokratisches System**
-	- [[Deliberative Demokratie|Deliberative Demokratie]]
-	- [[Parteienfinanzierung|Parteienfinanzierung]]
-	- [[Populismus|Populismus]]
-	- [[Privilegien, Pflichten und Funktionen|Privilegien, Pflichten und Funktionen]]
-	- [[Regierungsbildung|Regierungsbildung]]
-	- [[Themen der Arbeit Demokratisches System|Themen der Arbeit Demokratisches System]]
-	- [[Übersicht zu Demokratisches System|Übersicht zu Demokratisches System]]
-	- [[Wahlen|Wahlen]]
-	- [[Wahlsysteme im Vergleich|Wahlsysteme im Vergleich]]
-	- [[Wesensmerkmale und Entwicklung|Wesensmerkmale und Entwicklung]]
-- **Markt und Preisbildung**
-	- **Begriffe**
-		- [[Einkommensättigung|Einkommensättigung]]
-		- [[Marktgleichgewicht|Marktgleichgewicht]]
-		- [[Vorpreise|Vorpreise]]
-	- [[BIP|BIP]]
-	- [[Grundbegriffe|Grundbegriffe]]
-	- [[Themen der Arbeit Wirtschaft|Themen der Arbeit Wirtschaft]]
-	- [[Wirtschaftskreislauf|Wirtschaftskreislauf]]
-	- [[Wirtschaftswachstum|Wirtschaftswachstum]]
-- **Öffentlichkeit im Wandel**
-	- [[Blog|Blog]]
-	- [[Journalismus in der Krise|Journalismus in der Krise]]
-	- [[Kommunikationsformen|Kommunikationsformen]]
-- **Rechts und Sozialstaat**
-	- **Additional material**
-
-	- [[Gesetzgebungsprozess|Gesetzgebungsprozess]]
-	- [[Gewaltenverschränkung|Gewaltenverschränkung]]
-- **Verfassingskonflikte**
-	- [[Abwägung von Grundrechten|Abwägung von Grundrechten]]
-	- [[Das Grundgesetz|Das Grundgesetz]]
-	- [[Extremismus|Extremismus]]
-	- [[Körperscanner|Körperscanner]]
-	- [[Spannungsfeld Freiheit und Sicherheit|Spannungsfeld Freiheit und Sicherheit]]
-	- [[Themen der Arbeit Verfassungskonflikte|Themen der Arbeit Verfassungskonflikte]]
-	- [[Verwirkung von Grundrechten|Verwirkung von Grundrechten]]
-	- [[Wehrhafte Demokratie|Wehrhafte Demokratie]]
+- **Q1**
+	- **Demokratisches System**
+		- [[Deliberative Demokratie|Deliberative Demokratie]]
+		- [[Parteienfinanzierung|Parteienfinanzierung]]
+		- [[Populismus|Populismus]]
+		- [[Privilegien, Pflichten und Funktionen|Privilegien, Pflichten und Funktionen]]
+		- [[Regierungsbildung|Regierungsbildung]]
+		- [[Themen der Arbeit Demokratisches System|Themen der Arbeit Demokratisches System]]
+		- [[Übersicht zu Demokratisches System|Übersicht zu Demokratisches System]]
+		- [[Wahlen|Wahlen]]
+		- [[Wahlsysteme im Vergleich|Wahlsysteme im Vergleich]]
+		- [[Wesensmerkmale und Entwicklung|Wesensmerkmale und Entwicklung]]
+	- **Rechts und Sozialstaat**
+		- [[Gesetzgebungsprozess|Gesetzgebungsprozess]]
+		- [[Gewaltenverschränkung|Gewaltenverschränkung]]
+	- **Verfassingskonflikte**
+		- [[Abwägung von Grundrechten|Abwägung von Grundrechten]]
+		- [[Das Grundgesetz|Das Grundgesetz]]
+		- [[Extremismus|Extremismus]]
+		- [[Körperscanner|Körperscanner]]
+		- [[Spannungsfeld Freiheit und Sicherheit|Spannungsfeld Freiheit und Sicherheit]]
+		- [[Themen der Arbeit Verfassungskonflikte|Themen der Arbeit Verfassungskonflikte]]
+		- [[Verwirkung von Grundrechten|Verwirkung von Grundrechten]]
+		- [[Wehrhafte Demokratie|Wehrhafte Demokratie]]
+- **Q2**
+	- **Q2.1**
+		- **Markt und Preisbildung**
+			- **Begriffe**
+				- [[Einkommensättigung|Einkommensättigung]]
+				- [[Marktgleichgewicht|Marktgleichgewicht]]
+				- [[Vorpreise|Vorpreise]]
+			- [[BIP|BIP]]
+			- [[Grundbegriffe|Grundbegriffe]]
+			- [[Themen der Arbeit Wirtschaft|Themen der Arbeit Wirtschaft]]
+			- [[Wirtschaftskreislauf|Wirtschaftskreislauf]]
+			- [[Wirtschaftswachstum|Wirtschaftswachstum]]
+		- **Öffentlichkeit im Wandel**
+			- [[Blog|Blog]]
+			- [[Journalismus in der Krise|Journalismus in der Krise]]
+			- [[Kommunikationsformen|Kommunikationsformen]]
+	- **Q2.2**
+		- [[Nachfrageorientiere Wirtschaftspolitik|Nachfrageorientiere Wirtschaftspolitik]]
 
 %% End Waypoint %%
