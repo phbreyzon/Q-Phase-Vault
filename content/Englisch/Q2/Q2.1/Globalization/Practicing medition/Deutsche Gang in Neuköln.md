@@ -23,23 +23,16 @@ You take part in an international student project examining why some young adult
 
 
 
-### Key factors
-
-1. **Rootlessness and Disappointment**: The sense of being uprooted and the subsequent disappointment with unmet expectations in the host country are profound. Families like Yeyha's, which initially fled violence seeking safety and prosperity, find themselves marginalized.
-
-2. **Lack of Legal Status and Work Opportunities**: Yeyha, like many others, holds only a "tolerated" status in Germany, which restricts his ability to work, pursue education, or even partake in local competitions, despite his talents in boxing. This lack of opportunity and legal recognition fuels frustration and disillusionment.
-
-3. **Social Exclusion and Stigmatization**: The societal exclusion and the constant reminder that they are not welcome pushes individuals towards environments where they feel accepted, even if that acceptance comes from criminal gangs.
-
-4. **Use of New Arrivals by Established Clans**: The article highlights how established Arab clans exploit newly arrived migrants for their criminal activities, initially involving them in low-level crimes like hashish sales. This not only provides the clans with a workforce but also traps these newcomers in a cycle of criminality.
-
-5. **Pressure to Succeed and Support Families**: Many young migrants bear the weight of their families' expectations to succeed and often become the primary hope for their relatives back home. The pressure to support their families financially can push them towards illegal means of earning when legal avenues are closed off.
-
-
 
 ### Text 
 
-- [ ] needs revision 
+Deat Team, 
+As we delve into our project / as we gatter together / as we discuss this issue / on understaning why some young adults with migratory backgrounds are drawn to criminal gangs, *I cam accross an enlightening article* **that sheds light** on several underlying causes of this and that. 
+I believe it’s crucial for our research / to hear / to consider these aspects to better comprehend something. 
+
+
+***
+
 
 Dear Team,
 
@@ -59,3 +52,41 @@ As we continue our research, it's crucial to consider these multifaceted issues 
 Your thoughts and insights on this matter would be greatly appreciated.
 
 Best regards,
+
+
+Sure, I've prepared flashcards in a markdown table format for you. These flashcards are designed to help learn the given introduction in both English and German. 
+
+
+| English expression                                                                            | deutsche Übersetzung                                                                                             |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Dear Team,                                                                                    | Liebe Teammitglieder,                                                                                            |
+| As we delve into our project                                                                  | Während wir in unser Projekt eintauchen                                                                          |
+| as we gather together                                                                         | während wir uns versammeln                                                                                       |
+| as we discuss this issue                                                                      | während wir dieses Thema besprechen                                                                              |
+| on understanding why some young adults with migratory backgrounds are drawn to criminal gangs | um zu verstehen, warum einige junge Erwachsene mit Migrationshintergrund zu kriminellen Banden hingezogen werden |
+| I came across an enlightening article                                                         | Ich bin auf einen aufschlussreichen Artikel gestoßen                                                             |
+| that sheds light                                                                              | der Licht wirft                                                                                                  |
+| on several underlying causes                                                                  | auf mehrere zugrundeliegende Ursachen                                                                            |
+| I believe it’s crucial                                                                        | Ich glaube, es ist entscheidend                                                                                  |
+| for our research                                                                              | für unsere Forschung                                                                                             |
+| to hear                                                                                       | zu hören                                                                                                         |
+| to consider these aspects                                                                     | diese Aspekte zu berücksichtigen                                                                                 |
+| to better comprehend                                                                          | um besser zu verstehen                                                                                           |
+| To further our understanding                                                                  | Um unser Verständnis zu vertiefen                                                                                |
+| This issue warrants further investigation                                                     | Diese Angelegenheit erfordert weitere Untersuchungen                                                             |
+| It's imperative that we explore                                                               | Es ist unerlässlich, dass wir erforschen                                                                         |
+| This contributes to our overall grasp of the situation                                        | Dies trägt zu unserem Gesamtverständnis der Situation bei                                                        |
+| Drawing from various sources                                                                  | Aus verschiedenen Quellen schöpfen                                                                               |
+| This insight into... is invaluable                                                            | Diese Einsicht in... ist unschätzbar                                                                             |
+| By examining the underlying factors                                                           | Durch die Untersuchung der zugrundeliegenden Faktoren                                                            |
+| This perspective offers a comprehensive understanding of                                      | Diese Perspektive bietet ein umfassendes Verständnis von                                                         |
+| It's beneficial for us to consider                                                            | Es ist für uns von Vorteil, zu berücksichtigen                                                                   |
+| This analysis sheds light on                                                                  | Diese Analyse wirft Licht auf                                                                                    |
+| Encouraging a broader discussion on                                                           | Eine breitere Diskussion über ... anregen                                                                        |
+| This enables us to identify patterns                                                          | Dies ermöglicht es uns, Muster zu erkennen                                                                       |
+| Highlighting the significance of                                                              | Die Bedeutung von ... hervorheben                                                                                |
+| A pivotal element in our research                                                             | Ein entscheidendes Element in unserer Forschung                                                                  |
+| This will significantly aid in our understanding of                                           | Dies wird unser Verständnis von ... erheblich unterstützen                                                       |
+| It's crucial to dissect the components                                                        | Es ist entscheidend, die Bestandteile zu zerlegen                                                                |
+| By fostering an environment for open discussion                                               | Indem eine Umgebung für offene Diskussionen geschaffen wird                                                      |
+| This article serves as a foundation for                                                       | Dieser Artikel dient als Grundlage für                                                                           |
