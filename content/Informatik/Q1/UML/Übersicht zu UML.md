@@ -6,3 +6,7 @@ Um verschiedene Dinge darstellen zu können braucht man unterschiedliche Diagram
 ## [[Informatik/Q1/UML/Klassendiagramme|Klassendiagramme]]
 
 Klassendiagramme illustrieren den Aufbau einer Klasse mit ihren wesentlichsten Bestandteile (*Attribute*, *Methoden*, usw.) sowie ihre [[misc/Klassendiagramme#Relationen|Relationen]] zu anderen Klassen. 
+
+## [[Informatik/Q2/Q2.1/ERM/Entity Relationship Modell|Entity Relationship Modell]]
+
+Entity Realionship Modelle werden bei Datenbanken genutzt. 
