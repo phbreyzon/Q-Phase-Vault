@@ -10,7 +10,7 @@ Das Ziel ist es, die eigenen Machtstellung zu sichern. Die Gebiete wurden als Te
 
 ### 2. Stellen Sie den Begriff „Kolonialismus“ dem Begriff „Imperialismus“ gegenüber.
 
-Der 
+(needs edit)
 
 
 ![[misc/Media/Pasted image 20240318124930.png|misc/Media/Pasted image 20240318124930.png]]
