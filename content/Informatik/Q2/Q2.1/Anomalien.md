@@ -1,5 +1,3 @@
-
-
 ### Löschanomalien 
 Wenn durch das Löschen von Daten, dabei auch Informationen verloren gehen, die man eigentlich hätte nutzen können, unabhängig von den gelöschten Daten.
 
