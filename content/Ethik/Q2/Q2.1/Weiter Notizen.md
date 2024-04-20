@@ -33,7 +33,7 @@ Unbedingtes Gebot
 
 Kritik 
 
-- Widerspr+chlickeit verschiedenr Maxime → führt zu Moralischer Starrheit 
+- Widersprüchlickeit verschiedenr Maxime → führt zu Moralischer Starrheit 
 
 
 Wenn der gute Wille seine Absicht nicht erreicht hat ist dieser  missglückter Versuch moralisch wertvoller als wenn etwas gutes aus dem Falschem Motiv heraus geschieht
