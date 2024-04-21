@@ -1,6 +1,6 @@
 ![[misc/Media/Wirtschaftstheorien.pdf|misc/Media/Wirtschaftstheorien.pdf]]
 
-### Nr.1  + 2
+### Nr.1+2
 
 - Nicht das Angebot sondern die Nachfrage entscheidet über den wirtschaftlichen Erfolg 
 - Die gesamtwirschaftliche Nachfrage muss bei einem Konjunkturabschwung gesteigert werden. Beispielsweise geschieht das durch 
