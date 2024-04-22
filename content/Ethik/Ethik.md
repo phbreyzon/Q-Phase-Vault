@@ -21,7 +21,7 @@
 		- [[Tom Regan|Tom Regan]]
 - **Q2**
 	- **Q2.1**
-		- [[Einstieg|Einstieg]]
+		- [[Ethik/Q2/Q2.1/Einstieg|Ethik/Q2/Q2.1/Einstieg]]
 		- [[Kants guter Wille|Kants guter Wille]]
 		- [[Normative Ethik Themen|Normative Ethik Themen]]
 		- [[Pflicht und Achtung für das Gesetz|Pflicht und Achtung für das Gesetz]]
