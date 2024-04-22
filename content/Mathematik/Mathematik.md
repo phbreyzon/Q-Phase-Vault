@@ -29,6 +29,7 @@
 		- [[Längen im Raum|Längen im Raum]]
 		- [[Themen Lineare Algebra|Themen Lineare Algebra]]
 	- **Q2.2**
+		- [[Ebenene von Vektoren|Ebenene von Vektoren]]
 		- [[Lineare Abhängigkeit|Lineare Abhängigkeit]]
 		- [[Winkel von Vektoren|Winkel von Vektoren]]
 
