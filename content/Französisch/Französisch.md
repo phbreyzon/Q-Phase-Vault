@@ -41,7 +41,7 @@
 			- **additional material**
 				- [[diriger un résumé|diriger un résumé]]
 				- [[Présentations|Présentations]]
-			- **[Cet homme et cette femme](./Q-Phase/Q1/r%C3%A9alit%C3%A9s%20sociales/Cet%20homme%20et%20cette%20femme/Cet%20homme%20et%20cette%20femme.md)**
+			- **[[Cet homme et cette femme|Cet homme et cette femme]]**
 				- [[Personne 1|Personne 1]]
 				- [[Personne 2|Personne 2]]
 				- [[un amie c'est quelqu'un|un amie c'est quelqu'un]]
@@ -60,7 +60,7 @@
 
 	- **Q2**
 		- **Q2.1**
-			- [[Einstieg|Einstieg]]
+			- [[Französisch/Q-Phase/Q2/Q2.1/Einstieg|Französisch/Q-Phase/Q2/Q2.1/Einstieg]]
 			- [[Idiomes et locutions|Idiomes et locutions]]
 			- [[l'énergie nucléaire|l'énergie nucléaire]]
 			- **mediation**
