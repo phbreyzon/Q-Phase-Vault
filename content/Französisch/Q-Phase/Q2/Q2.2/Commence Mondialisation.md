@@ -23,3 +23,13 @@
 - l’entraite 
 
 le monde à devenue quelque petit dans un certain sense
+
+
+***
+
+![[misc/Media/Commence Mondialisation-20240422080350584.jpg|misc/Media/Commence Mondialisation-20240422080350584.jpg]]
+
+![[misc/Media/Commence Mondialisation-20240422080427027.jpg|misc/Media/Commence Mondialisation-20240422080427027.jpg]]
+
+![[misc/Media/Commence Mondialisation-20240422080454650.jpg|misc/Media/Commence Mondialisation-20240422080454650.jpg]]
+
