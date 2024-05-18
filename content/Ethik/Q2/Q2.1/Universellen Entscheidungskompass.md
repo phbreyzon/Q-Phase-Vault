@@ -1,3 +1,4 @@
+
 ![[misc/Media/04_Der kategorische Imperativ als allgemein gültiges Moralprinzip.pdf|misc/Media/04_Der kategorische Imperativ als allgemein gültiges Moralprinzip.pdf]]
 
 ## Kategorischer Imperativ 

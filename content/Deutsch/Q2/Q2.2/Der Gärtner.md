@@ -1,0 +1,6 @@
+- Sein Ursprung ist unbekannt
+- Er macht die Aufgaben des Dorfes (und zwar viele)
+- Er hat kein Besitz
+- Mistriöse Figur
+- Der Gärtner spricht wenig, und zu den Ereignissen im Dorf äußert er sich überhaupt nie
+- Manchen erscheint dem Gärtner kalt  
