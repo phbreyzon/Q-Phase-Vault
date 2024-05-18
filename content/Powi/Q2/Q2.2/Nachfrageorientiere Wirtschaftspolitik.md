@@ -17,7 +17,7 @@ ziehe [[misc/Media/Wirtschaftstheorien.pdf|Wirtschaftstheorien]] für mehr Detai
 
 Die Staatsausgaben und Staatseinnahmen sollen rechtzeitig *antizyklisch* , also entgegen dem Konjukturverlauf, ausgerichtet werden, um ein *kurzfristiges* gesamtwirtschaftliches Gleichgewicht zu erreichen. 
 
-![[misc/Media/Nachfrageorientiere Wirtschaftspolitik 2024-05-06 17.36.12.excalidraw|misc/Media/Nachfrageorientiere Wirtschaftspolitik 2024-05-06 17.36.12.excalidraw]]
+![[misc/Media/Nachfrageorientiere Wirtschaftspolitik 2024-05-06 17.36.12.svg|misc/Media/Nachfrageorientiere Wirtschaftspolitik 2024-05-06 17.36.12.svg]]
 
 ### Staatliche Maßnahmen 
 
