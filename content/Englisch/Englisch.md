@@ -16,7 +16,7 @@
 			- [[American Dream and homelessness|American Dream and homelessness]]
 			- [[Mediating a German text|Mediating a German text]]
 			- [[Mediation Tasks|Mediation Tasks]]
-		- **[Speech Analysis](./Q1/Q1.1/Speech%20Analysis/Speech%20Analysis.md)**
+		- **[[Speech Analysis|Speech Analysis]]**
 			- **additional material**
 
 			- [[Election night victory|Election night victory]]
@@ -67,12 +67,16 @@
 			- [[Background Al-Quaeda|Background Al-Quaeda]]
 			- [[Conspiracy theories|Conspiracy theories]]
 			- [[Effects on Muslim community and hate crimes|Effects on Muslim community and hate crimes]]
+			- [[Framework|Framework]]
 			- [[General information|General information]]
-			- [[Islamic terror in the UK|Islamic terror in the UK]]
+			- [[Historic context|Historic context]]
 			- [[Location of those attacks|Location of those attacks]]
 			- [[Outline|Outline]]
+			- [[societal reactions|societal reactions]]
 			- [[Underline causes of the attack|Underline causes of the attack]]
-		- [[societal reactions|societal reactions]]
+		- **The british Empire**
+			- [[Entry|Entry]]
+			- [[Past and present|Past and present]]
 - **vocabulary**
 	- **General vocabulary**
 
