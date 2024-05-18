@@ -1,0 +1,3 @@
+- [x]  [[Ethik/Q2/Q2.2/Selbstzweckformel|Selbstzweckformel]]
+- [x] [[Ethik/Q2/Q2.2/Autonomieformel|Autonomieformel]]
+- [x] [[Ethik/Q2/Q2.2/Der Quantitätsutilitarisums|Der Quantitätsutilitarisums]]
