@@ -33,3 +33,9 @@ le monde à devenue quelque petit dans un certain sense
 
 ![[misc/Media/Commence Mondialisation-20240422080454650.jpg|misc/Media/Commence Mondialisation-20240422080454650.jpg]]
 
+
+
+## Pflichtlektüre 
+
+Un été outremer
+ISBM 978-3-12-592258-7
