@@ -27,13 +27,19 @@ Er schaute sich was unengeschränkt gut genannt werden
 
 
 
-**Das moralische Gesetz** ist der Kategoischer Imperativ 
+**Das moralische Gesetz** wird durch den Kategoischen Imperativ 
 
 Unbedingtes Gebot 
 
-Kritik 
+## Kritik 
 
-- Widersprüchlickeit verschiedenr Maxime → führt zu Moralischer Starrheit 
+#### Widersprüchlickeit verschiedener Maxime → führt zu Moralischer Starrheit 
 
+Angenommen, eine Person hat zwei Maximen, die sie als moralisch richtig ansieht:
 
-Wenn der gute Wille seine Absicht nicht erreicht hat ist dieser  missglückter Versuch moralisch wertvoller als wenn etwas gutes aus dem Falschem Motiv heraus geschieht
+1. "Immer die Wahrheit sagen, egal was passiert."
+2. "Anderen nicht schaden, selbst wenn es bedeutet, die Wahrheit zu verschweigen."
+
+Diese beiden Maximen könnten in bestimmten Situationen miteinander in Konflikt geraten, z. B. wenn die Person die Wahrheit sagen müsste, um jemandem zu helfen, aber gleichzeitig befürchtet, dass dies anderen schaden könnte. In einem solchen Fall könnte die Unvereinbarkeit dieser Maximen zu moralischer Starrheit führen, da die Person möglicherweise nicht weiß, welche Maxime sie befolgen soll und dadurch handlungsunfähig wird.
+
+### Wenn der gute Wille seine Absicht nicht erreicht hat ist dieser  missglückter Versuch moralisch wertvoller als wenn etwas gutes aus dem Falschem Motiv heraus geschieht (die Folgen einer Handlung werden vernachlässigt)
