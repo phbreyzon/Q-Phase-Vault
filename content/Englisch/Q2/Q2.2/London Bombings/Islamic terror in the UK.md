@@ -1,5 +1,0 @@
-## General information 
-
-
-## Underlying causes 
-
