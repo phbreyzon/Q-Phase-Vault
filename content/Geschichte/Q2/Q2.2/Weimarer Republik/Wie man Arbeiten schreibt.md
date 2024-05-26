@@ -1,7 +1,7 @@
-Autor, Anlassm Ort m Datum, Addresat 
+Autor, Anlass Ort  Datum, Addresat 
 in Form einer Quelle 
 Die vorliegende Quelle 
-in dierr 
+in dier
 
 - begrüßt hebt verhor appeliertm ruftn
 - er bekräftigt
@@ -23,5 +23,3 @@ Und Fazit bei der Nr.3
 10 Stichpunkte 
 
 ![[misc/Media/Recording 20240515125653.webm|misc/Media/Recording 20240515125653.webm]]
-
-
