@@ -61,8 +61,9 @@
 			- [[Verlauf des ersten Welkrieges|Verlauf des ersten Welkrieges]]
 		- **Weimarer Republik**
 			- [[Die Novemberrevolution|Die Novemberrevolution]]
+			- [[Die Weimarer Verfassung|Die Weimarer Verfassung]]
+			- [[Entstehung der Weimarer Republik|Entstehung der Weimarer Republik]]
 			- [[Themen der Arbeit|Themen der Arbeit]]
-			- [[Übersicht der Wahlentwicklung|Übersicht der Wahlentwicklung]]
 			- [[Wie man Arbeiten schreibt|Wie man Arbeiten schreibt]]
 
 %% End Waypoint %%
