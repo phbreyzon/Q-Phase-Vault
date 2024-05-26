@@ -9,3 +9,4 @@ Die Platzierung ist vor allem durch die Einwohnerzahl von großer Bedeutung, da 
 - Länder die eine große Einwohnerzahl haben jedoch ein mittelwertiges BIP haben wirkt sich negativ auf das BIP/Kopf aus. Diese Länder (Besonders die Südlichen und Balkanländer) bräuchten dann besondere Unterstützung um die Ungleichheiten innerhalb der EU auszugleichen
 
 
+

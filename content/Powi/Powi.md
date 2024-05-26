@@ -42,7 +42,9 @@
 	- **Q2.2**
 		- [[Angebotsorierntierte Wirtschaftstheorie|Angebotsorierntierte Wirtschaftstheorie]]
 		- [[Inflation & Staatsverschuldung|Inflation & Staatsverschuldung]]
+		- [[Menschen & Arbeit|Menschen & Arbeit]]
 		- [[Nachfrageorientiere Wirtschaftspolitik|Nachfrageorientiere Wirtschaftspolitik]]
+		- [[soziale Gerechtigkeit im Arbeitsmarkt|soziale Gerechtigkeit im Arbeitsmarkt]]
 		- [[Themen der Arbeit Wirtschaft 2|Themen der Arbeit Wirtschaft 2]]
 		- [[Übungen|Übungen]]
 		- [[Wirtschaftskraft in der EU|Wirtschaftskraft in der EU]]

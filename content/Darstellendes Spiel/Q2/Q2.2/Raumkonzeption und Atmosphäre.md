@@ -2,7 +2,6 @@ Der Begriff der Atmosphäre wird erst seit Mitte der 1990er-Jahre untersucht und
 
 > Im Theater ist die Verwendung des Begriffs hilfreich, da mit ihm ein Bewusstsein für die Wirkung des Raumes geschaffen wird, indem ein Stück ereignet. 
 > Wird die Atmosphäre bewusst gestaltet, wird das erlebnis für das Publikum prägnanter, da es es zu einem sinnlich erfahrbarem Erlebnis wird.
-> 
 
 ## Raumkonzeption
 

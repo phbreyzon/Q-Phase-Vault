@@ -76,7 +76,9 @@
 			- [[Underline causes of the attack|Underline causes of the attack]]
 		- **The british Empire**
 			- [[Entry|Entry]]
+			- [[Englisch/Q2/Q2.2/The british Empire/Findings|Englisch/Q2/Q2.2/The british Empire/Findings]]
 			- [[Past and present|Past and present]]
+			- [[Shooting an Elephant|Shooting an Elephant]]
 - **vocabulary**
 	- **General vocabulary**
 

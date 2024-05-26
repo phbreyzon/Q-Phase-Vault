@@ -47,7 +47,12 @@
 		- [[Der Architekt|Der Architekt]]
 		- [[Der Gärtner|Der Gärtner]]
 		- [[Der Rotarmist|Der Rotarmist]]
+		- [[Die Besucherin|Die Besucherin]]
+		- [[Findings 2|Findings 2]]
+		- [[Findings|Findings]]
 		- [[Lektüre|Lektüre]]
+		- [[Notes on the findings|Notes on the findings]]
+		- [[The characters|The characters]]
 
 %% End Waypoint %%
 
