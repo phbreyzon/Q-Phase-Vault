@@ -30,6 +30,7 @@
 		- [[Themen Lineare Algebra|Themen Lineare Algebra]]
 	- **Q2.2**
 		- [[Ebenene von Vektoren|Ebenene von Vektoren]]
+		- [[Hessesche Normalform|Hessesche Normalform]]
 		- [[Lineare Abhängigkeit|Lineare Abhängigkeit]]
 		- [[Novemberrevolution|Novemberrevolution]]
 		- [[Winkel von Vektoren|Winkel von Vektoren]]
