@@ -47,6 +47,9 @@
 				- [[Übersicht innenpolitik|Übersicht innenpolitik]]
 		- [[Themen der Arbeit Bismarck|Themen der Arbeit Bismarck]]
 	- **Q2.2**
+		- **Der Versailler Vertrag**
+			- [[Einstieg|Einstieg]]
+			- [[Test|Test]]
 		- **Die Russische Revolution**
 			- [[Einstieg|Einstieg]]
 			- [[Im Urteil der Nachwelt|Im Urteil der Nachwelt]]
