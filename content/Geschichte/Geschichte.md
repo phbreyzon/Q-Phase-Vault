@@ -47,9 +47,6 @@
 				- [[Übersicht innenpolitik|Übersicht innenpolitik]]
 		- [[Themen der Arbeit Bismarck|Themen der Arbeit Bismarck]]
 	- **Q2.2**
-		- **Der Versailler Vertrag**
-			- [[Einstieg|Einstieg]]
-			- [[Test|Test]]
 		- **Die Russische Revolution**
 			- [[Einstieg|Einstieg]]
 			- [[Im Urteil der Nachwelt|Im Urteil der Nachwelt]]
@@ -63,6 +60,9 @@
 			- [[Ursachen des ersten Weltkriegs|Ursachen des ersten Weltkriegs]]
 			- [[Verlauf des ersten Welkrieges|Verlauf des ersten Welkrieges]]
 		- **Weimarer Republik**
+			- **Belastungen**
+				- [[Der Versailler Vertrag|Der Versailler Vertrag]]
+				- [[Nachwirkungen des Versailler Vertrags|Nachwirkungen des Versailler Vertrags]]
 			- [[Die Novemberrevolution|Die Novemberrevolution]]
 			- [[Die Weimarer Verfassung|Die Weimarer Verfassung]]
 			- [[Entstehung der Weimarer Republik|Entstehung der Weimarer Republik]]
