@@ -74,9 +74,12 @@
 			- [[Outline|Outline]]
 			- [[societal reactions|societal reactions]]
 			- [[Underline causes of the attack|Underline causes of the attack]]
+		- **My son the fanatic**
+			- [[Englisch/Q2/Q2.2/My son the fanatic/Einstieg|Englisch/Q2/Q2.2/My son the fanatic/Einstieg]]
+			- [[Extremism|Extremism]]
 		- **The british Empire**
 			- [[Entry|Entry]]
-			- [[Englisch/Q2/Q2.2/The british Empire/Findings|Englisch/Q2/Q2.2/The british Empire/Findings]]
+			- [[Findings|Findings]]
 			- [[Past and present|Past and present]]
 			- [[Shooting an Elephant|Shooting an Elephant]]
 - **vocabulary**

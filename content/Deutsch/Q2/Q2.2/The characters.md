@@ -1,6 +1,7 @@
 
 ### Der Großbauer und seine vier Töchter 
  - ein Traum, die Existenz der Familie auch über sein eigenes Leben hinaus zu sichern und ihr dauerhaft Heimat zu gewährleisten, scheitert.
+   
 ### Der Architekt 
 - Spielt in den 1930-er Jahren 
 - Zu Beginn des Kapitesl muss er sein Hab und Gut “eingraben” (S.34), weil ihn die politischen Verhältnisse zur Flucht zwingen. Er muss nach Westdeutschland gliehen, weil ihm im jungen kommunistischen Detuschland eine Gefängnisstrafe, weil er Gebäude mit Material aus dem Westen errichtet hat. 
@@ -63,3 +64,4 @@
 - Trauerarbeit, den Abschied vom Haus und damit von ihrer Kindheit, vollzieht ise, indem sie das Haus und das Grunstück gründlich reinigt.
 - Sie schlicht einem symbolischen Vorgang “die Haustür ab”(S.185)
 - Verlust des geliebten Hauses ist mit einen erkennbaren Identitätsverlust gekennzeichnet.
+

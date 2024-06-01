@@ -21,7 +21,7 @@
 		- [[Tom Regan|Tom Regan]]
 - **Q2**
 	- **Q2.1**
-		- [[Einstieg|Einstieg]]
+		- [[Ethik/Q2/Q2.1/Einstieg|Ethik/Q2/Q2.1/Einstieg]]
 		- [[Kants begründung für die Würde|Kants begründung für die Würde]]
 		- [[Kants guter Wille|Kants guter Wille]]
 		- [[Normative Ethik Themen|Normative Ethik Themen]]

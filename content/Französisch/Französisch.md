@@ -60,17 +60,19 @@
 
 	- **Q2**
 		- **Q2.1**
-			- [[Einstieg|Einstieg]]
+			- [[Französisch/Q-Phase/Q2/Q2.1/Einstieg|Französisch/Q-Phase/Q2/Q2.1/Einstieg]]
 			- [[Idiomes et locutions|Idiomes et locutions]]
 			- [[l'énergie nucléaire|l'énergie nucléaire]]
 			- **mediation**
 				- [[Fessenheim|Fessenheim]]
 				- [[Übung2|Übung2]]
 			- [[Themen der Arbeit climat|Themen der Arbeit climat]]
-			- [[Französisch/Q-Phase/Q2/Q2.1/Übungen|Französisch/Q-Phase/Q2/Q2.1/Übungen]]
+			- [[Übungen|Übungen]]
 			- [[Vokabeln 1|Vokabeln 1]]
 		- **Q2.2**
 			- [[Commence Mondialisation|Commence Mondialisation]]
+			- [[Felicien|Felicien]]
 			- [[mondialisation inquieté|mondialisation inquieté]]
+			- [[Themen der Arbeit 2 frz|Themen der Arbeit 2 frz]]
 
 %% End Waypoint %%

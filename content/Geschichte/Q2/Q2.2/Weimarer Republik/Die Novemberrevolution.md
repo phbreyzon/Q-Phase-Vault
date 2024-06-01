@@ -27,7 +27,7 @@
 
 - Marine befiehlt Matrosen und Hochseeflotte letzten Angriff auf engl. Flotte
 	- Dies bedeutete den sicheren Tod
-	- → Matrosen sabotieren Boote und werden somit eingesperrt
+	- → **28.10.1918** Matrosen sabotieren Boote und werden somit eingesperrt
 	- → Werden von restlichen Matrosen befreit und ihre Offiziere entwaffnet
 		- →Es kommt zu Aufständen in Kiel → Übertrug sich auf andere Städte über
 	- → Bildung von Arbeiter- und Soldatenverbänden
@@ -47,7 +47,7 @@
 - Aus USPD scheidet sich KPD (Gründung **1.1.1919**) aus (Führung: Rosa Luxemburd und Karl Liebknecht)
 - **5.01 - 12.01.191: Januaraufstand** (Spartakusaufstand)
 	- → KPD versucht MSPD Regierung zu stürzen 
-- Zum Verhindern eines Bürgerkriegs: Zusammearbeit mit Ebert und dem Militär (Freikorps) → *Ebert-Groener-Abkommen* → Militärische unterstützung im Kampf gegen den Bolschewismus
+- Zum Verhindern eines Bürgerkriegs: Zusammearbeit mit Ebert und dem Befehlshaber des Militärs  → *Ebert-Groener-Abkommen* → Militärische unterstützung im Kampf gegen den Bolschewismus
 - → Dieses Bündnis belastete den demokratischen Neuanfang stark
 	- → Freikops töten Rosa Luxemburg und Karl Liebknecht 
 		- → Empörung der deutschen Gesellschaft 
