@@ -15,6 +15,7 @@
 		- [[Sustainable Development Goals der UNO (SDGs)|Sustainable Development Goals der UNO (SDGs)]]
 	- **Q2.2**
 		- [[Akustische Elemente|Akustische Elemente]]
+		- [[Ersatzleistung|Ersatzleistung]]
 		- [[Raumkonzeption und Atmosphäre|Raumkonzeption und Atmosphäre]]
 		- [[Regieanweisungen|Regieanweisungen]]
 		- [[Sample scene|Sample scene]]
