@@ -24,4 +24,4 @@ En même temps, il est également décrit comme égoïste. Apparemment, son comp
 
 Finalement, étant donné que Nourredine ne s'intéresse pas au moi lyrique, son ami, le moi lyrique prend ses distances avec Nourredine.
 
-En somme, Nourredine est un garçon séduisant et charmeur à première vue, mais il s'avère être un playboy typique. À la surface, il est intéressant et potentiellement désirable, cependant, son fond est égoïste et toxique.
+En somme, Nourredine est un garçon séduisant et charmeur à première vue, mais il s'avère être un playboy typique. À la surface, il est intéressant et potentiellement désirable, cependant, son fond est égoïste et toxique. 
