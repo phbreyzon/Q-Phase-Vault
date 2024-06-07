@@ -21,7 +21,7 @@
 		- [[Tom Regan|Tom Regan]]
 - **Q2**
 	- **Q2.1**
-		- [[Ethik/Q2/Q2.1/Einstieg|Ethik/Q2/Q2.1/Einstieg]]
+		- [[Einstieg|Einstieg]]
 		- [[Kants begründung für die Würde|Kants begründung für die Würde]]
 		- [[Kants guter Wille|Kants guter Wille]]
 		- [[Normative Ethik Themen|Normative Ethik Themen]]
@@ -34,6 +34,7 @@
 		- [[Autonomieformel|Autonomieformel]]
 		- [[Der Quantitätsutilitarisums|Der Quantitätsutilitarisums]]
 		- [[Die Schriftstellerin|Die Schriftstellerin]]
+		- [[Präferenzutilitarismus|Präferenzutilitarismus]]
 		- [[Selbstzweckformel|Selbstzweckformel]]
 		- [[Themen der Arbeit Utilitarismus & Kant 2|Themen der Arbeit Utilitarismus & Kant 2]]
 
