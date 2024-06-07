@@ -75,8 +75,11 @@
 			- [[societal reactions|societal reactions]]
 			- [[Underline causes of the attack|Underline causes of the attack]]
 		- **My son the fanatic**
-			- [[Englisch/Q2/Q2.2/My son the fanatic/Einstieg|Englisch/Q2/Q2.2/My son the fanatic/Einstieg]]
+			- [[And more tasks|And more tasks]]
+			- [[Einstieg|Einstieg]]
+			- [[Even more tasks|Even more tasks]]
 			- [[Extremism|Extremism]]
+			- [[More tasks|More tasks]]
 		- **The british Empire**
 			- [[Entry|Entry]]
 			- [[Findings|Findings]]
