@@ -8,3 +8,10 @@
 - Nur Worte benutzen, die man auch kennt
 
 
+### Themen
+
+- Glykosidische Bindungen Nomenklatur 
+- $O$-glykosidische Bindung 
+- $N$-glykosidische Bindung
+- Struktur 
+- Visualisierung / 3D-Modelle / Handout 

@@ -9,7 +9,7 @@ könnt auch jedem Abschnitt eine Überschrift geben.
 - Immer **in der 3.Person und im Präsens schreiben**, auch wenn der Ausgangstext in der Vergangenheit steht.
 - **Neutral bleiben**, keine persönlichen Kommentare, keine Wertungen.
 - die Länge beträgt ca. **ein Drittel des Ausgangstextes**. Details gehören nicht hinein.
-- In der Einleitung sollen die **Grundgedanken des Textes in 1-2 Sätzen** formuliert werden *(Autor, Titel, Datum, Ort, Adressat, Sprachstil, Genre *
+- In der Einleitung sollen die **Grundgedanken des Textes in 1-2 Sätzen** formuliert werden *(Autor, Titel, Datum, Ort, Adressat, Sprachstil, Genre)*
 - Im Hauptteil sollen die wichtigen Textinhalte wiedergegeben werden, **möglichst nach der Wichtigkeit im Ausgangstext, ggf. auch nach der Reihenfolge** - bei literarischen Texten ist Reihenfolge wichtiger als bei Sachtexten (wie Reden Oder Zeitungsartikeln), aber man darf keine Nacherzählung machen.
 - es können auch Textabschnitte genannt werden *(“premiére, deuxiéme partie etc.”)*, **indirekte Rede ist auch möglich**.
 

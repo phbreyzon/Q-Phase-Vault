@@ -73,6 +73,7 @@
 			- [[Commence Mondialisation|Commence Mondialisation]]
 			- [[Felicien|Felicien]]
 			- [[mondialisation inquieté|mondialisation inquieté]]
+			- [[Résumé|Résumé]]
 			- [[Themen der Arbeit 2 frz|Themen der Arbeit 2 frz]]
 
 %% End Waypoint %%

@@ -47,6 +47,7 @@
 		- [[soziale Gerechtigkeit im Arbeitsmarkt|soziale Gerechtigkeit im Arbeitsmarkt]]
 		- **Tarifautonomie**
 			- [[Übersicht|Übersicht]]
+			- [[Weiteres Material|Weiteres Material]]
 		- [[Themen der Arbeit Wirtschaft 2|Themen der Arbeit Wirtschaft 2]]
 		- [[Übungen|Übungen]]
 		- [[Wirtschaftskraft in der EU|Wirtschaftskraft in der EU]]

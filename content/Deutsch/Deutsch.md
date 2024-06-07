@@ -51,8 +51,10 @@
 		- [[Findings 2|Findings 2]]
 		- [[Findings|Findings]]
 		- [[Lektüre|Lektüre]]
+		- [[More|More]]
 		- [[Notes on the findings|Notes on the findings]]
 		- [[The characters|The characters]]
+		- [[Zitate|Zitate]]
 
 %% End Waypoint %%
 

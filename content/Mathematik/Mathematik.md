@@ -32,7 +32,7 @@
 		- [[Ebenene von Vektoren|Ebenene von Vektoren]]
 		- [[Hessesche Normalform|Hessesche Normalform]]
 		- [[Lineare Abhängigkeit|Lineare Abhängigkeit]]
-		- [[Novemberrevolution|Novemberrevolution]]
+		- [[Themen der Arbeit lineare Algebra|Themen der Arbeit lineare Algebra]]
 		- [[Winkel von Vektoren|Winkel von Vektoren]]
 
 %% End Waypoint %%

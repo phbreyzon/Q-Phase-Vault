@@ -63,9 +63,12 @@
 			- **Belastungen**
 				- [[Der Versailler Vertrag|Der Versailler Vertrag]]
 				- [[Nachwirkungen des Versailler Vertrags|Nachwirkungen des Versailler Vertrags]]
+				- [[Weitere Belastungen|Weitere Belastungen]]
 			- [[Die Novemberrevolution|Die Novemberrevolution]]
 			- [[Die Weimarer Verfassung|Die Weimarer Verfassung]]
 			- [[Entstehung der Weimarer Republik|Entstehung der Weimarer Republik]]
+			- **Krisenjahre**
+				- [[Einstieg|Einstieg]]
 			- [[Themen der Arbeit|Themen der Arbeit]]
 			- [[Wie man Arbeiten schreibt|Wie man Arbeiten schreibt]]
 
