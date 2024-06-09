@@ -15,3 +15,5 @@
 - $N$-glykosidische Bindung
 - Struktur 
 - Visualisierung / 3D-Modelle / Handout 
+
+

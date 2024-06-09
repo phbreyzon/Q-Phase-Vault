@@ -46,7 +46,7 @@
 		- [[Nachfrageorientiere Wirtschaftspolitik|Nachfrageorientiere Wirtschaftspolitik]]
 		- [[soziale Gerechtigkeit im Arbeitsmarkt|soziale Gerechtigkeit im Arbeitsmarkt]]
 		- **Tarifautonomie**
-			- [[Übersicht|Übersicht]]
+			- [[Powi/Q2/Q2.2/Tarifautonomie/Übersicht|Powi/Q2/Q2.2/Tarifautonomie/Übersicht]]
 			- [[Weiteres Material|Weiteres Material]]
 		- [[Themen der Arbeit Wirtschaft 2|Themen der Arbeit Wirtschaft 2]]
 		- [[Übungen|Übungen]]
