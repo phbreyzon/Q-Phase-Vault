@@ -42,7 +42,9 @@
 	- **Q2.2**
 		- [[Ascorbinsäure|Ascorbinsäure]]
 		- [[Einstieg in Proteine|Einstieg in Proteine]]
-		- [[Präsentationsthema|Präsentationsthema]]
+		- **glykosidische Bindungen**
+			- [[Präsentationsthema|Präsentationsthema]]
+			- [[Übersicht|Übersicht]]
 		- [[Übungen zu Carbonsäuren|Übungen zu Carbonsäuren]]
 
 %% End Waypoint %%
