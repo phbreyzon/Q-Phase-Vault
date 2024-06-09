@@ -44,7 +44,7 @@
 		- [[Einstieg in Proteine|Einstieg in Proteine]]
 		- **glykosidische Bindungen**
 			- [[Präsentationsthema|Präsentationsthema]]
-			- [[Übersicht|Übersicht]]
+			- [[Übersicht zu den Themen|Übersicht zu den Themen]]
 		- [[Übungen zu Carbonsäuren|Übungen zu Carbonsäuren]]
 
 %% End Waypoint %%
