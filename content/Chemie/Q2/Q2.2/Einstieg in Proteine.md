@@ -1,5 +1,5 @@
 
-![[misc/Media/Einstieg in Proteine 2024-04-26 11.48.46.excalidraw|misc/Media/Einstieg in Proteine 2024-04-26 11.48.46.excalidraw]]
+![[misc/Media/Einstieg in Proteine 2024-04-26 11.48.46.svg|misc/Media/Einstieg in Proteine 2024-04-26 11.48.46.svg]]
 
 Eine Aminosäure besteht aus einer *Carboxygruppe*, *Aminogruppe* und einem Rest. 
 Beim *zentralem Kohlenstoffatome* hängen sich die ganzen Gruppen an, wobei es bei der verbliebenen Verbindung eine H-Atom angehängt ist. 

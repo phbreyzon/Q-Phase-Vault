@@ -9,7 +9,7 @@
 
 ### Reaktivität verschiedener Alkene in der AE
 
-![[misc/Media/Isomere des Butens 2023-12-01 12.50.38.excalidraw|misc/Media/Isomere des Butens 2023-12-01 12.50.38.excalidraw]]
+![[misc/Media/Isomere des Butens 2023-12-01 12.50.38.svg|misc/Media/Isomere des Butens 2023-12-01 12.50.38.svg]]
 
 Bei der Elektrophilen Addition ist der entscheidenster Schritt zwischen der Abspaltung des Broms und der Bildung des *Pi-Komplexes*
 

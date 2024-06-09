@@ -1,6 +1,6 @@
 Durch Oxidation von Alkohole erhält man ein Aldehyd. Die Reaktion dahin ist eine Redoxreaktion.
 
-![[misc/Media/Aldehyde und Ketone 2024-03-14 15.03.37.excalidraw|misc/Media/Aldehyde und Ketone 2024-03-14 15.03.37.excalidraw]]
+![[misc/Media/Aldehyde und Ketone 2024-03-14 15.03.37.svg|misc/Media/Aldehyde und Ketone 2024-03-14 15.03.37.svg]]
 
 
 Als besonderes Merkmal besitzen die Aldehyde die sog. **Carbonylgruppe** (-C=O>). Dabei handelt es sich um ein Sauerstoff, welches über eine Doppelbindung am C-Atom verbunden ist. 

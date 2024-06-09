@@ -6,4 +6,4 @@ Aufgrund der mehreren Hydroxygruppen, sind die Polyole dazu in der Lage mehrere 
 Außerdem haben diese Alkohole eine wasseranziehende Wirkung (*hygroskopische Wirkung*)
 
 #### Beispiele für mehrwertige Akohole 
-![[misc/Media/Einstieg 2024-01-26 11.49.55.excalidraw|misc/Media/Einstieg 2024-01-26 11.49.55.excalidraw]]
+![[misc/Media/Einstieg 2024-01-26 11.49.55.svg|misc/Media/Einstieg 2024-01-26 11.49.55.svg]]

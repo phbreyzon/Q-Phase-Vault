@@ -30,12 +30,12 @@ Keine Ahnung
 
 ## 8. Geben Sie die systematische Namen für folgende Alkene an und zeichnen Sie ihre Strukturformeln: a) Ethen b) Propen c) But-2-en  d) Pent-1-en
   
-![[misc/Media/Alkene als ungesättigte Kohlenwasserstoffe 2024-01-10 19.25.36.excalidraw|misc/Media/Alkene als ungesättigte Kohlenwasserstoffe 2024-01-10 19.25.36.excalidraw]]
+![[misc/Media/Alkene als ungesättigte Kohlenwasserstoffe 2024-01-10 19.25.36.svg|misc/Media/Alkene als ungesättigte Kohlenwasserstoffe 2024-01-10 19.25.36.svg]]
 
 
 ## 9. Zeichnen Sie die Strukturformel für 2-Methylbut-2-en und geben Sie den IUPAC-Namen an.
 
-![[misc/Media/Alkene als ungesättigte Kohlenwasserstoffe 2024-01-10 19.30.54.excalidraw|misc/Media/Alkene als ungesättigte Kohlenwasserstoffe 2024-01-10 19.30.54.excalidraw]]
+![[misc/Media/Alkene als ungesättigte Kohlenwasserstoffe 2024-01-10 19.30.54.svg|misc/Media/Alkene als ungesättigte Kohlenwasserstoffe 2024-01-10 19.30.54.svg]]
 
 ## 10. Erklären Sie den Begriff "cis-trans-Isomerie" und geben Sie ein Beispiel für ein Alken, das cis-trans-Isomere bilden kann.
 
