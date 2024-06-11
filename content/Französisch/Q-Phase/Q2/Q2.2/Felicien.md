@@ -53,3 +53,17 @@ surmené = überfordert
 
 
 adoption pro contra (Thema)
+
+
+
+Il se sent décu = er fühlt sich entäuscht
+
+la déception = die Entäuschung
+
+
+
+
+![[misc/Media/Felicien-20240610090434126.jpg|misc/Media/Felicien-20240610090434126.jpg]]
+
+
+

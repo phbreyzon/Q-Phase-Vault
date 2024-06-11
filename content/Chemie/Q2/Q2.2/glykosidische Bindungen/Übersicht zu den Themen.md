@@ -3,28 +3,33 @@
 
 Eine glykosidische Bindung verknüpft das anomere Kohlenstoffatom eines Kohlenhydrats mit einer weiteren chemischen Gruppe. Neben **O-glykosidischen** Bindungen (z. B. *Di- und Polysaccharide)* gibt es auch **N-glykosidische Bindungen** (z. B. *im ATP-Molekül*)
 
+Glykosidische Bindungen findet man beispielsweise in **Kohlenhydraten wie Stärke, Cellulose und Glykogen.**
+
 
 ## Was ist eine glykosidische Bindung?
 
-Unter einer **glykosidischen** **Bindung** kannst du die Bindung eines **Kohlenhydrates** verstehen, welches über sein **anomeres** **Kohlenstoffatom** an eine weitere chemische Gruppe geknüpft ist. Als anomeres Kohlenstoffatom wird das C-Atom bezeichnet, das ein **[Chiralität](https://studyflix.de/chemie/chiralitat-436) szentrum** besitzt und welches bei der **Acetalbildung** aus der offenen Kettenform entsteht. Eine weitere Bezeichnung hierfür ist auch **„anomeres Zentrum“**. Bei Zuckern ist das typischerweise das C-Atom der [**Carbonylgruppe**](https://studyflix.de/chemie/carbonylgruppe-2307) (hier auch Aldehydgruppe). Während du bei Glykogen eine **_O_-glykosidische Bindung** finden wirst, liegt beim ATP-Molekül eine **_N_-glykosidische Bindung** vor. Prinzipiell kannst du Strukturen mit einer glykosidischen Bindung auch **„Glykoside“** nennen.
+Unter einer **glykosidischen** **Bindung** kannst du die Bindung eines **Kohlenhydrates** verstehen, welches über sein **anomeres** **Kohlenstoffatom** an eine weitere chemische Gruppe geknüpft ist. Als anomeres Kohlenstoffatom wird das C-Atom bezeichnet, das ein **Chiralitätszentrum** besitzt und welches bei der **Acetalbildung** aus der offenen Kettenform entsteht. Eine weitere Bezeichnung hierfür ist auch **„anomeres Zentrum“**. Bei Zuckern ist das typischerweise das C-Atom der Carbonylgruppe  (hier auch Aldehydgruppe). Während du bei Glykogen eine **_O_-glykosidische Bindung** finden wirst, liegt beim ATP-Molekül eine **_N_-glykosidische Bindung** vor. Prinzipiell kannst du Strukturen mit einer glykosidischen Bindung auch **„Glykoside“** nennen.
 
 
 
 ## Glykosidische Bindung Nomenklatur
 
-[im Video(00:47)](https://studyflix.de/chemie/glykosidische-bindung-2306)
-Unterscheiden kannst du glykosidische Bindungen nach dem **Reaktionspartner**, der **Stellung** **der** [**Hydroxygruppe**](https://studyflix.de/chemie/hydroxygruppe-2296?topic_id=152) am anomeren Kohlenstoffatom und den **beteiligten Kohlenstoffatomen**. Die **zwei Zahlen** geben hierbei an, welche Kohlenstoffatome verknüpft werden.
 
+Unterscheiden kannst du glykosidische Bindungen nach dem **Reaktionspartner**, der **Stellung** **der** **Hydroxygruppe**  am anomeren Kohlenstoffatom und den **beteiligten Kohlenstoffatomen**. Die **zwei Zahlen** geben hierbei an, welche Kohlenstoffatome verknüpft werden.
+
+### Beispiele
 
 ### Maltose 
 
 ![[misc/Media/Übersicht-20240608100129941.jpg|misc/Media/Übersicht-20240608100129941.jpg]]
 
+$\alpha,\alpha-1,4-\text{glykosidisch gebunden}$
 
 ### Cellobiose 
 
 ![[misc/Media/Übersicht-20240608100208514.jpg|misc/Media/Übersicht-20240608100208514.jpg]]
 
+$\beta,\alpha-1,4-\text{glykosidisch gebunden}$
 
 
 ### _O_-glykosidische Bindung
@@ -34,67 +39,28 @@ Die **_O_-glykosidische Bindung** entsteht, wenn die beiden Reaktionspartner e
 
 ### _N_-glykosidische Bindung
 
-Als weiteren Bindungspartner kann das anomere Kohlenstoffatom auch eine **[Amin](https://studyflix.de/chemie/amine-2054) ogruppe -NH2** nehmen. Daraus ergibt sich dann eine **_N_-glykosidische Bindung**, wie du sie bei der Verknüpfung von Zuckern mit zum Beispiel **Basen** im **ATP-Molekül** finden kannst.
+Als weiteren Bindungspartner kann das anomere Kohlenstoffatom auch eine **Aminogruppe -NH2** nehmen. Daraus ergibt sich dann eine **_N_-glykosidische Bindung**, wie du sie bei der Verknüpfung von Zuckern mit zum Beispiel **Basen** im **ATP-Molekül** finden kannst.
+
+Zudem gibt es auch weitere Arten von glykosidischen Bindungen, 
 
 
-Hier sind multiple-choice Quiz-Fragen zu glykosidischen Bindungen:
+## Mechanismus 
 
-1. Was ist eine glykosidische Bindung?
-   A) Eine Bindung zwischen zwei Proteinen
-   B) Eine Bindung zwischen einem Kohlenhydrat und einer chemischen Gruppe
-   C) Eine Bindung zwischen zwei Lipiden
-   D) Eine Bindung zwischen einem Enzym und einem Substrat
 
-2. Was ist das anomere Kohlenstoffatom in einer glykosidischen Bindung?
-   A) Das C-Atom mit einem Aldehyd
-   B) Das C-Atom mit einer Hydroxygruppe
-   C) Das C-Atom mit einem Ketogruppe
-   D) Das C-Atom mit einem Carbonsäure
+**1. Schritt**: Das Sauerstoffatom des Halbacetals muss zuerst **aktiviert** werden. Dafür kannst du entweder einen **Überschuss an Alkohol** verwenden oder du katalysierst die Reaktion mit **Säure**. Das Sauerstoffatom des Halbacetals kann dann ein **Proton H+** aufnehmen und trägt dann eine positive Ladung.
 
-3. Wo findet man O-glykosidische Bindungen vor allem?
-   A) In Lipiden
-   B) Im Protein-Stoffwechsel
-   C) Im Kohlenhydrat-Stoffwechsel
-   D) In Nukleinsäuren
+![[misc/Media/Übersicht zu den Themen-20240611090405183.jpg|misc/Media/Übersicht zu den Themen-20240611090405183.jpg]]
 
-4. Welche chemische Gruppe kann als Bindungspartner für eine N-glykosidische Bindung dienen?
-   A) Carboxylgruppe
-   B) Aminogruppe
-   C) Hydroxygruppe
-   D) Methylgruppe
 
-5. Welche Zahlen in der Nomenklatur geben an, welche Kohlenstoffatome durch eine glykosidische Bindung verbunden werden?
-   A) Die erste und letzte Zahl
-   B) Die mittleren Zahlen
-   C) Die ersten beiden Zahlen
-   D) Die letzten beiden Zahlen
+Im **2. Schritt** zieht das Sauerstoffatom die Elektronen aus der Bindung zum anomeren Kohlenstoffatom zu sich. Dadurch spaltet es sich mit den zwei Wasserstoffatomen als **Wasser H2O** ab.
 
-6. Was ist ein anderes Wort für "anomeres Zentrum" in Bezug auf glykosidische Bindungen?
-   A) Chiralitätszentrum
-   B) Carbonylzentrum
-   C) Hydroxyzentrum
-   D) Glykosidzentrum
+![[misc/Media/Übersicht zu den Themen-20240611090624752.jpg|misc/Media/Übersicht zu den Themen-20240611090624752.jpg]]
 
-7. Welche Art von Molekül enthält N-glykosidische Bindungen in Form von Verknüpfungen von Zuckern mit Basen?
-   A) Lipide
-   B) Proteine
-   C) Nukleotide
-   D) Enzyme
+Der **3. Schritt** wird mit dem **nucleophilen Angriff** der Alkoholgruppe des Reaktionspartners auf das nun positiv geladene anomere Kohlenstoffatom eingeleitet. Das zweite Molekül wird somit an den Zucker **addiert**. Das Sauerstoffatom der Hydroxy- oder Alkoholgruppe trägt die positive Ladung.
 
-8. Wie werden glykosidische Bindungen nach dem Reaktionspartner unterschieden?
-   A) Nach der Stellung der Aminogruppe
-   B) Nach der Stellung der Hydroxygruppe
-   C) Nach der Stellung der Carboxylgruppe
-   D) Nach der Stellung der Methylgruppe
+![[misc/Media/Übersicht zu den Themen-20240611090646589.jpg|misc/Media/Übersicht zu den Themen-20240611090646589.jpg]]
 
-9. Was passiert bei der Bildung einer O-glykosidischen Bindung?
-   A) Es wird Wasser abgespalten
-   B) Es wird Sauerstoff freigesetzt
-   C) Es wird Kohlendioxid produziert
-   D) Es wird Stickstoff gebunden
+Im **4. Schritt** möchte das Sauerstoffatom die positive Ladung wieder loswerden und macht das, indem es ein **Proton H+ abspaltet**. Damit liegt nun eine glykosidische Bindung vor.
 
-10. Welche Art von Bindung entsteht, wenn das anomere Kohlenstoffatom eine Aminogruppe als Bindungspartner nimmt?
-   A) O-glykosidische Bindung
-   B) N-glykosidische Bindung
-   C) Peptidbindung
-   D) Esterbindung
+![[misc/Media/Übersicht zu den Themen-20240611090659896.jpg|misc/Media/Übersicht zu den Themen-20240611090659896.jpg]]
+
