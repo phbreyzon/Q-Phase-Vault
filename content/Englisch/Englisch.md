@@ -65,7 +65,6 @@
 		- **London Bombings**
 			- [[Attackers|Attackers]]
 			- [[Background Al-Quaeda|Background Al-Quaeda]]
-			- [[Conspiracy theories|Conspiracy theories]]
 			- [[Effects on Muslim community and hate crimes|Effects on Muslim community and hate crimes]]
 			- [[Framework|Framework]]
 			- [[General information|General information]]
@@ -80,11 +79,13 @@
 			- [[Even more tasks|Even more tasks]]
 			- [[Extremism|Extremism]]
 			- [[More tasks|More tasks]]
-		- **The british Empire**
+		- **The elephant Empire**
 			- [[Entry|Entry]]
 			- [[Findings|Findings]]
 			- [[Past and present|Past and present]]
 			- [[Shooting an Elephant|Shooting an Elephant]]
+			- [[Untitled|Untitled]]
+		- [[The embassy of boredom|The embassy of boredom]]
 - **vocabulary**
 	- **General vocabulary**
 
