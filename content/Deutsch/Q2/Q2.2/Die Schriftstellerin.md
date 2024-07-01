@@ -1,0 +1,11 @@
+
+- DDR, 70er Jahre, Enkelin einer Jüdin 
+- geflohen nach Russland (Ufa)
+- lebte dort lange
+- dort wird ihr Sohn geboren 
+- überzeugte Kommunistin 
+	- Schickt den Sohn vier Jahre in ein Kinderheim → glaubt an die Kollektive Erziehung
+- Enkelin: “Die unberechtigte Eigenbesitzerin”
+- Verwandtschaft im Westen
+- Viele Wiederholungen
+- Heimkehr: I-c-h-k-e-h-r-e-h-e-i-m
