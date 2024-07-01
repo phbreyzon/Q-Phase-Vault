@@ -65,5 +65,11 @@ la déception = die Entäuschung
 
 ![[misc/Media/Felicien-20240610090434126.jpg|misc/Media/Felicien-20240610090434126.jpg]]
 
-
-
+- Malika
+- une femme de ménage
+- Il va au berau du personnelle 
+- La secretaire ce trouve dans le bureau 
+- bof
+- Le femme de ménage connais sa mére
+- Il vient de Tizi-Ouzou
+- Samira était inirmiére à la maternité il y a 20 ans
