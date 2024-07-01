@@ -60,6 +60,7 @@
 			- [[Ursachen des ersten Weltkriegs|Ursachen des ersten Weltkriegs]]
 			- [[Verlauf des ersten Welkrieges|Verlauf des ersten Welkrieges]]
 		- **Weimarer Republik**
+			- [[Außenpolitik|Außenpolitik]]
 			- **Belastungen**
 				- [[Der Versailler Vertrag|Der Versailler Vertrag]]
 				- [[Nachwirkungen des Versailler Vertrags|Nachwirkungen des Versailler Vertrags]]
@@ -70,6 +71,7 @@
 			- **Krisenjahre**
 				- [[Einstieg|Einstieg]]
 			- [[Themen der Arbeit|Themen der Arbeit]]
+			- [[Untergang|Untergang]]
 			- [[Wie man Arbeiten schreibt|Wie man Arbeiten schreibt]]
 
 %% End Waypoint %%
