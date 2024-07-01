@@ -45,7 +45,6 @@
 		- **glykosidische Bindungen**
 			- [[Präsentationsthema|Präsentationsthema]]
 			- [[Übersicht zu den Themen|Übersicht zu den Themen]]
-			- [[Übersicht|Übersicht]]
 		- [[Übungen zu Carbonsäuren|Übungen zu Carbonsäuren]]
 
 %% End Waypoint %%
