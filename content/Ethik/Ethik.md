@@ -31,9 +31,10 @@
 		- [[Universellen Entscheidungskompass|Universellen Entscheidungskompass]]
 		- [[Weiter Notizen|Weiter Notizen]]
 	- **Q2.2**
+		- [[Aristoteles|Aristoteles]]
 		- [[Autonomieformel|Autonomieformel]]
 		- [[Der Quantitätsutilitarisums|Der Quantitätsutilitarisums]]
-		- [[Die Schriftstellerin|Die Schriftstellerin]]
+		- [[Handlungs und Regelutilitarismus|Handlungs und Regelutilitarismus]]
 		- [[Präferenzutilitarismus|Präferenzutilitarismus]]
 		- [[Selbstzweckformel|Selbstzweckformel]]
 		- [[Themen der Arbeit Utilitarismus & Kant 2|Themen der Arbeit Utilitarismus & Kant 2]]

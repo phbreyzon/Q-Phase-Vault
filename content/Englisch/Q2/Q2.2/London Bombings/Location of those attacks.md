@@ -4,4 +4,4 @@
 3. King’s Cross St. Pancras/Russell Square 
 4. Tavistock Square 
 
-Everything happend in the London Underground 
+mostly everything happend in the London Underground 
