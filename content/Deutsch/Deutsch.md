@@ -48,12 +48,15 @@
 		- [[Der Gärtner|Der Gärtner]]
 		- [[Der Rotarmist|Der Rotarmist]]
 		- [[Die Besucherin|Die Besucherin]]
+		- [[Die Schriftstellerin|Die Schriftstellerin]]
 		- [[Findings 2|Findings 2]]
 		- [[Findings|Findings]]
 		- [[Lektüre|Lektüre]]
 		- [[More|More]]
 		- [[Notes on the findings|Notes on the findings]]
 		- [[The characters|The characters]]
+		- [[too much more|too much more]]
+		- [[Warum das Buch scheiße ist|Warum das Buch scheiße ist]]
 		- [[Zitate|Zitate]]
 
 %% End Waypoint %%
